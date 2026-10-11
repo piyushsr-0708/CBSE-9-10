@@ -1,0 +1,388 @@
+{
+  "board": "CBSE",
+  "academic_year": "2026-27",
+  "class": "10",
+  "subject": "maths",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Maths_SecP1X_2026-27.pdf",
+  "source_pdf": "cbse_class10_maths_2026_27.pdf",
+  "extracted_at": "2026-09-30T18:02:09.799463+00:00",
+  "extraction_method": "gemini_repaired",
+  "curriculum": [
+    {
+      "name": "NUMBER SYSTEMS",
+      "type": "unit",
+      "children": [
+        {
+          "name": "REAL NUMBERS",
+          "type": "chapter",
+          "children": [
+            {
+              "type": "topic",
+              "name": "Fundamental Theorem of Arithmetic",
+              "children": [],
+              "id": "CBSE10_MATH_01_CHA01_TOP01"
+            },
+            {
+              "type": "topic",
+              "name": "Proofs of irrationality of √2, √3, √5",
+              "children": [],
+              "id": "CBSE10_MATH_01_CHA01_TOP02"
+            }
+          ],
+          "id": "CBSE10_MATH_01_CHA01"
+        }
+      ],
+      "id": "CBSE10_MATH_01"
+    },
+    {
+      "name": "ALGEBRA",
+      "type": "unit",
+      "children": [
+        {
+          "name": "POLYNOMIALS",
+          "type": "chapter",
+          "children": [
+            {
+              "type": "topic",
+              "name": "Zeros of a polynomial",
+              "children": [],
+              "id": "CBSE10_MATH_02_CHA01_TOP01"
+            },
+            {
+              "type": "topic",
+              "name": "Relationship between zeros and coefficients of quadratic polynomials",
+              "children": [],
+              "id": "CBSE10_MATH_02_CHA01_TOP02"
+            }
+          ],
+          "id": "CBSE10_MATH_02_CHA01"
+        },
+        {
+          "name": "PAIR OF LINEAR EQUATIONS IN TWO VARIABLES",
+          "type": "chapter",
+          "children": [
+            {
+              "type": "topic",
+              "name": "Pair of linear equations in two variables and graphical method of their solution, consistency/inconsistency",
+              "children": [],
+              "id": "CBSE10_MATH_02_CHA02_TOP01"
+            },
+            {
+              "type": "topic",
+              "name": "Algebraic conditions for number of solutions",
+              "children": [],
+              "id": "CBSE10_MATH_02_CHA02_TOP02"
+            },
+            {
+              "type": "topic",
+              "name": "Solution of a pair of linear equations in two variables algebraically - by substitution, by elimination",
+              "children": [],
+              "id": "CBSE10_MATH_02_CHA02_TOP03"
+            },
+            {
+              "type": "topic",
+              "name": "Simple situational problems",
+              "children": [],
+              "id": "CBSE10_MATH_02_CHA02_TOP04"
+            }
+          ],
+          "id": "CBSE10_MATH_02_CHA02"
+        },
+        {
+          "name": "QUADRATIC EQUATIONS",
+          "type": "chapter",
+          "children": [
+            {
+              "type": "topic",
+              "name": "Standard form of a quadratic equation ax2 + bx + c = 0, (a ≠ 0)",
+              "children": [],
+              "id": "CBSE10_MATH_02_CHA03_TOP01"
+            },
+            {
+              "type": "topic",
+              "name": "Solutions of quadratic equations (only real roots) by factorization, and by using quadratic formula",
+              "children": [],
+              "id": "CBSE10_MATH_02_CHA03_TOP02"
+            },
+            {
+              "type": "topic",
+              "name": "Relationship between discriminant and nature of roots",
+              "children": [],
+              "id": "CBSE10_MATH_02_CHA03_TOP03"
+            },
+            {
+              "type": "topic",
+              "name": "Situational problems based on quadratic equations",
+              "children": [],
+              "id": "CBSE10_MATH_02_CHA03_TOP04"
+            }
+          ],
+          "id": "CBSE10_MATH_02_CHA03"
+        },
+        {
+          "name": "ARITHMETIC PROGRESSIONS",
+          "type": "chapter",
+          "children": [
+            {
+              "type": "topic",
+              "name": "Motivation for studying Arithmetic Progression",
+              "children": [],
+              "id": "CBSE10_MATH_02_CHA04_TOP01"
+            },
+            {
+              "type": "topic",
+              "name": "Derivation of the nth term and sum of the first n terms of AP and their application in solving daily life problems",
+              "children": [],
+              "id": "CBSE10_MATH_02_CHA04_TOP02"
+            }
+          ],
+          "id": "CBSE10_MATH_02_CHA04"
+        }
+      ],
+      "id": "CBSE10_MATH_02"
+    },
+    {
+      "name": "COORDINATE GEOMETRY",
+      "type": "unit",
+      "children": [
+        {
+          "name": "COORDINATE GEOMETRY",
+          "type": "chapter",
+          "children": [
+            {
+              "type": "topic",
+              "name": "Review: Concepts of coordinate geometry",
+              "children": [],
+              "id": "CBSE10_MATH_03_CHA01_TOP01"
+            },
+            {
+              "type": "topic",
+              "name": "Distance formula",
+              "children": [],
+              "id": "CBSE10_MATH_03_CHA01_TOP02"
+            },
+            {
+              "type": "topic",
+              "name": "Section formula (internal division)",
+              "children": [],
+              "id": "CBSE10_MATH_03_CHA01_TOP03"
+            }
+          ],
+          "id": "CBSE10_MATH_03_CHA01"
+        }
+      ],
+      "id": "CBSE10_MATH_03"
+    },
+    {
+      "name": "GEOMETRY",
+      "type": "unit",
+      "children": [
+        {
+          "name": "TRIANGLES",
+          "type": "chapter",
+          "children": [
+            {
+              "type": "topic",
+              "name": "Definitions, examples, counter examples of similar triangles",
+              "children": [],
+              "id": "CBSE10_MATH_04_CHA01_TOP01"
+            },
+            {
+              "type": "topic",
+              "name": "Basic Proportionality Theorem and its converse",
+              "children": [],
+              "id": "CBSE10_MATH_04_CHA01_TOP02"
+            },
+            {
+              "type": "topic",
+              "name": "Similarity criteria for triangles",
+              "children": [],
+              "id": "CBSE10_MATH_04_CHA01_TOP03"
+            }
+          ],
+          "id": "CBSE10_MATH_04_CHA01"
+        },
+        {
+          "name": "CIRCLES",
+          "type": "chapter",
+          "children": [
+            {
+              "type": "topic",
+              "name": "Tangent to a circle at point of contact",
+              "children": [],
+              "id": "CBSE10_MATH_04_CHA02_TOP01"
+            },
+            {
+              "type": "topic",
+              "name": "Theorem: The tangent at any point of a circle is perpendicular to the radius through the point of contact",
+              "children": [],
+              "id": "CBSE10_MATH_04_CHA02_TOP02"
+            },
+            {
+              "type": "topic",
+              "name": "Theorem: The lengths of tangents drawn from an external point to a circle are equal",
+              "children": [],
+              "id": "CBSE10_MATH_04_CHA02_TOP03"
+            }
+          ],
+          "id": "CBSE10_MATH_04_CHA02"
+        }
+      ],
+      "id": "CBSE10_MATH_04"
+    },
+    {
+      "name": "TRIGONOMETRY",
+      "type": "unit",
+      "children": [
+        {
+          "name": "INTRODUCTION TO TRIGONOMETRY",
+          "type": "chapter",
+          "children": [
+            {
+              "type": "topic",
+              "name": "Trigonometric ratios of an acute angle of a right-angled triangle",
+              "children": [],
+              "id": "CBSE10_MATH_05_CHA01_TOP01"
+            },
+            {
+              "type": "topic",
+              "name": "Trigonometric ratios of 0°, 30°, 45°, 60°, and 90°",
+              "children": [],
+              "id": "CBSE10_MATH_05_CHA01_TOP02"
+            },
+            {
+              "type": "topic",
+              "name": "Relationships between the ratios",
+              "children": [],
+              "id": "CBSE10_MATH_05_CHA01_TOP03"
+            }
+          ],
+          "id": "CBSE10_MATH_05_CHA01"
+        },
+        {
+          "name": "TRIGONOMETRIC IDENTITIES",
+          "type": "chapter",
+          "children": [
+            {
+              "type": "topic",
+              "name": "Proof and applications of the identity sin2A + cos2A = 1",
+              "children": [],
+              "id": "CBSE10_MATH_05_CHA02_TOP01"
+            },
+            {
+              "type": "topic",
+              "name": "Simple identities",
+              "children": [],
+              "id": "CBSE10_MATH_05_CHA02_TOP02"
+            }
+          ],
+          "id": "CBSE10_MATH_05_CHA02"
+        },
+        {
+          "name": "HEIGHTS AND DISTANCES",
+          "type": "chapter",
+          "children": [
+            {
+              "type": "topic",
+              "name": "Angle of elevation",
+              "children": [],
+              "id": "CBSE10_MATH_05_CHA03_TOP01"
+            },
+            {
+              "type": "topic",
+              "name": "Angle of Depression",
+              "children": [],
+              "id": "CBSE10_MATH_05_CHA03_TOP02"
+            },
+            {
+              "type": "topic",
+              "name": "Simple problems on heights and distances",
+              "children": [],
+              "id": "CBSE10_MATH_05_CHA03_TOP03"
+            }
+          ],
+          "id": "CBSE10_MATH_05_CHA03"
+        }
+      ],
+      "id": "CBSE10_MATH_05"
+    },
+    {
+      "name": "MENSURATION",
+      "type": "unit",
+      "children": [
+        {
+          "name": "AREAS RELATED TO CIRCLES",
+          "type": "chapter",
+          "children": [
+            {
+              "type": "topic",
+              "name": "Area of sectors and segments of a circle",
+              "children": [],
+              "id": "CBSE10_MATH_06_CHA01_TOP01"
+            },
+            {
+              "type": "topic",
+              "name": "Problems based on areas and perimeter/circumference of plane figures",
+              "children": [],
+              "id": "CBSE10_MATH_06_CHA01_TOP02"
+            }
+          ],
+          "id": "CBSE10_MATH_06_CHA01"
+        },
+        {
+          "name": "SURFACE AREAS AND VOLUMES",
+          "type": "chapter",
+          "children": [
+            {
+              "type": "topic",
+              "name": "Surface areas and volumes of combinations of cubes, cuboids, spheres, hemispheres and right circular cylinders/cones",
+              "children": [],
+              "id": "CBSE10_MATH_06_CHA02_TOP01"
+            }
+          ],
+          "id": "CBSE10_MATH_06_CHA02"
+        }
+      ],
+      "id": "CBSE10_MATH_06"
+    },
+    {
+      "name": "STATISTICS AND PROBABILITY",
+      "type": "unit",
+      "children": [
+        {
+          "name": "STATISTICS",
+          "type": "chapter",
+          "children": [
+            {
+              "type": "topic",
+              "name": "Mean, median and mode of grouped data",
+              "children": [],
+              "id": "CBSE10_MATH_07_CHA01_TOP01"
+            }
+          ],
+          "id": "CBSE10_MATH_07_CHA01"
+        },
+        {
+          "name": "PROBABILITY",
+          "type": "chapter",
+          "children": [
+            {
+              "type": "topic",
+              "name": "Classical definition of probability",
+              "children": [],
+              "id": "CBSE10_MATH_07_CHA02_TOP01"
+            },
+            {
+              "type": "topic",
+              "name": "Simple problems on finding the probability of an event",
+              "children": [],
+              "id": "CBSE10_MATH_07_CHA02_TOP02"
+            }
+          ],
+          "id": "CBSE10_MATH_07_CHA02"
+        }
+      ],
+      "id": "CBSE10_MATH_07"
+    }
+  ]
+}

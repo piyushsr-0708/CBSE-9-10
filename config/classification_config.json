@@ -1,0 +1,8 @@
+{
+  "provider": "google-genai",
+  "model": "gemini-3.1-flash-lite",
+  "temperature": 0.0,
+  "batch_size": 20,
+  "auto_verify_threshold": 0.90,
+  "review_threshold": 0.70
+}

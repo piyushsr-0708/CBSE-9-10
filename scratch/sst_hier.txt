@@ -1,0 +1,61 @@
+[CBSE9_SST_01] Part 1 (pages [8])
+  [CBSE9_SST_01_CHA01] Understanding Social Science -> 2 topics
+    - Meaning, scope and relevance of Social Science
+    - Understanding Social Science from an Indian perspective
+  [CBSE9_SST_01_CHA02] Shaping of the Earth’s Surface -> 4 topics
+    - Theory of plate tectonics
+    - Interior of the Earth
+    ... +2 more
+  [CBSE9_SST_01_CHA03] Atmosphere and Climate -> 4 topics
+    - Structure and composition; elements of weather and climate
+    - Seasons of India and monsoons
+    ... +2 more
+  [CBSE9_SST_01_CHA04] Early Humans and Beginning of Civilisation -> 8 topics
+    - Cultural development from 2 million years ago
+    - Early human history, periodisation: Archaeological ages
+    ... +6 more
+  [CBSE9_SST_01_CHA05] State and Society (upto 1000 CE) -> 4 topics
+    - Vedic Age — geography; texts; rituals; political institutions, and social order
+    - Administrative structure of early empires
+    ... +2 more
+  [CBSE9_SST_01_CHA06] Democracy -> 4 topics
+    - Meaning features and types of democracy
+    - Roots of democracy in India
+    ... +2 more
+  [CBSE9_SST_01_CHA07] Elections -> 9 topics
+    - Factors of importance of elections
+    - Electoral systems
+    ... +7 more
+  [CBSE9_SST_01_CHA08] The Price Puzzle: What Drives the Market -> 3 topics
+    - Laws of demand and supply
+    - Real-world deviations from textbook theory, such as in case of necessities, luxu
+    ... +1 more
+[CBSE9_SST_02] Part 2 (pages [11])
+  [CBSE9_SST_02_CHA01] Oceans and Life -> 5 topics
+    - Introduction to ocean relief, movement of ocean water- waves, tides and currents
+    - Marine resources and their significance; open seas, navigation fishing, and live
+    ... +3 more
+  [CBSE9_SST_02_CHA02] Life on Earth -> 4 topics
+    - Biomes: Distribution and characteristics; biosphere reserves in India
+    - Forest and ecotourism; forest dwellers, their livelihoods, and challenges
+    ... +2 more
+  [CBSE9_SST_02_CHA03] Resistance and Resilience (1000 CE – 1700 CE) -> 5 topics
+    - Safeguarding sovereignty: resistance, alliances and confederacies
+    - Development of art and architecture, languages and literature
+    ... +3 more
+  [CBSE9_SST_02_CHA04] India and the World-I (1900 BCE- 1200 CE) -> 3 topics
+    - Trade and commerce — trade with Mesopotamia, Greece, Roman Empire, China and Sou
+    - Cultural Connections — Interactions with Greece and Rome, Central Asia, China, a
+    ... +1 more
+  [CBSE9_SST_02_CHA05] Authority -> 4 topics
+    - The Roots of Authority: in Kautilya and shukraniti- danda and relationship with 
+    - Constitutional status of justice and security since ancient times
+    ... +2 more
+  [CBSE9_SST_02_CHA06] From Ideas to Startups -> 7 topics
+    - What is entrepreneurship and explain the resources required to start a business
+    - Case studies of successful entrepreneurs
+    ... +5 more
+  [CBSE9_SST_02_CHA07] Smart Ways to Manage Your Finances -> 7 topics
+    - Relevance of personal financial management in daily life
+    - Inflation and its impact on purchasing power
+    ... +5 more

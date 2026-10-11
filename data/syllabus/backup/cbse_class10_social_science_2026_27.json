@@ -1,0 +1,925 @@
+{
+  "board": "CBSE",
+  "academic_year": "2026-27",
+  "class": "10",
+  "subject": "social_science",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/SocialScience_SecP1X_2026-27.pdf",
+  "source_pdf": "cbse_class10_social_science_2026_27.pdf",
+  "extracted_at": "2026-09-29T19:06:51.576092+00:00",
+  "extraction_method": "official_pdf_verified_fallback",
+  "curriculum": [
+    {
+      "id": "CBSE10_SST_01",
+      "name": "HISTORY: India and the Contemporary World - II",
+      "type": "unit",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        2
+      ],
+      "children": [
+        {
+          "id": "CBSE10_SST_01_CHA01",
+          "name": "The Rise of Nationalism in Europe",
+          "type": "chapter",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            2
+          ],
+          "children": [
+            {
+              "id": "CBSE10_SST_01_CHA01_LEA01",
+              "name": "Infer how French Revolution had an impact on the European countries in the making of a nation state",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                2
+              ]
+            },
+            {
+              "id": "CBSE10_SST_01_CHA01_LEA02",
+              "name": "Comprehend the nature of the diverse social movements of the time",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                2
+              ]
+            },
+            {
+              "id": "CBSE10_SST_01_CHA01_LEA03",
+              "name": "Analyse and infer the evolution of the idea of nationalism which led to the formation of nation states in Europe and elsewhere",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                2
+              ]
+            },
+            {
+              "id": "CBSE10_SST_01_CHA01_LEA04",
+              "name": "Evaluate the reasons which led to the First World War",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                2
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE10_SST_01_CHA02",
+          "name": "Nationalism in India",
+          "type": "chapter",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            3
+          ],
+          "children": [
+            {
+              "id": "CBSE10_SST_01_CHA02_LEA01",
+              "name": "Illustrate various facets of Nationalistic movements that ushered in the sense of Collective Belonging",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                3
+              ]
+            },
+            {
+              "id": "CBSE10_SST_01_CHA02_LEA02",
+              "name": "Evaluate the effectiveness of the strategies applied by Gandhiji and other leaders in the movements organised by him",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                3
+              ]
+            },
+            {
+              "id": "CBSE10_SST_01_CHA02_LEA03",
+              "name": "Summarise the effects of the First World War that triggered the two defining movements (Khilafat & Non- Cooperation Movement) in India",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE10_SST_01_CHA03",
+          "name": "The Making of a Global World",
+          "type": "chapter",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            3
+          ],
+          "children": [
+            {
+              "id": "CBSE10_SST_01_CHA03_SUB01",
+              "name": "The pre-modern world",
+              "type": "subtopic",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                3
+              ]
+            },
+            {
+              "id": "CBSE10_SST_01_CHA03_SUB02",
+              "name": "19th century 1815 -1914",
+              "type": "subtopic",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                3
+              ]
+            },
+            {
+              "id": "CBSE10_SST_01_CHA03_SUB03",
+              "name": "The inter-war economy",
+              "type": "subtopic",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                3
+              ]
+            },
+            {
+              "id": "CBSE10_SST_01_CHA03_SUB04",
+              "name": "Rebuilding of world economy: the post war era",
+              "type": "subtopic",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                3
+              ]
+            },
+            {
+              "id": "CBSE10_SST_01_CHA03_LEA05",
+              "name": "Summarise the changes that transformed the world in different areas",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                3
+              ]
+            },
+            {
+              "id": "CBSE10_SST_01_CHA03_LEA06",
+              "name": "Depict the global interconnectedness from the Pre-modern to the present day",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                3
+              ]
+            },
+            {
+              "id": "CBSE10_SST_01_CHA03_LEA07",
+              "name": "Enumerate the destructive impact of colonialism on the livelihoods of colonised people",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE10_SST_01_CHA04",
+          "name": "The Age of Industrialisation",
+          "type": "chapter",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            3
+          ],
+          "children": [
+            {
+              "id": "CBSE10_SST_01_CHA04_LEA01",
+              "name": "Enumerate economic, political, social features of Pre and Post Industrialization",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                3
+              ]
+            },
+            {
+              "id": "CBSE10_SST_01_CHA04_LEA02",
+              "name": "Analyse and infer how the industrialization impacted colonies with specific focus on India",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE10_SST_01_CHA05",
+          "name": "Print culture and the Modern World",
+          "type": "chapter",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            3
+          ],
+          "children": [
+            {
+              "id": "CBSE10_SST_01_CHA05_LEA01",
+              "name": "Enumerate the development of Print from its beginnings in East Asia to its expansion in Europe and India",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                3
+              ]
+            },
+            {
+              "id": "CBSE10_SST_01_CHA05_LEA02",
+              "name": "Compare and contrast the old tradition of handwritten manuscripts versus print technology",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                3
+              ]
+            },
+            {
+              "id": "CBSE10_SST_01_CHA05_LEA03",
+              "name": "Summarise the role of Print revolution and its impact",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_SST_02",
+      "name": "Geography: Contemporary India - II",
+      "type": "unit",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        4
+      ],
+      "children": [
+        {
+          "id": "CBSE10_SST_02_CHA01",
+          "name": "Resources and Development",
+          "type": "chapter",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ],
+          "children": [
+            {
+              "id": "CBSE10_SST_02_CHA01_LEA01",
+              "name": "Enumerates how the resources are interdependent, justify how planning is essential in judicious utilisation of resources and the need to develop them in India",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE10_SST_02_CHA01_LEA02",
+              "name": "Infer the rationale for development of resources",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE10_SST_02_CHA01_LEA03",
+              "name": "Analyse and evaluate data and information related to non-optimal land, utilization in India",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE10_SST_02_CHA01_LEA04",
+              "name": "Suggest remedial measures for optimal utilization of underutilized resources",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE10_SST_02_CHA02",
+          "name": "Forest and Wildlife Resources",
+          "type": "chapter",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ],
+          "children": [
+            {
+              "id": "CBSE10_SST_02_CHA02_LEA01",
+              "name": "Examine the importance of conserving forests and wildlife and their interdependency in maintaining the ecology for the sustainable development of India",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE10_SST_02_CHA02_LEA02",
+              "name": "Analyse the role of grazing and wood cutting in the development and degradation",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE10_SST_02_CHA02_LEA03",
+              "name": "Summarise the reasons for conservation of biodiversity under sustainable development",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE10_SST_02_CHA02_LEA04",
+              "name": "Discuss how developmental works, grazing wood cutting have impacted the forests",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE10_SST_02_CHA03",
+          "name": "Water Resources",
+          "type": "chapter",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ],
+          "children": [
+            {
+              "id": "CBSE10_SST_02_CHA03_LEA01",
+              "name": "Examine the reasons for conservation of water resource in India",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE10_SST_02_CHA03_LEA02",
+              "name": "Analyse and infer how the multipurpose projects are supporting the requirement of water",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE10_SST_02_CHA04",
+          "name": "Agriculture",
+          "type": "chapter",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ],
+          "children": [
+            {
+              "id": "CBSE10_SST_02_CHA04_LEA01",
+              "name": "Examine the crucial role played by agriculture in our economy and society",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE10_SST_02_CHA04_LEA02",
+              "name": "Analyse the challenges faced by the farming community in India",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE10_SST_02_CHA04_LEA03",
+              "name": "Identifies various aspects of agriculture, including crop production, types of farming etc",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE10_SST_02_CHA05",
+          "name": "Minerals and Energy Resources",
+          "type": "chapter",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ],
+          "children": [
+            {
+              "id": "CBSE10_SST_02_CHA05_LEA01",
+              "name": "Enumerate the impact of manufacturing industries on the environment and develop strategies for sustainable development of the manufacturing sector",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE10_SST_02_CHA05_LEA02",
+              "name": "Differentiate between various types of manufacturing industries based on their input materials, processes, and end products, and analyse their significance in the Indian economy",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE10_SST_02_CHA05_LEA03",
+              "name": "Analyse the relation between the availability of raw material and location of the industry",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE10_SST_02_CHA06",
+          "name": "Manufacturing Industries",
+          "type": "chapter",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ],
+          "children": [
+            {
+              "id": "CBSE10_SST_02_CHA06_LEA01",
+              "name": "Enumerates the impact of manufacturing industries on the environment and develop strategies for sustainable development of the sector",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE10_SST_02_CHA06_LEA02",
+              "name": "Differentiates between various types of manufacturing industries based on their input materials, processes, and end products, and analyse their significance in the Indian economy",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE10_SST_02_CHA06_LEA03",
+              "name": "Analyses the relation between the availability of raw material and location of the industry",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE10_SST_02_CHA07",
+          "name": "Life Lines of National Economy",
+          "type": "chapter",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_SST_03",
+      "name": "Political Science: Democratic Politics - II",
+      "type": "unit",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        5
+      ],
+      "children": [
+        {
+          "id": "CBSE10_SST_03_CHA01",
+          "name": "Power - sharing",
+          "type": "chapter",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ],
+          "children": [
+            {
+              "id": "CBSE10_SST_03_CHA01_LEA01",
+              "name": "Enumerate the need for power sharing in democracy",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE10_SST_03_CHA01_LEA02",
+              "name": "Analyse the challenges faced by countries like Belgium and Sri Lanka ensuring effective power sharing",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE10_SST_03_CHA01_LEA03",
+              "name": "Compare and contrast the power sharing of India with Sri Lanka and Belgium",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE10_SST_03_CHA01_LEA04",
+              "name": "Summarise the purpose of power sharing in preserving the unity and stability of a country",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE10_SST_03_CHA02",
+          "name": "Federalism",
+          "type": "chapter",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ],
+          "children": [
+            {
+              "id": "CBSE10_SST_03_CHA02_LEA01",
+              "name": "Infer how federalism is being practised in India",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE10_SST_03_CHA02_LEA02",
+              "name": "Analyse the policies and politics that has strengthened federalism in practice",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE10_SST_03_CHA03",
+          "name": "Gender, Religion and Caste",
+          "type": "chapter",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ],
+          "children": [
+            {
+              "id": "CBSE10_SST_03_CHA03_LEA01",
+              "name": "Examine the role and differences of Gender, religion and Caste in practicing Democracy",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE10_SST_03_CHA03_LEA02",
+              "name": "Analyse that different expressions based on the differences, are healthy or otherwise in a democracy",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE10_SST_03_CHA04",
+          "name": "Political Parties",
+          "type": "chapter",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ],
+          "children": [
+            {
+              "id": "CBSE10_SST_03_CHA04_LEA01",
+              "name": "Understand the process of parties getting elected",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE10_SST_03_CHA04_LEA02",
+              "name": "Know the significance of the right to vote and exercise the duties as citizens of a nation",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE10_SST_03_CHA04_LEA03",
+              "name": "Examine the role, purpose and no. of Political Parties in Democracy",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE10_SST_03_CHA05",
+          "name": "Outcomes of Democracy",
+          "type": "chapter",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ],
+          "children": [
+            {
+              "id": "CBSE10_SST_03_CHA05_LEA01",
+              "name": "Enumerates how the success of democracy depends on quality of government, economic well- being, inequality, social differences, conflict, freedom and dignity",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_SST_04",
+      "name": "Economics: Understanding Economic Development",
+      "type": "unit",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        6
+      ],
+      "children": [
+        {
+          "id": "CBSE10_SST_04_CHA01",
+          "name": "Development",
+          "type": "chapter",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            6
+          ],
+          "children": [
+            {
+              "id": "CBSE10_SST_04_CHA01_LEA01",
+              "name": "Enumerate and examine the different processes involved in setting developmental Goals",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE10_SST_04_CHA01_LEA02",
+              "name": "Analyse and infer how the per capita income depicts the economic condition of the nation",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE10_SST_04_CHA01_LEA03",
+              "name": "Evaluate the development goals with reference to their efficacy, implemental strategies, relevance to current requirements of the nation",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE10_SST_04_CHA01_LEA04",
+              "name": "Compare the per capita income of some countries and infer reasons for the variance",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE10_SST_04_CHA01_LEA05",
+              "name": "Analyse the multiple perspectives on the need of development",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE10_SST_04_CHA02",
+          "name": "Sectors of the Indian Economy",
+          "type": "chapter",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            6
+          ],
+          "children": [
+            {
+              "id": "CBSE10_SST_04_CHA02_LEA01",
+              "name": "Analyse and infer how the economic activities in different sectors contribute to the overall growth and development of the Indian economy",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE10_SST_04_CHA02_LEA02",
+              "name": "Propose solutions to identified problems in different sectors based on their understanding",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE10_SST_04_CHA02_LEA03",
+              "name": "Summarise how the organised and unorganised sectors are providing employment",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE10_SST_04_CHA02_LEA04",
+              "name": "Enumerate the role of the unorganised sector in impacting Per Capita Income currently and propose suggestive steps to reduce the unorganised sector for more productive contributions to GDP",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE10_SST_04_CHA02_LEA05",
+              "name": "Enumerate and infer the essential role of the Public and Private sectors",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE10_SST_04_CHA03",
+          "name": "Money and Credit",
+          "type": "chapter",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            6
+          ],
+          "children": [
+            {
+              "id": "CBSE10_SST_04_CHA03_LEA01",
+              "name": "Enumerate how money plays as a medium exchange in all transactions of goods and services from ancient times to the present times",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE10_SST_04_CHA03_LEA02",
+              "name": "Analyse and infer various sources of Credit",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE10_SST_04_CHA03_LEA03",
+              "name": "Summarise the significance and role of self-help groups in the betterment of the economic condition of rural people/ women",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE10_SST_04_CHA04",
+          "name": "Globalisation and the Indian Economy",
+          "type": "chapter",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            6
+          ],
+          "children": [
+            {
+              "id": "CBSE10_SST_04_CHA04_SUB01",
+              "name": "What is Globalisation?",
+              "type": "subtopic",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE10_SST_04_CHA04_SUB02",
+              "name": "Factors that have enabled Globalisation",
+              "type": "subtopic",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE10_SST_04_CHA04_SUB03",
+              "name": "Production across the countries",
+              "type": "subtopic",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE10_SST_04_CHA04_SUB04",
+              "name": "World Trade Organisation",
+              "type": "subtopic",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE10_SST_04_CHA04_SUB05",
+              "name": "The Struggle for a Fair Globalisation",
+              "type": "subtopic",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE10_SST_04_CHA04_LEA06",
+              "name": "Enumerate the concept of globalisation and its definition, evolution, and impact on the global economy",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE10_SST_04_CHA04_LEA07",
+              "name": "Evaluate the key role of the key major drivers of globalisation and their role in shaping the global economic landscape in various countries",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE10_SST_04_CHA04_LEA08",
+              "name": "Comprehend the significance of role of G20 and its significance in the light of India's role",
+              "type": "learning_outcome",
+              "source_document": "cbse_class10_social_science_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1654 @@
+{
+  "board": "CBSE",
+  "academic_year": "2026-27",
+  "class": "9",
+  "subject": "science",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/ScienceSt_SecP1_2026-27.pdf",
+  "source_pdf": "cbse_class9_science_2026_27.pdf",
+  "extracted_at": "2026-09-30T18:02:25.091721+00:00",
+  "extraction_method": "text_line_parser_science",
+  "curriculum": [
+    {
+      "id": "CBSE9_SCIE_01",
+      "name": "Cell",
+      "type": "chapter",
+      "source_document": "cbse_class9_science_2026_27.pdf",
+      "source_pages": [
+        4
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SCIE_01_TOP01",
+          "name": "Discovery of cell C-3.1 • Differentiate between plant and animal cell,",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_01_TOP02",
+          "name": "Plant and animal cells prokaryote and eukaryote",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_01_TOP03",
+          "name": "Prokaryotic and • Describe the structural and functional features of",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_01_TOP04",
+          "name": "Cell as a structural and • Explain the role of cells in the structure and",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_01_TOP05",
+          "name": "Permeability of cell",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_01_TOP06",
+          "name": "Cellular division and",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_01_TOP07",
+          "name": "Recent advancement in structure and function of cell",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_01_TOP08",
+          "name": "Analyze result and present finding using scientific",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SCIE_02",
+      "name": "Tissues",
+      "type": "chapter",
+      "source_document": "cbse_class9_science_2026_27.pdf",
+      "source_pages": [
+        5
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SCIE_02_TOP01",
+          "name": "Level of organisation in complex tissues; parenchyma, collenchyma and",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_02_TOP02",
+          "name": "Plant and animal tissues and cardiac muscles;",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_02_TOP03",
+          "name": "Types of plant tissues • Different types of joints",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_02_TOP04",
+          "name": "Meristematic tissues • Relate the structure of the different types of",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_02_TOP05",
+          "name": "Permanent tissues plants and animals",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_02_TOP06",
+          "name": "Animal tissues C-5.3 • Establish the correlation between different tissues",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            6
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_02_TOP07",
+          "name": "Overview (epithelial, for fitness, for example, role of muscles, cartilage",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            6
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_02_TOP08",
+          "name": "Elementary idea of",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            6
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_02_TOP09",
+          "name": "Care of musculoskeletal",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            6
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_02_TOP10",
+          "name": "Represent data in multiple modes, including",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            6
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_02_TOP11",
+          "name": "Analyse results and present findings using",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            6
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_02_TOP12",
+          "name": "Communicate findings and conclusions effectively,",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            6
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SCIE_03",
+      "name": "Reproduction",
+      "type": "chapter",
+      "source_document": "cbse_class9_science_2026_27.pdf",
+      "source_pages": [
+        6
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SCIE_03_TOP01",
+          "name": "Introduction to different C-2.8 • Analyse the interactions between members of",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            6
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_03_TOP02",
+          "name": "Describe male and female reproductive organs in",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            6
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_03_TOP03",
+          "name": "Sexual reproduction in",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            6
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_03_TOP04",
+          "name": "Differentiate between ovule and seed; ovary and",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            6
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_03_TOP05",
+          "name": "Explain pollination and fertilisation",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            6
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_03_TOP06",
+          "name": "Sexual reproduction in",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            7
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_03_TOP07",
+          "name": "Reproductive health and",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            7
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SCIE_04",
+      "name": "Diversity",
+      "type": "chapter",
+      "source_document": "cbse_class9_science_2026_27.pdf",
+      "source_pages": [
+        7
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SCIE_04_TOP01",
+          "name": "Importance of C-4.1 • Distinguish organisms based on certain",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            7
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_04_TOP02",
+          "name": "Five kingdoms and their cellular organisation and mode of nutrition",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            7
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_04_TOP03",
+          "name": "Major division of animals and ecological role",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            7
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_04_TOP04",
+          "name": "Binomial nomenclature nomenclature",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            7
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_04_TOP05",
+          "name": "Acellular entities: viruses • Apply binomial nomenclature on some common",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            7
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_04_TOP06",
+          "name": "Discuss ecological role of diverse organisms",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            7
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SCIE_05",
+      "name": "Exploring Mixtures and their Separation",
+      "type": "chapter",
+      "source_document": "cbse_class9_science_2026_27.pdf",
+      "source_pages": [
+        8
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SCIE_05_TOP01",
+          "name": "Homogeneous and C-1.2 • Differentiate between homogeneous and",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_05_TOP02",
+          "name": "Solutions, suspensions, properties",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_05_TOP03",
+          "name": "Various ways to express sublimation, centrifugation and coagulation",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_05_TOP04",
+          "name": "Separation techniques using mass by mass percentage, mass by volume",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_05_TOP05",
+          "name": "Display awareness about the contributions of",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_05_TOP06",
+          "name": "Accurately use scientific instruments, apparatus",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_05_TOP07",
+          "name": "Analyse results and findings using scientific terms",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_05_TOP08",
+          "name": "Represent findings in multiple modes, including",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_05_TOP09",
+          "name": "Communicate findings and conclusions effectively,",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SCIE_06",
+      "name": "Structure of an Atom",
+      "type": "chapter",
+      "source_document": "cbse_class9_science_2026_27.pdf",
+      "source_pages": [
+        9
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SCIE_06_TOP01",
+          "name": "Atoms are the basic C-1.1 • Differentiate between subatomic particles",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_06_TOP02",
+          "name": "Atoms consist of charge, and position in the atom",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_06_TOP03",
+          "name": "Atomic Models energy levels, such as K, L, M, N ... or by numbers",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_06_TOP04",
+          "name": "Distributions of electrons • Calculate the number of electrons, protons, and",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_06_TOP05",
+          "name": "Symbols • Interpret data, such as atomic mass, maximum",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_06_TOP06",
+          "name": "Valency as the number of electrons in a shell, and valency to",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_06_TOP07",
+          "name": "Atomic number • Use scientific conventions as per international",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_06_TOP08",
+          "name": "Mass number standards, such as notations for electron, proton,",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_06_TOP09",
+          "name": "Isotopes neutron, unified atomic mass unit (u), and",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_06_TOP10",
+          "name": "Isobars distribution of electrons in various shells, such as",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_06_TOP11",
+          "name": "Create and present a role play, stage play, or story",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_06_TOP12",
+          "name": "Design and develop games that utilise atomic",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_06_TOP13",
+          "name": "Describe scientific discoveries that explain how the",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_06_TOP14",
+          "name": "Analyse results and present findings using",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_06_TOP15",
+          "name": "Correlate the results and conclusions of different",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_06_TOP16",
+          "name": "Represent data in multiple modes, including",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_06_TOP17",
+          "name": "Communicate findings and conclusions effectively,",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SCIE_07",
+      "name": "Atoms and Molecules",
+      "type": "chapter",
+      "source_document": "cbse_class9_science_2026_27.pdf",
+      "source_pages": [
+        11
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SCIE_07_TOP01",
+          "name": "Law of conservation of C-1.1 • Differentiate between chemical species based on",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_07_TOP02",
+          "name": "Law of constant and molecules, elements and compounds, ionic",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_07_TOP03",
+          "name": "Dalton’s Atomic theory formula unit mass and molecular mass• Plan and",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_07_TOP04",
+          "name": "Molecules of elements, demonstrate activities to observe and verify the law",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_07_TOP05",
+          "name": "Ions, Ionic compounds proportions, and formation of ionic and covalent",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_07_TOP06",
+          "name": "Writing chemical • Calculate the charge on an ion, valency from the",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_07_TOP07",
+          "name": "Molecular mass mass",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_07_TOP08",
+          "name": "Formula unit mass • Use scientific conventions, symbols, and valency to",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_07_TOP09",
+          "name": "Display awareness about the scientific discoveries,",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_07_TOP10",
+          "name": "Handle common laboratory chemicals and",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_07_TOP11",
+          "name": "Relate atomic bonding to social bonding",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_07_TOP12",
+          "name": "Accurately use scientific instruments, apparatus",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_07_TOP13",
+          "name": "Analyse results and findings using scientific terms",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_07_TOP14",
+          "name": "Represent data in multiple modes, including",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_07_TOP15",
+          "name": "Communicate findings and conclusions effectively,",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SCIE_08",
+      "name": "Earth as a System: Energy, Matter & Life",
+      "type": "chapter",
+      "source_document": "cbse_class9_science_2026_27.pdf",
+      "source_pages": [
+        13
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SCIE_08_TOP01",
+          "name": "Earth as interconnected C-2.8 • Explain the interconnectedness between different",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_08_TOP02",
+          "name": "Nature of solar energy: hydrosphere, cryosphere and atmosphere)",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_08_TOP03",
+          "name": "spectrum, and speed of different Frequencies",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_08_TOP04",
+          "name": "Solar energy interaction surface differently based on the shape, latitude and",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_08_TOP05",
+          "name": "Differential warming of etc., and describe phenomena like mountain,",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_08_TOP06",
+          "name": "Biogeochemical cycles • Describe how the latitude and tilt of the Earth, and",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_08_TOP07",
+          "name": "Human impact on • Identify various components of the Earth that",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_08_TOP08",
+          "name": "Explain the role of the atmosphere in influencing",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_08_TOP09",
+          "name": "Identify the reflectivity of different materials through",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_08_TOP10",
+          "name": "Describe how elements like carbon, nitrogen,",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_08_TOP11",
+          "name": "Explain biogeochemical cycles, and the roles of",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_08_TOP12",
+          "name": "Predict the results of an experiment or investigation",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_08_TOP13",
+          "name": "Communicate findings and conclusions effectively,",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SCIE_09",
+      "name": "Motion",
+      "type": "chapter",
+      "source_document": "cbse_class9_science_2026_27.pdf",
+      "source_pages": [
+        14
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SCIE_09_TOP01",
+          "name": "Motion — displacement, C-2.1 • Differentiate between distance travelled and",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_09_TOP02",
+          "name": "Graphical representation moving in a straight line",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_09_TOP03",
+          "name": "Kinematic equations for time graphs to describe the motion of an object",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_09_TOP04",
+          "name": "Elementary idea of velocity-time graph",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_09_TOP05",
+          "name": "Calculate values of unknown physical quantities",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_09_TOP06",
+          "name": "Derive the expression of speed for uniform circular",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_09_TOP07",
+          "name": "Predict about the outcome of an experiment or",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            15
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_09_TOP08",
+          "name": "Identify the variables that are relevant to a scientific",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            15
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_09_TOP09",
+          "name": "Accurately use scientific instruments and",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            15
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_09_TOP10",
+          "name": "Represent data in multiple modes, including tables,",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            15
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_09_TOP11",
+          "name": "Communicate their findings using scientific",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            15
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SCIE_10",
+      "name": "Force and Laws of Motion",
+      "type": "chapter",
+      "source_document": "cbse_class9_science_2026_27.pdf",
+      "source_pages": [
+        15
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SCIE_10_TOP01",
+          "name": "Force; balanced and C-2.1 • Explain that force has magnitude as well as",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            15
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_10_TOP02",
+          "name": "Force of friction • Identify situations in which balanced and",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            15
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_10_TOP03",
+          "name": "Newton’s first law of unbalanced forces are acting on an object",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            15
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_10_TOP04",
+          "name": "Newton’s second law of • Recognise that for an object moving with constant",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            15
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_10_TOP05",
+          "name": "Newton’s third law of velocity (acceleration) is caused by a force",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            15
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_10_TOP06",
+          "name": "State and explain Newton’s second law in terms of",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            15
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_10_TOP07",
+          "name": "Calculate force using mathematical expression of",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            15
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_10_TOP08",
+          "name": "Define SI unit of force",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            15
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_10_TOP09",
+          "name": "State and explain Newton’s third law of motion",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            15
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_10_TOP10",
+          "name": "Apply Newton’s laws of motion to explain everyday",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            15
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_10_TOP11",
+          "name": "Develop a model to represent real-life event",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            15
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_10_TOP12",
+          "name": "Use models to manipulate variables and predict",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            15
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_10_TOP13",
+          "name": "Predict about the outcome of an experiment or",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            16
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_10_TOP14",
+          "name": "Identify the variables that are relevant to a scientific",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            16
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_10_TOP15",
+          "name": "Accurately use scientific instruments and",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            16
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_10_TOP16",
+          "name": "Represent data in multiple modes, including tables,",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            16
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_10_TOP17",
+          "name": "Communicate their findings using scientific",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            16
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SCIE_11",
+      "name": "Work, Energy and Simple Machines",
+      "type": "chapter",
+      "source_document": "cbse_class9_science_2026_27.pdf",
+      "source_pages": [
+        16
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SCIE_11_TOP01",
+          "name": "Concept of work; work C-2.5 • Define work done by a constant force and its SI",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            16
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_11_TOP02",
+          "name": "Work-Energy theorem • Calculate work done by a force using mathematical",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            16
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_11_TOP03",
+          "name": "Mechanical energy, expression",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            16
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_11_TOP04",
+          "name": "Conservation of energy • Define kinetic energy of a moving object and derive",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            16
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_11_TOP05",
+          "name": "Power its mathematical expression",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            16
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_11_TOP06",
+          "name": "Simple machines and • Define potential energy for an object raised to a",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            16
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_11_TOP07",
+          "name": "Explain conversion between potential energy and",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            16
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_11_TOP08",
+          "name": "State the law of conservation of energy",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            16
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_11_TOP09",
+          "name": "Define power and its unit",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            16
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_11_TOP10",
+          "name": "Calculate power using its mathematical expression",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            16
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_11_TOP11",
+          "name": "Define mechanical advantage and calculate its",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            17
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_11_TOP12",
+          "name": "Demonstrate and explain mechanical advantage of",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            17
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_11_TOP13",
+          "name": "Develop model to represent real-life event",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            17
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_11_TOP14",
+          "name": "Use models to manipulate variables and predict",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            17
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_11_TOP15",
+          "name": "Predict about the outcome of an experiment or",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            17
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_11_TOP16",
+          "name": "Identify the variables that are relevant to a scientific",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            17
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_11_TOP17",
+          "name": "Accurately use scientific instruments and",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            17
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_11_TOP18",
+          "name": "Represent data in multiple modes, including tables,",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            17
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_11_TOP19",
+          "name": "Communicate their findings using scientific",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            17
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SCIE_12",
+      "name": "Sound",
+      "type": "chapter",
+      "source_document": "cbse_class9_science_2026_27.pdf",
+      "source_pages": [
+        17
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SCIE_12_TOP01",
+          "name": "Production of sound C-2.7 • Demonstrate the production of sound in multiple",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            17
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_12_TOP02",
+          "name": "Propagation of sound (as ways (through vibration of strings, membranes, air",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            17
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_12_TOP03",
+          "name": "Graphical representation • Demonstrate that sound can travel through",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            17
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_12_TOP04",
+          "name": "Characteristics of sound • Describe that sound needs a medium for",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            17
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_12_TOP05",
+          "name": "Human perception of intensity and speed)",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            18
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_12_TOP06",
+          "name": "Propagation of sound in • Write relationship between time period and",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            18
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_12_TOP07",
+          "name": "Reflection of sound • Calculate speed of sound using its mathematical",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            18
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_12_TOP08",
+          "name": "Describe reflection of sound, and apply it to echo",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            18
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_12_TOP09",
+          "name": "Explain the use of sound waves for echolocation",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            18
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_12_TOP10",
+          "name": "Display awareness about Sir C.V. Raman",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            18
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_12_TOP11",
+          "name": "Develop model to represent real-life event",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            18
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_12_TOP12",
+          "name": "Use models to manipulate variables and predict",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            18
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_12_TOP13",
+          "name": "Predict about the outcome of an experiment or",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            18
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_12_TOP14",
+          "name": "Identify the variables that are relevant to a scientific",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            18
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_12_TOP15",
+          "name": "Accurately use scientific instruments and",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            18
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_12_TOP16",
+          "name": "Represent data in multiple modes, including tables,",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            18
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE9_SCIE_12_TOP17",
+          "name": "Communicate their findings using scientific",
+          "type": "topic",
+          "source_document": "cbse_class9_science_2026_27.pdf",
+          "source_pages": [
+            18
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+[CBSE9_MATH_01] Unit 1: Number System (pages [4])
+  [CBSE9_MATH_01_CHA01] Number System -> 1 topics
+    -  Introduction to rational numbers  Representation of rational numbers on the n
+[CBSE9_MATH_02] Unit II: ALGEBRA (pages [5])
+  [CBSE9_MATH_02_CHA01] Introduction to Polynomials -> 1 topics
+    -  Algebraic expressions  Definition of a polynomial.  Degree of a polynomial 
+  [CBSE9_MATH_02_CHA02] Sequences and Progressions -> 1 topics
+    -  Introduction to sequences  Explicit or general rule of a sequence  Recursive
+  [CBSE9_MATH_02_CHA03] Exploring Algebraic Identities -> 1 topics
+    -  Revisiting algebraic identities  Visualising identities using geometrical mod
+  [CBSE9_MATH_02_CHA04] Linear Equations in Two Variables -> 1 topics
+    -  Introduction to linear equations in two variables through practical examples 
+[CBSE9_MATH_03] Unit III: COORDINATE GEOMETRY (pages [7])
+  [CBSE9_MATH_03_CHA01] Coordinate Geometry -> 1 topics
+    -  Brief history of coordinate geometry  The 2-D Cartesian coordinate system  D
+[CBSE9_MATH_04] Unit IV: GEOMETRY (pages [7])
+  [CBSE9_MATH_04_CHA01] Introduction to Euclid’s Geometry: Axioms and Postulates -> 1 topics
+    -  History of geometry  Constructing a square with a given side as described in 
+  [CBSE9_MATH_04_CHA02] Lines and Angles -> 1 topics
+    -  Rays and angles  Measures of angles  Intersecting lines and angles  Pairs o
+  [CBSE9_MATH_04_CHA03] Triangles: Congruence Theorems -> 1 topics
+    -  Practical applications of triangles  Proofs of conditions of congruence of tr
+  [CBSE9_MATH_04_CHA04] 4-gons (Quadrilaterals) -> 1 topics
+    -  Properties of parallelograms  Important theorems related to parallelograms an
+  [CBSE9_MATH_04_CHA05] Circles -> 1 topics
+    -  Practical applications and uses of circles  Definitions related to a circle —
+[CBSE9_MATH_05] Unit V: MENSURATION (pages [10])
+  [CBSE9_MATH_05_CHA01] Mensuration : Area and Perimeter -> 2 topics
+    -  Perimeter of shapes  Perimeter of a circle: Introduction to Pi and its irrati
+    -  Area of shapes: rectangles, parallelograms, and triangles  Heron’s formula  
+  [CBSE9_MATH_05_CHA02] Mensuration : Surface Area and Volume -> 1 topics
+    -  Surface areas and volumes of spheres (including hemispheres) and right circula
+[CBSE9_MATH_06] Unit VI: STATISTICS AND PROBABILITY (pages [12])
+  [CBSE9_MATH_06_CHA01] Statistics -> 1 topics
+    -  Graphical representation of data  Measures of central tendency
+  [CBSE9_MATH_06_CHA02] Introduction to Probability -> 1 topics
+    -  Concept of probability and randomness  The probability scale  Empirical prob

@@ -1,0 +1,19 @@
+Traceback (most recent call last):
+  File "<string>", line 5, in <module>
+    runpy.run_path('scripts/rectify_syllabuses.py', run_name='__main__')
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "scripts/rectify_syllabuses.py", line 182, in <module>
+    main()
+    ~~~~^^
+  File "scripts/rectify_syllabuses.py", line 147, in main
+    pre_clean_count = count_nodes(data.get("curriculum", []))
+  File "scripts/rectify_syllabuses.py", line 93, in count_nodes
+    count += count_nodes(n.get("children", []))
+             ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "scripts/rectify_syllabuses.py", line 93, in count_nodes
+    count += count_nodes(n.get("children", []))
+                         ^^^^^
+AttributeError: 'str' object has no attribute 'get'

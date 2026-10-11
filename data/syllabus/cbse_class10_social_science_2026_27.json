@@ -1,0 +1,912 @@
+{
+  "board": "CBSE",
+  "academic_year": "2026-27",
+  "class": "10",
+  "subject": "social_science",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/SocialScience_SecP1X_2026-27.pdf",
+  "source_pdf": "cbse_class10_social_science_2026_27.pdf",
+  "extracted_at": "2026-09-30T18:02:17.309857+00:00",
+  "extraction_method": "table_aware_parser_v4",
+  "curriculum": [
+    {
+      "id": "CBSE10_SST_01",
+      "name": "The Rise of Nationalism in Europe",
+      "type": "topic",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        1
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_02",
+      "name": "Nationalism in India",
+      "type": "topic",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        1
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_03",
+      "name": "The Making of a Global World (To be evaluated in the Board Examination Subtopics: 1 to 1.3 Pre Modern World to Conquest, disease and trade)",
+      "type": "topic",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        1
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_04",
+      "name": "Interdisciplinary project as part of multiple assessments (Internally assessed for 5 marks) Subtopics 2 to 4.4 –The nineteenth century (1815-1914) to end of Bretton Woods & the beginning of “Globalisation”",
+      "type": "topic",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        1
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_05",
+      "name": "The Age of Industrialisation (Tobe assessed as part of Periodic Assessment only)",
+      "type": "topic",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        1
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_06",
+      "name": "Print Culture and the Modern world",
+      "type": "topic",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        1
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_07",
+      "name": "Resources and Development",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        1
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_08",
+      "name": "Forest and Wildlife Resources",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        1
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_09",
+      "name": "Water resources",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        1
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_10",
+      "name": "Agriculture",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        1
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_11",
+      "name": "Minerals and energy Resources",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        1
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_12",
+      "name": "Manufacturing Industries",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        1
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_13",
+      "name": "Lifelines of National Economy (Onlymap pointing to be evaluated in the Board Examination)",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        1
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_14",
+      "name": "Gender, Religion and Caste",
+      "type": "topic",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        2
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_15",
+      "name": "Political Parties",
+      "type": "topic",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        2
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_16",
+      "name": "Outcomes of Democracy",
+      "type": "topic",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        2
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_17",
+      "name": "Development",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        2
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_18",
+      "name": "Sectors of the Indian Economy",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        2
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_19",
+      "name": "Money and Credit",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        2
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_20",
+      "name": " Globalisation and the Indian Economy to be evaluated in the Board Examination  What is Globalisation?  Factors that have enabled Globalisation",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        2
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_21",
+      "name": "List of areas to be located/ labeled/ identified on the",
+      "type": "topic",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        7
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_22",
+      "name": "Nationalism in India",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        7
+      ],
+      "children": [
+        {
+          "id": "CBSE10_SST_22_TOP01",
+          "name": "I. Congress sessions:  1920 Calcutta  1920 Nagpur  1927 Madras session II. 3 Satyagraha movements:  Kheda  Champaran  Ahmedabad mill workers III. Jallianwala Bagh IV. Dandi March",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            7
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_SST_23",
+      "name": "Resources and Development",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        7
+      ],
+      "children": [
+        {
+          "id": "CBSE10_SST_23_TOP01",
+          "name": "Identify Major Soil Types",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            7
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_SST_24",
+      "name": "Water Resources",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        7
+      ],
+      "children": [
+        {
+          "id": "CBSE10_SST_24_TOP01",
+          "name": "Locating and Labeling:  Salal Sardar Sarovar  Bhakra Nangal Hirakund  Tehri Nagarjun Sagar  Rana Pratap Sagar Tungabhadra",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            7
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_SST_25",
+      "name": "Agriculture",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        7
+      ],
+      "children": [
+        {
+          "id": "CBSE10_SST_25_TOP01",
+          "name": "Identify:  Major areas of Rice and Wheat  Largest/Major producer states of Sugarcane, Tea, Coffee,  Rubber, Cotton and Jute",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            7
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_SST_26",
+      "name": "Minerals and Energy Resources",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        7
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_27",
+      "name": "Sardar Sarovar Hirakund Nagarjun Sagar Tungabhadra",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        7
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_28",
+      "name": "Coal Mines Raniganj Bokaro Talcher Neyveli",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        7
+      ],
+      "children": [
+        {
+          "id": "CBSE10_SST_28_TOP01",
+          "name": "Oil Fields Digboi Naharkatia Mumbai High Bassien Kalol Ankaleshwar",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            7
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE10_SST_28_TOP02",
+          "name": "Locate and label: Power Plants T hermal Nuclear  Namrup  Narora  Singrauli  Kakrapara  Ramagundam  Tarapur  Kalpakkam",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_SST_29",
+      "name": "Manufacturing Industries",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        8
+      ],
+      "children": [
+        {
+          "id": "CBSE10_SST_29_TOP01",
+          "name": " Manufacturing Industries (Locating and labeling only)  Cotton textile Industries: a. Mumbai, b. Indore, c. Surat, d. Kanpur, e. Coimbatore  Iron and Steel Plants: a. Durgapur, b. Bokaro, c. Jamshedpur, d. Bhilai, e. Vijayanagar, f. Salem  Software technology Parks: a. Noida, b. Gandhi- nagar, c. Mumbai, d. Pune, e. Hyderabad, f. Bengaluru, g. Chennai,h. Thiruvananthapuram",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_SST_30",
+      "name": "Lifelines of National Economy",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        8
+      ],
+      "children": [
+        {
+          "id": "CBSE10_SST_30_TOP01",
+          "name": "Locating and Labeling a. Major Sea Ports",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE10_SST_30_TOP02",
+          "name": "Kandla",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE10_SST_30_TOP03",
+          "name": "Tuticorin",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE10_SST_30_TOP04",
+          "name": "Mumbai",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE10_SST_30_TOP05",
+          "name": "Chennai",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE10_SST_30_TOP06",
+          "name": "Marmagao",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE10_SST_30_TOP07",
+          "name": "Visakhapatnam",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE10_SST_30_TOP08",
+          "name": "New Mangalore",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE10_SST_30_TOP09",
+          "name": "Paradip",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE10_SST_30_TOP10",
+          "name": "Kochi",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE10_SST_30_TOP11",
+          "name": "Haldia b. International Airports  Amritsar (Raja Sansi-Sri Guru Ram Das ji)  Delhi (Indira Gandhi)  Mumbai (Chhatrapati Shivaji)  Chennai (Meenambakkam)  Kolkata (Netaji Subhash Chandra Bose)  Hyderabad (Rajiv Gandhi)",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_SST_31",
+      "name": "Nuclear",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        8
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_32",
+      "name": " Narora  Kakrapara  Tarapur  Kalpakkam",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        8
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_33",
+      "name": "• Tuticorin • Chennai • Visakhapatnam • Paradip • Haldia",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        8
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_34",
+      "name": "Syllabus",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        9
+      ],
+      "children": [
+        {
+          "id": "CBSE10_SST_34_TOP01",
+          "name": "Marks",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE10_SST_34_TOP02",
+          "name": "(80)",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_SST_35",
+      "name": " The Rise of Nationalism in Europe.  Nationalism in India:  The Making of a Global World Sub topics 1 to 1.3  Print Culture and the Modern World  Map pointing",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        9
+      ],
+      "children": [
+        {
+          "id": "CBSE10_SST_35_TOP01",
+          "name": "18+2",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_SST_36",
+      "name": " Power – sharing  Federalism  Gender, Religion and Caste  Political Parties  Outcomes of Democracy",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        9
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_37",
+      "name": " Resources and Development  Forest and Wildlife Resources  Water Resources  Agriculture  Mineral& Energy resources  Manufacturing industries.  Lifelines of National Economy (map pointing)  Map pointing",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        9
+      ],
+      "children": [
+        {
+          "id": "CBSE10_SST_37_TOP01",
+          "name": "17+3",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_SST_38",
+      "name": " Development  Sectors of the Indian Economy  Money and Credit  Globalisation and The Indian Economy Sub topics:  What is Globalisation?  Factors that have enabled Globalisation",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        9
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_39",
+      "name": "Marks (80)",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        10
+      ],
+      "children": [
+        {
+          "id": "CBSE10_SST_39_TOP01",
+          "name": "Percent age",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE10_SST_39_TOP02",
+          "name": "18.75%",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ],
+          "children": []
+        },
+        {
+          "id": "CBSE10_SST_39_TOP03",
+          "name": "6.25%",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_SST_40",
+      "name": "Remembering and Understanding: Exhibiting memory of previously learned material by recalling facts, terms, basic concepts, and answers; Demonstrating understanding of facts and ideas by organizing, translating, interpreting, giving descriptions and stating main ideas.",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        10
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_41",
+      "name": "Applying: Solving problems to new situations by applying acquired knowledge, facts, techniques and rules in a different way.",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        10
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_42",
+      "name": "Analysing, Evaluating and Creating: Examining and breaking information into parts by identifying motives or causes; Making inferences and finding evidence to support generalizations; Presenting and defending opinions by making judgments about information, validity of ideas, or quality of work based on a set of criteria. Compiling information together in a different way by combining elements in a new pattern or proposing alternative solutions.",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        10
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_43",
+      "name": "Map Skill",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        10
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_44",
+      "name": "History",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        11
+      ],
+      "children": [
+        {
+          "id": "CBSE10_SST_44_TOP01",
+          "name": "India and the Contemporary World-II",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_SST_45",
+      "name": "Political Science",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        11
+      ],
+      "children": [
+        {
+          "id": "CBSE10_SST_45_TOP01",
+          "name": "Democratic Politics-II",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_SST_46",
+      "name": "Geography",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        11
+      ],
+      "children": [
+        {
+          "id": "CBSE10_SST_46_TOP01",
+          "name": "Contemporary India-II",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_SST_47",
+      "name": "Economics",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        11
+      ],
+      "children": [
+        {
+          "id": "CBSE10_SST_47_TOP01",
+          "name": "Understanding Economic Development",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_SST_48",
+      "name": "Disaster Management",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        11
+      ],
+      "children": [
+        {
+          "id": "CBSE10_SST_48_TOP01",
+          "name": "Together, towards a safer India- Part III",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_SST_49",
+      "name": "Name of",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        12
+      ],
+      "children": [
+        {
+          "id": "CBSE10_SST_49_TOP01",
+          "name": "Suggested Teaching",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_SST_50",
+      "name": "the",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        12
+      ],
+      "children": [
+        {
+          "id": "CBSE10_SST_50_TOP01",
+          "name": "Learning Process",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_SST_51",
+      "name": "Chapter",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        12
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_SST_52",
+      "name": "Making of a Global World Lifelines of National Economy",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        12
+      ],
+      "children": [
+        {
+          "id": "CBSE10_SST_52_TOP01",
+          "name": "The teachers may use the following pedagogies in facilitating the students in completion of Interdisciplinary Project. 1) Constructivism 2) Inquiry based learning 3) Cooperative learning 4) Learning station 5) Collaborative learning 6) Videos/ Visuals/ documentaries/ movie clippings 7) Carousel technique 8) Art integrated learning Group Discussions Multiple Assessment: Ex. Surveys/ Interviews/ Research work/ Observation/ Story based",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_SST_53",
+      "name": "Globalisation on and the Indian Economy",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        12
+      ],
+      "children": [
+        {
+          "id": "CBSE10_SST_53_TOP01",
+          "name": "Presentation/ Art integration/ Quiz/ Debate/ role play/ viva, /group discussion, /visual expression/ interactive bulletin boards/ gallery walks/ exit cards/ concept maps/ peer assessment/ art integration /Self - assessment/integrati on of technology etc.",
+          "type": "topic",
+          "source_document": "cbse_class10_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_SST_54",
+      "name": "Marks allocated",
+      "type": "chapter",
+      "source_document": "cbse_class10_social_science_2026_27.pdf",
+      "source_pages": [
+        17
+      ],
+      "children": []
+    }
+  ]
+}

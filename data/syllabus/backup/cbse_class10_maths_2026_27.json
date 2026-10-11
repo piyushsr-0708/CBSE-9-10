@@ -1,0 +1,562 @@
+{
+  "board": "CBSE",
+  "academic_year": "2026-27",
+  "class": "10",
+  "subject": "maths",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Maths_SecP1X_2026-27.pdf",
+  "source_pdf": "cbse_class10_maths_2026_27.pdf",
+  "extracted_at": "2026-09-29T19:06:51.561515+00:00",
+  "extraction_method": "official_pdf_verified_fallback",
+  "curriculum": [
+    {
+      "id": "CBSE10_MATH_01",
+      "name": "NUMBER SYSTEMS",
+      "type": "unit",
+      "source_document": "cbse_class10_maths_2026_27.pdf",
+      "source_pages": [
+        3
+      ],
+      "children": [
+        {
+          "id": "CBSE10_MATH_01_CHA01",
+          "name": "REAL NUMBERS",
+          "type": "chapter",
+          "source_document": "cbse_class10_maths_2026_27.pdf",
+          "source_pages": [
+            3
+          ],
+          "children": [
+            {
+              "id": "CBSE10_MATH_01_CHA01_TOP01",
+              "name": "Fundamental Theorem of Arithmetic",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                3
+              ]
+            },
+            {
+              "id": "CBSE10_MATH_01_CHA01_TOP02",
+              "name": "Proofs of irrationality",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_MATH_02",
+      "name": "ALGEBRA",
+      "type": "unit",
+      "source_document": "cbse_class10_maths_2026_27.pdf",
+      "source_pages": [
+        3,
+        4
+      ],
+      "children": [
+        {
+          "id": "CBSE10_MATH_02_CHA01",
+          "name": "POLYNOMIALS",
+          "type": "chapter",
+          "source_document": "cbse_class10_maths_2026_27.pdf",
+          "source_pages": [
+            3
+          ],
+          "children": [
+            {
+              "id": "CBSE10_MATH_02_CHA01_TOP01",
+              "name": "Zeros of a polynomial",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                3
+              ]
+            },
+            {
+              "id": "CBSE10_MATH_02_CHA01_TOP02",
+              "name": "Relationship between zeros and coefficients of quadratic polynomials",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE10_MATH_02_CHA02",
+          "name": "PAIR OF LINEAR EQUATIONS IN TWO VARIABLES",
+          "type": "chapter",
+          "source_document": "cbse_class10_maths_2026_27.pdf",
+          "source_pages": [
+            4
+          ],
+          "children": [
+            {
+              "id": "CBSE10_MATH_02_CHA02_TOP01",
+              "name": "Pair of linear equations in two variables and graphical method of their solution, consistency/inconsistency",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE10_MATH_02_CHA02_TOP02",
+              "name": "Algebraic conditions for number of solutions",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE10_MATH_02_CHA02_TOP03",
+              "name": "Solution of a pair of linear equations in two variables algebraically - by substitution, by elimination",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE10_MATH_02_CHA03",
+          "name": "QUADRATIC EQUATIONS",
+          "type": "chapter",
+          "source_document": "cbse_class10_maths_2026_27.pdf",
+          "source_pages": [
+            4
+          ],
+          "children": [
+            {
+              "id": "CBSE10_MATH_02_CHA03_TOP01",
+              "name": "Standard form of a quadratic equation",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE10_MATH_02_CHA03_TOP02",
+              "name": "Solutions of quadratic equations (only real roots) by factorization, and by using quadratic formula",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE10_MATH_02_CHA03_TOP03",
+              "name": "Situational problems based on quadratic equations related to day-to-day activities to be incorporated",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE10_MATH_02_CHA04",
+          "name": "ARITHMETIC PROGRESSIONS",
+          "type": "chapter",
+          "source_document": "cbse_class10_maths_2026_27.pdf",
+          "source_pages": [
+            4
+          ],
+          "children": [
+            {
+              "id": "CBSE10_MATH_02_CHA04_TOP01",
+              "name": "Motivation for studying Arithmetic Progression",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE10_MATH_02_CHA04_TOP02",
+              "name": "Derivation of the nth term and sum of the first n terms of AP and their application in solving daily life problems",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_MATH_03",
+      "name": "COORDINATE GEOMETRY",
+      "type": "unit",
+      "source_document": "cbse_class10_maths_2026_27.pdf",
+      "source_pages": [
+        5
+      ],
+      "children": [
+        {
+          "id": "CBSE10_MATH_03_CHA01",
+          "name": "Coordinate Geometry",
+          "type": "chapter",
+          "source_document": "cbse_class10_maths_2026_27.pdf",
+          "source_pages": [
+            5
+          ],
+          "children": [
+            {
+              "id": "CBSE10_MATH_03_CHA01_TOP01",
+              "name": "Review: Concepts of coordinate geometry. Distance formula. Section formula (internal division)",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_MATH_04",
+      "name": "GEOMETRY",
+      "type": "unit",
+      "source_document": "cbse_class10_maths_2026_27.pdf",
+      "source_pages": [
+        5,
+        6
+      ],
+      "children": [
+        {
+          "id": "CBSE10_MATH_04_CHA01",
+          "name": "TRIANGLES",
+          "type": "chapter",
+          "source_document": "cbse_class10_maths_2026_27.pdf",
+          "source_pages": [
+            5
+          ],
+          "children": [
+            {
+              "id": "CBSE10_MATH_04_CHA01_TOP01",
+              "name": "Definitions, examples, counter examples of similar triangles",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE10_MATH_04_CHA01_TOP02",
+              "name": "(Prove) If a line is drawn parallel to one side of a triangle to intersect the other two sides in distinct points, the other two sides are divided in the same ratio",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE10_MATH_04_CHA01_TOP03",
+              "name": "State (without proof) If a line divides two sides of a triangle in the same ratio, the line is parallel to the third side",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE10_MATH_04_CHA01_TOP04",
+              "name": "State (without proof) If in two triangles, the corresponding angles are equal, their corresponding sides are proportional and the triangles are similar",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE10_MATH_04_CHA01_TOP05",
+              "name": "State (without proof) If the corresponding sides of two triangles are proportional, their corresponding angles are equal and the two triangles are similar",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE10_MATH_04_CHA01_TOP06",
+              "name": "State (without proof) If one angle of a triangle is equal to one angle of another triangle and the sides including these angles are proportional, the two triangles are similar",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE10_MATH_04_CHA02",
+          "name": "CIRCLES",
+          "type": "chapter",
+          "source_document": "cbse_class10_maths_2026_27.pdf",
+          "source_pages": [
+            6
+          ],
+          "children": [
+            {
+              "id": "CBSE10_MATH_04_CHA02_TOP01",
+              "name": "Tangent to a circle at point of contact",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE10_MATH_04_CHA02_TOP02",
+              "name": "(Prove) The tangent at any point of a circle is perpendicular to the radius through the point of contact",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE10_MATH_04_CHA02_TOP03",
+              "name": "(Prove) The lengths of tangents drawn from an external point to a circle are equal",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_MATH_05",
+      "name": "TRIGONOMETRY",
+      "type": "unit",
+      "source_document": "cbse_class10_maths_2026_27.pdf",
+      "source_pages": [
+        6
+      ],
+      "children": [
+        {
+          "id": "CBSE10_MATH_05_CHA01",
+          "name": "INTRODUCTION TO TRIGONOMETRY",
+          "type": "chapter",
+          "source_document": "cbse_class10_maths_2026_27.pdf",
+          "source_pages": [
+            6
+          ],
+          "children": [
+            {
+              "id": "CBSE10_MATH_05_CHA01_TOP01",
+              "name": "Trigonometric ratios of an acute angle of a right-angled triangle. Proof of their existence (well defined)",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE10_MATH_05_CHA01_TOP02",
+              "name": "Motivate the ratios whichever are defined at 0 degrees and 90 degrees. Values of the trigonometric ratios of 30, 45 and 60",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE10_MATH_05_CHA01_TOP03",
+              "name": "Relationships between the ratios",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE10_MATH_05_CHA02",
+          "name": "TRIGONOMETRIC IDENTITIES",
+          "type": "chapter",
+          "source_document": "cbse_class10_maths_2026_27.pdf",
+          "source_pages": [
+            6
+          ],
+          "children": [
+            {
+              "id": "CBSE10_MATH_05_CHA02_TOP01",
+              "name": "Proof and applications of the identity sin2A + cos2A = 1",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE10_MATH_05_CHA02_TOP02",
+              "name": "Only simple identities to be given",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE10_MATH_05_CHA03",
+          "name": "HEIGHTS AND DISTANCES",
+          "type": "chapter",
+          "source_document": "cbse_class10_maths_2026_27.pdf",
+          "source_pages": [
+            6
+          ],
+          "children": [
+            {
+              "id": "CBSE10_MATH_05_CHA03_TOP01",
+              "name": "Angle of elevation, Angle of Depression",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE10_MATH_05_CHA03_TOP02",
+              "name": "Simple problems on heights and distances. Problems should not involve more than two right triangles",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_MATH_06",
+      "name": "MENSURATION",
+      "type": "unit",
+      "source_document": "cbse_class10_maths_2026_27.pdf",
+      "source_pages": [
+        7
+      ],
+      "children": [
+        {
+          "id": "CBSE10_MATH_06_CHA01",
+          "name": "AREAS RELATED TO CIRCLES",
+          "type": "chapter",
+          "source_document": "cbse_class10_maths_2026_27.pdf",
+          "source_pages": [
+            7
+          ],
+          "children": [
+            {
+              "id": "CBSE10_MATH_06_CHA01_TOP01",
+              "name": "Area of sectors and segments of a circle",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE10_MATH_06_CHA01_TOP02",
+              "name": "Problems based on areas and perimeter / circumference of the above said plane figures",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE10_MATH_06_CHA02",
+          "name": "SURFACE AREAS AND VOLUMES",
+          "type": "chapter",
+          "source_document": "cbse_class10_maths_2026_27.pdf",
+          "source_pages": [
+            7
+          ],
+          "children": [
+            {
+              "id": "CBSE10_MATH_06_CHA02_TOP01",
+              "name": "Surface areas and volumes of combinations of any two of the following: cubes, cuboids, spheres, hemispheres and right circular cylinders/cones",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_MATH_07",
+      "name": "STATISTICS AND PROBABILITY",
+      "type": "unit",
+      "source_document": "cbse_class10_maths_2026_27.pdf",
+      "source_pages": [
+        7
+      ],
+      "children": [
+        {
+          "id": "CBSE10_MATH_07_CHA01",
+          "name": "STATISTICS",
+          "type": "chapter",
+          "source_document": "cbse_class10_maths_2026_27.pdf",
+          "source_pages": [
+            7
+          ],
+          "children": [
+            {
+              "id": "CBSE10_MATH_07_CHA01_TOP01",
+              "name": "Mean, median and mode of grouped data (bimodal situation to be avoided)",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE10_MATH_07_CHA02",
+          "name": "PROBABILITY",
+          "type": "chapter",
+          "source_document": "cbse_class10_maths_2026_27.pdf",
+          "source_pages": [
+            7
+          ],
+          "children": [
+            {
+              "id": "CBSE10_MATH_07_CHA02_TOP01",
+              "name": "Classical definition of probability. Simple problems on finding the probability of an event",
+              "type": "topic",
+              "source_document": "cbse_class10_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

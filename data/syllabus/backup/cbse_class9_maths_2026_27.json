@@ -1,0 +1,1428 @@
+{
+  "board": "CBSE",
+  "academic_year": "2026-27",
+  "class": "9",
+  "subject": "maths",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Maths_SecP1IX_2026-27.pdf",
+  "source_pdf": "cbse_class9_maths_2026_27.pdf",
+  "extracted_at": "2026-09-29T19:06:51.565189+00:00",
+  "extraction_method": "official_pdf_verified_fallback",
+  "curriculum": [
+    {
+      "id": "CBSE9_MATH_01",
+      "name": "I",
+      "type": "chapter",
+      "source_document": "cbse_class9_maths_2026_27.pdf",
+      "source_pages": [
+        4
+      ],
+      "children": [
+        {
+          "id": "CBSE9_MATH_01_TOP01",
+          "name": "Number System",
+          "type": "topic",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_MATH_02",
+      "name": "II",
+      "type": "chapter",
+      "source_document": "cbse_class9_maths_2026_27.pdf",
+      "source_pages": [
+        4
+      ],
+      "children": [
+        {
+          "id": "CBSE9_MATH_02_TOP01",
+          "name": "Algebra",
+          "type": "topic",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_MATH_03",
+      "name": "III",
+      "type": "chapter",
+      "source_document": "cbse_class9_maths_2026_27.pdf",
+      "source_pages": [
+        4
+      ],
+      "children": [
+        {
+          "id": "CBSE9_MATH_03_TOP01",
+          "name": "Coordinate",
+          "type": "topic",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        },
+        {
+          "id": "CBSE9_MATH_03_TOP02",
+          "name": "Geometry",
+          "type": "topic",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_MATH_04",
+      "name": "IV",
+      "type": "chapter",
+      "source_document": "cbse_class9_maths_2026_27.pdf",
+      "source_pages": [
+        4
+      ],
+      "children": [
+        {
+          "id": "CBSE9_MATH_04_TOP01",
+          "name": "Geometry",
+          "type": "topic",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_MATH_05",
+      "name": "V",
+      "type": "chapter",
+      "source_document": "cbse_class9_maths_2026_27.pdf",
+      "source_pages": [
+        4
+      ],
+      "children": [
+        {
+          "id": "CBSE9_MATH_05_TOP01",
+          "name": "Mensuration",
+          "type": "topic",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_MATH_06",
+      "name": "VI",
+      "type": "chapter",
+      "source_document": "cbse_class9_maths_2026_27.pdf",
+      "source_pages": [
+        4
+      ],
+      "children": [
+        {
+          "id": "CBSE9_MATH_06_TOP01",
+          "name": "Statistics and",
+          "type": "topic",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        },
+        {
+          "id": "CBSE9_MATH_06_TOP02",
+          "name": "Probability",
+          "type": "topic",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        },
+        {
+          "id": "CBSE9_MATH_06_TOP03",
+          "name": "Total",
+          "type": "topic",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_MATH_07",
+      "name": "Unit 1: Number System",
+      "type": "unit",
+      "source_document": "cbse_class9_maths_2026_27.pdf",
+      "source_pages": [
+        4
+      ],
+      "children": [
+        {
+          "id": "CBSE9_MATH_07_CHA01",
+          "name": "Number System",
+          "type": "chapter",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            4
+          ],
+          "children": [
+            {
+              "id": "CBSE9_MATH_07_CHA01_TOP01",
+              "name": "Introduction to rational",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA01_TOP02",
+              "name": "numbers",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA01_TOP03",
+              "name": "Representation of",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA01_TOP04",
+              "name": "rational numbers on the",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA01_TOP05",
+              "name": "number line",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA01_TOP06",
+              "name": "Density of rational",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA01_TOP07",
+              "name": "numbers and its proof",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA01_TOP08",
+              "name": "Finding rational numbers",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA01_TOP09",
+              "name": "between any two rational",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA01_TOP10",
+              "name": "numbers",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA01_TOP11",
+              "name": "Decimal representation",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA01_TOP12",
+              "name": "of rational numbers",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA01_TOP13",
+              "name": "Introduction to irrational",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA01_TOP14",
+              "name": "numbers",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA01_TOP15",
+              "name": "Proof of irrationality of",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA01_TOP16",
+              "name": "√2 and √3",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA01_TOP17",
+              "name": "The square root spiral",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                4
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA01_TOP18",
+              "name": "UNIT II: ALGEBRA No. of periods : 66",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_MATH_07_CHA02",
+          "name": "Introduction to Polynomials",
+          "type": "chapter",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            5
+          ],
+          "children": [
+            {
+              "id": "CBSE9_MATH_07_CHA02_TOP01",
+              "name": "Algebraic expressions",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA02_TOP02",
+              "name": "Definition of a",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA02_TOP03",
+              "name": "polynomial.",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA02_TOP04",
+              "name": "Degree of a polynomial",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA02_TOP05",
+              "name": "Introduction to linear",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA02_TOP06",
+              "name": "polynomials and",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA02_TOP07",
+              "name": "applications",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA02_TOP08",
+              "name": "Exploring linear patterns",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA02_TOP09",
+              "name": "Modelling linear growth",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA02_TOP10",
+              "name": "and linear decay",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA02_TOP11",
+              "name": "Linear relationships",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA02_TOP12",
+              "name": "Visualising linear",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA02_TOP13",
+              "name": "relationships",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA02_TOP14",
+              "name": "Slope and y-intercept of",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA02_TOP15",
+              "name": "a line y = ax + b",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_MATH_07_CHA03",
+          "name": "Sequences and Progression s",
+          "type": "chapter",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            5
+          ],
+          "children": [
+            {
+              "id": "CBSE9_MATH_07_CHA03_TOP01",
+              "name": "Introduction to",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA03_TOP02",
+              "name": "sequences",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA03_TOP03",
+              "name": "Explicit or general rule",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA03_TOP04",
+              "name": "of a sequence",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA03_TOP05",
+              "name": "Recursive rule of a",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA03_TOP06",
+              "name": "sequence",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA03_TOP07",
+              "name": "Arithmetic Progressions",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA03_TOP08",
+              "name": "(AP): nth term,",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA03_TOP09",
+              "name": "visualising an AP, and",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA03_TOP10",
+              "name": "practical contexts",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA03_TOP11",
+              "name": "leading to Aps",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA03_TOP12",
+              "name": "Sum of the first n",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA03_TOP13",
+              "name": "natural numbers",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA03_TOP14",
+              "name": "Geometric",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA03_TOP15",
+              "name": "Progressions (GP): nth",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA03_TOP16",
+              "name": "term, visualising a GP,",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA03_TOP17",
+              "name": "and practical contexts",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA03_TOP18",
+              "name": "leading to GPs",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA03_TOP19",
+              "name": "Applications of GP in",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA03_TOP20",
+              "name": "fractals",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA03_TOP21",
+              "name": "Tower of Hanoi puzzle",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_MATH_07_CHA04",
+          "name": "Exploring Algebraic Identities",
+          "type": "chapter",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            6
+          ],
+          "children": [
+            {
+              "id": "CBSE9_MATH_07_CHA04_TOP01",
+              "name": "Revisiting algebraic",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA04_TOP02",
+              "name": "identities",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA04_TOP03",
+              "name": "Visualising identities",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA04_TOP04",
+              "name": "using geometrical",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA04_TOP05",
+              "name": "models",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA04_TOP06",
+              "name": "Factorisation of algebraic",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA04_TOP07",
+              "name": "expressions using",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA04_TOP08",
+              "name": "identities",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA04_TOP09",
+              "name": "More identities and their",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA04_TOP10",
+              "name": "applications",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA04_TOP11",
+              "name": "Visualising factorisation",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA04_TOP12",
+              "name": "of quadratic expressions",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA04_TOP13",
+              "name": "through algebra tiles and",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA04_TOP14",
+              "name": "without using algebra",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA04_TOP15",
+              "name": "tiles",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA04_TOP16",
+              "name": "Finding new identities",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA04_TOP17",
+              "name": "Simplifying rational",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA04_TOP18",
+              "name": "expressions",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_MATH_07_CHA05",
+          "name": "Linear Equations in Two Variables",
+          "type": "chapter",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            6
+          ],
+          "children": [
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP01",
+              "name": "Introduction to linear",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP02",
+              "name": "equations in two",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP03",
+              "name": "variables through",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP04",
+              "name": "practical examples",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP05",
+              "name": "Solution of linear",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP06",
+              "name": "equation in two variables:",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP07",
+              "name": "graphical representation",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP08",
+              "name": "Slope-intercept form of",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP09",
+              "name": "linear equation in two",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP10",
+              "name": "variables",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP11",
+              "name": "Drawing graphs of linear",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP12",
+              "name": "equations when x and y",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP13",
+              "name": "assume only certain",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP14",
+              "name": "values",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP15",
+              "name": "Pair of linear equations in",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP16",
+              "name": "two variables",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP17",
+              "name": "Graphical method for",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP18",
+              "name": "solving a pair of linear",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP19",
+              "name": "equations in two",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP20",
+              "name": "variables",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP21",
+              "name": "Nature of solutions:",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP22",
+              "name": "consistency and",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP23",
+              "name": "inconsistency",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP24",
+              "name": "Algebraic methods of",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP25",
+              "name": "solving a pair of linear",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP26",
+              "name": "equations: substitution",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP27",
+              "name": "and elimination method",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA05_TOP28",
+              "name": "UNIT III: COORDINATE GEOMETRY No. of periods : 6",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_MATH_07_CHA06",
+          "name": "Coordinate Geometry",
+          "type": "chapter",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            7
+          ],
+          "children": [
+            {
+              "id": "CBSE9_MATH_07_CHA06_TOP01",
+              "name": "Brief history of",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA06_TOP02",
+              "name": "coordinate geometry",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA06_TOP03",
+              "name": "The 2-D Cartesian",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA06_TOP04",
+              "name": "coordinate system",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA06_TOP05",
+              "name": "Distance between two",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA06_TOP06",
+              "name": "points in the 2-D plane",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA06_TOP07",
+              "name": "Midpoint of the line-",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA06_TOP08",
+              "name": "segment between two",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA06_TOP09",
+              "name": "points in the 2-D plane",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA06_TOP10",
+              "name": "UNIT IV: GEOMETRY No. of periods : 69",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_MATH_07_CHA07",
+          "name": "Introduction to Euclid’s Geometry: Axioms and Postulates",
+          "type": "chapter",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            7
+          ],
+          "children": [
+            {
+              "id": "CBSE9_MATH_07_CHA07_TOP01",
+              "name": "History of geometry",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA07_TOP02",
+              "name": "Constructing a square",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA07_TOP03",
+              "name": "with a given side as",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA07_TOP04",
+              "name": "described in the",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA07_TOP05",
+              "name": "Baudhayana’s",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA07_TOP06",
+              "name": "Sulbasutras",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA07_TOP07",
+              "name": "Discovering Euclid’s",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA07_TOP08",
+              "name": "definitions",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA07_TOP09",
+              "name": "Axioms: Axioms of",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA07_TOP10",
+              "name": "measurement and rules",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA07_TOP11",
+              "name": "for geometric objects",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_MATH_07_CHA08",
+          "name": "Lines and Angles",
+          "type": "chapter",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            7
+          ],
+          "children": [
+            {
+              "id": "CBSE9_MATH_07_CHA08_TOP01",
+              "name": "Rays and angles",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA08_TOP02",
+              "name": "Measures of angles",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA08_TOP03",
+              "name": "Intersecting lines and",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA08_TOP04",
+              "name": "angles",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA08_TOP05",
+              "name": "Pairs of angles",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA08_TOP06",
+              "name": "Theorems and examples",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA08_TOP07",
+              "name": "on intersecting lines",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA08_TOP08",
+              "name": "Theorems and examples",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            },
+            {
+              "id": "CBSE9_MATH_07_CHA08_TOP09",
+              "name": "on parallel lines",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

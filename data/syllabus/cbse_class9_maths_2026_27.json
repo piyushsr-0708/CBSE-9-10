@@ -1,0 +1,403 @@
+{
+  "board": "CBSE",
+  "academic_year": "2026-27",
+  "class": "9",
+  "subject": "maths",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Maths_SecP1IX_2026-27.pdf",
+  "source_pdf": "cbse_class9_maths_2026_27.pdf",
+  "extracted_at": "2026-09-30T18:02:12.736350+00:00",
+  "extraction_method": "table_aware_parser_v4",
+  "curriculum": [
+    {
+      "id": "CBSE9_MATH_01",
+      "name": "Unit 1: Number System",
+      "type": "unit",
+      "source_document": "cbse_class9_maths_2026_27.pdf",
+      "source_pages": [
+        4
+      ],
+      "children": [
+        {
+          "id": "CBSE9_MATH_01_CHA01",
+          "name": "Number System",
+          "type": "chapter",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            4
+          ],
+          "children": [
+            {
+              "id": "CBSE9_MATH_01_CHA01_TOP01",
+              "name": " Introduction to rational numbers  Representation of rational numbers on the number line  Density of rational numbers and its proof  Finding rational numbers between any two rational numbers  Decimal representation of rational numbers  Introduction to irrational numbers  Proof of irrationality of √2 and √3  The square root spiral",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                4
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_MATH_02",
+      "name": "Unit II: ALGEBRA",
+      "type": "unit",
+      "source_document": "cbse_class9_maths_2026_27.pdf",
+      "source_pages": [
+        5
+      ],
+      "children": [
+        {
+          "id": "CBSE9_MATH_02_CHA01",
+          "name": "Introduction to Polynomials",
+          "type": "chapter",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            5
+          ],
+          "children": [
+            {
+              "id": "CBSE9_MATH_02_CHA01_TOP01",
+              "name": " Algebraic expressions  Definition of a polynomial.  Degree of a polynomial  Introduction to linear polynomials and applications  Exploring linear patterns  Modelling linear growth and linear decay  Linear relationships  Visualising linear relationships  Slope and y-intercept of a line y = ax + b",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_MATH_02_CHA02",
+          "name": "Sequences and Progressions",
+          "type": "chapter",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            5
+          ],
+          "children": [
+            {
+              "id": "CBSE9_MATH_02_CHA02_TOP01",
+              "name": " Introduction to sequences  Explicit or general rule of a sequence  Recursive rule of a sequence  Arithmetic Progressions  (AP): nth term, visualising an AP, and practical contexts leading to Aps  Sum of the first n natural numbers  Geometric Progressions (GP): nth term, visualising a GP, and practical contexts leading to GPs  Applications of GP in fractals  Tower of Hanoi puzzle",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                5
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_MATH_02_CHA03",
+          "name": "Exploring Algebraic Identities",
+          "type": "chapter",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            6
+          ],
+          "children": [
+            {
+              "id": "CBSE9_MATH_02_CHA03_TOP01",
+              "name": " Revisiting algebraic identities  Visualising identities using geometrical models  Factorisation of algebraic expressions using identities  More identities and their applications  Visualising factorisation of quadratic expressions through algebra tiles and without using algebra tiles  Finding new identities  Simplifying rational expressions",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_MATH_02_CHA04",
+          "name": "Linear Equations in Two Variables",
+          "type": "chapter",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            6
+          ],
+          "children": [
+            {
+              "id": "CBSE9_MATH_02_CHA04_TOP01",
+              "name": " Introduction to linear equations in two variables through practical examples  Solution of linear equation in two variables: graphical representation  Slope-intercept form of linear equation in two variables  Drawing graphs of linear equations when x and y assume only certain values  Pair of linear equations in two variables  Graphical method for solving a pair of linear equations in two variables  Nature of solutions: consistency and inconsistency  Algebraic methods of solving a pair of linear equations: substitution and elimination method",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                6
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_MATH_03",
+      "name": "Unit III: COORDINATE GEOMETRY",
+      "type": "unit",
+      "source_document": "cbse_class9_maths_2026_27.pdf",
+      "source_pages": [
+        7
+      ],
+      "children": [
+        {
+          "id": "CBSE9_MATH_03_CHA01",
+          "name": "Coordinate Geometry",
+          "type": "chapter",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            7
+          ],
+          "children": [
+            {
+              "id": "CBSE9_MATH_03_CHA01_TOP01",
+              "name": " Brief history of coordinate geometry  The 2-D Cartesian coordinate system  Distance between two points in the 2-D plane  Midpoint of the line- segment between two points in the 2-D plane",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_MATH_04",
+      "name": "Unit IV: GEOMETRY",
+      "type": "unit",
+      "source_document": "cbse_class9_maths_2026_27.pdf",
+      "source_pages": [
+        7
+      ],
+      "children": [
+        {
+          "id": "CBSE9_MATH_04_CHA01",
+          "name": "Introduction to Euclid’s Geometry: Axioms and Postulates",
+          "type": "chapter",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            7
+          ],
+          "children": [
+            {
+              "id": "CBSE9_MATH_04_CHA01_TOP01",
+              "name": " History of geometry  Constructing a square with a given side as described in the Baudhayana’s Sulbasutras  Discovering Euclid’s definitions  Axioms: Axioms of measurement and rules for geometric objects",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_MATH_04_CHA02",
+          "name": "Lines and Angles",
+          "type": "chapter",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            7
+          ],
+          "children": [
+            {
+              "id": "CBSE9_MATH_04_CHA02_TOP01",
+              "name": " Rays and angles  Measures of angles  Intersecting lines and angles  Pairs of angles  Theorems and examples on intersecting lines  Theorems and examples on parallel lines",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                7
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_MATH_04_CHA03",
+          "name": "Triangles: Congruence Theorems",
+          "type": "chapter",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            8
+          ],
+          "children": [
+            {
+              "id": "CBSE9_MATH_04_CHA03_TOP01",
+              "name": " Practical applications of triangles  Proofs of conditions of congruence of triangles  Theorems on triangles  Propositions and their converse  Problems based on applications of theorems on triangles",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                8
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_MATH_04_CHA04",
+          "name": "4-gons (Quadrilaterals)",
+          "type": "chapter",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            9
+          ],
+          "children": [
+            {
+              "id": "CBSE9_MATH_04_CHA04_TOP01",
+              "name": " Properties of parallelograms  Important theorems related to parallelograms and their proof  Midpoint theorem and its applications  Understanding the notion of central symmetry in the context of parallelograms",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                9
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_MATH_04_CHA05",
+          "name": "Circles",
+          "type": "chapter",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            9
+          ],
+          "children": [
+            {
+              "id": "CBSE9_MATH_04_CHA05_TOP01",
+              "name": " Practical applications and uses of circles  Definitions related to a circle — centre, diameter, and radius  Chords and the angles they subtend  Midpoints and perpendicular bisectors of chords  Distance of chords from the centre  Subtended angles by an arc  Cyclicity of points",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                9
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_MATH_05",
+      "name": "Unit V: MENSURATION",
+      "type": "unit",
+      "source_document": "cbse_class9_maths_2026_27.pdf",
+      "source_pages": [
+        10
+      ],
+      "children": [
+        {
+          "id": "CBSE9_MATH_05_CHA01",
+          "name": "Mensuration : Area and Perimeter",
+          "type": "chapter",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            10
+          ],
+          "children": [
+            {
+              "id": "CBSE9_MATH_05_CHA01_TOP01",
+              "name": " Perimeter of shapes  Perimeter of a circle: Introduction to Pi and its irrationality  Length of an arc",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                10
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_MATH_05_CHA01_TOP02",
+              "name": " Area of shapes: rectangles, parallelograms, and triangles  Heron’s formula  Squaring a rectangle: Proof from Baudhayana’s Sulbasutras  Area of a circle: derivation  Area of the sector of a circle  Brahmagupta’s formula for area of a cyclic 4-gon  Heron’s formula as a special case of Brahmagupta’s formula",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                11
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_MATH_05_CHA02",
+          "name": "Mensuration : Surface Area and Volume",
+          "type": "chapter",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            11
+          ],
+          "children": [
+            {
+              "id": "CBSE9_MATH_05_CHA02_TOP01",
+              "name": " Surface areas and volumes of spheres (including hemispheres) and right circular cones",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                11
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_MATH_06",
+      "name": "Unit VI: STATISTICS AND PROBABILITY",
+      "type": "unit",
+      "source_document": "cbse_class9_maths_2026_27.pdf",
+      "source_pages": [
+        12
+      ],
+      "children": [
+        {
+          "id": "CBSE9_MATH_06_CHA01",
+          "name": "Statistics",
+          "type": "chapter",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            12
+          ],
+          "children": [
+            {
+              "id": "CBSE9_MATH_06_CHA01_TOP01",
+              "name": " Graphical representation of data  Measures of central tendency",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                12
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_MATH_06_CHA02",
+          "name": "Introduction to Probability",
+          "type": "chapter",
+          "source_document": "cbse_class9_maths_2026_27.pdf",
+          "source_pages": [
+            12
+          ],
+          "children": [
+            {
+              "id": "CBSE9_MATH_06_CHA02_TOP01",
+              "name": " Concept of probability and randomness  The probability scale  Empirical probability: analysing statistical data and performing experiments  Theoretical probability: sample space and events  Representing probability through tree diagrams and tables",
+              "type": "topic",
+              "source_document": "cbse_class9_maths_2026_27.pdf",
+              "source_pages": [
+                12
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

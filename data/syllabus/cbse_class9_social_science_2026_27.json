@@ -1,0 +1,929 @@
+{
+  "board": "CBSE",
+  "academic_year": "2026-27",
+  "class": "9",
+  "subject": "social_science",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/SocialScience_SecP1IX_2026-27.pdf",
+  "source_pdf": "cbse_class9_social_science_2026_27.pdf",
+  "extracted_at": "2026-09-30T18:02:21.317276+00:00",
+  "extraction_method": "table_aware_parser_v4",
+  "curriculum": [
+    {
+      "id": "CBSE9_SST_01",
+      "name": "Part 1",
+      "type": "unit",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        8
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SST_01_CHA01",
+          "name": "Understanding Social Science",
+          "type": "chapter",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ],
+          "children": [
+            {
+              "id": "CBSE9_SST_01_CHA01_TOP01",
+              "name": "Meaning, scope and relevance of Social Science",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                8
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA01_TOP02",
+              "name": "Understanding Social Science from an Indian perspective",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                8
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_SST_01_CHA02",
+          "name": "Shaping of the Earth’s Surface",
+          "type": "chapter",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ],
+          "children": [
+            {
+              "id": "CBSE9_SST_01_CHA02_TOP01",
+              "name": "Theory of plate tectonics",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                8
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA02_TOP02",
+              "name": "Interior of the Earth",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                8
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA02_TOP03",
+              "name": "Role of weathering and erosion; agents of gradation — river, waves and currents, wind, glaciers, and underground water",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                8
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA02_TOP04",
+              "name": "Landforms and disasters: earthquakes, landslides, avalanches, Glacial Lake Outburst Flood (GLOF) and duststroms",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                8
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_SST_01_CHA03",
+          "name": "Atmosphere and Climate",
+          "type": "chapter",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ],
+          "children": [
+            {
+              "id": "CBSE9_SST_01_CHA03_TOP01",
+              "name": "Structure and composition; elements of weather and climate",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                8
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA03_TOP02",
+              "name": "Seasons of India and monsoons",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                8
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA03_TOP03",
+              "name": "Climate change",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                8
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA03_TOP04",
+              "name": "Floods Carbon footprint",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                8
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_SST_01_CHA04",
+          "name": "Early Humans and Beginning of Civilisation",
+          "type": "chapter",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ],
+          "children": [
+            {
+              "id": "CBSE9_SST_01_CHA04_TOP01",
+              "name": "Cultural development from 2 million years ago",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                9
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA04_TOP02",
+              "name": "Early human history, periodisation: Archaeological ages",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                9
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA04_TOP03",
+              "name": "Who are human ancestors?",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                9
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA04_TOP04",
+              "name": "Palaeolithic hunter-gatherers and use of stone tools",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                9
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA04_TOP05",
+              "name": "Mesolithic transition to food production: Mesolithic sites and tools",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                9
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA04_TOP06",
+              "name": "Neolithic and the beginning of farming: Neolithic revolution domestication of plants and animals",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                9
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA04_TOP07",
+              "name": "Harappan and contemporary cultures",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                9
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA04_TOP08",
+              "name": "Mesopotamian, egyptian, and chinese civilisation",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                9
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_SST_01_CHA05",
+          "name": "State and Society (upto 1000 CE)",
+          "type": "chapter",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ],
+          "children": [
+            {
+              "id": "CBSE9_SST_01_CHA05_TOP01",
+              "name": "Vedic Age — geography; texts; rituals; political institutions, and social order",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                9
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA05_TOP02",
+              "name": "Administrative structure of early empires",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                9
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA05_TOP03",
+              "name": "Quest for knowledge — educational heritage, institutions, knowledge traditions, and cultural practices",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                9
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA05_TOP04",
+              "name": "Traders and trade routes, guilds and merchants, crafts and industries",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                10
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_SST_01_CHA06",
+          "name": "Democracy",
+          "type": "chapter",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ],
+          "children": [
+            {
+              "id": "CBSE9_SST_01_CHA06_TOP01",
+              "name": "Meaning features and types of democracy",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                10
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA06_TOP02",
+              "name": "Roots of democracy in India",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                10
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA06_TOP03",
+              "name": "Challenges to democracy in India",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                10
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA06_TOP04",
+              "name": "Democratic systems in the world",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                10
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_SST_01_CHA07",
+          "name": "Elections",
+          "type": "chapter",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ],
+          "children": [
+            {
+              "id": "CBSE9_SST_01_CHA07_TOP01",
+              "name": "Factors of importance of elections",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                10
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA07_TOP02",
+              "name": "Electoral systems",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                10
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA07_TOP03",
+              "name": "Delimitation Commission",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                10
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA07_TOP04",
+              "name": "Election Commission of India and its role",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                10
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA07_TOP05",
+              "name": "Constituency, electoral rolls, enumerators",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                10
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA07_TOP06",
+              "name": "Party system in India",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                10
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA07_TOP07",
+              "name": "What to produce, how to produce, and for whom to produce?",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                11
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA07_TOP08",
+              "name": "Difference between market, centrally planned, and mixed economic systems",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                11
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA07_TOP09",
+              "name": "Welfare economy",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                11
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_SST_01_CHA08",
+          "name": "The Price Puzzle: What Drives the Market",
+          "type": "chapter",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ],
+          "children": [
+            {
+              "id": "CBSE9_SST_01_CHA08_TOP01",
+              "name": "Laws of demand and supply",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                11
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA08_TOP02",
+              "name": "Real-world deviations from textbook theory, such as in case of necessities, luxury goods, perishable items, and expectations",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                11
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_01_CHA08_TOP03",
+              "name": "Some related concepts — price ceilings and market failures (externalities, information asymmetry, public goods)",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                11
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SST_02",
+      "name": "Part 2",
+      "type": "unit",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        11
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SST_02_CHA01",
+          "name": "Oceans and Life",
+          "type": "chapter",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ],
+          "children": [
+            {
+              "id": "CBSE9_SST_02_CHA01_TOP01",
+              "name": "Introduction to ocean relief, movement of ocean water- waves, tides and currents",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                11
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA01_TOP02",
+              "name": "Marine resources and their significance; open seas, navigation fishing, and livelihood concerns and challenges",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                11
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA01_TOP03",
+              "name": "Cyclones and",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                11
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA01_TOP04",
+              "name": "Tsunamis — early warning systems",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                12
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA01_TOP05",
+              "name": "International maritime rules and regulations",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                12
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_SST_02_CHA02",
+          "name": "Life on Earth",
+          "type": "chapter",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ],
+          "children": [
+            {
+              "id": "CBSE9_SST_02_CHA02_TOP01",
+              "name": "Biomes: Distribution and characteristics; biosphere reserves in India",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                12
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA02_TOP02",
+              "name": "Forest and ecotourism; forest dwellers, their livelihoods, and challenges",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                12
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA02_TOP03",
+              "name": "Forest and wildlife conservation",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                12
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA02_TOP04",
+              "name": "Government efforts to support forest dwellers",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                12
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_SST_02_CHA03",
+          "name": "Resistance and Resilience (1000 CE – 1700 CE)",
+          "type": "chapter",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ],
+          "children": [
+            {
+              "id": "CBSE9_SST_02_CHA03_TOP01",
+              "name": "Safeguarding sovereignty: resistance, alliances and confederacies",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                12
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA03_TOP02",
+              "name": "Development of art and architecture, languages and literature",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                12
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA03_TOP03",
+              "name": "The Bhakti tradition",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                12
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA03_TOP04",
+              "name": "Forts and fortifications",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                12
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA03_TOP05",
+              "name": "Expansion of Indian economy and state",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                12
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_SST_02_CHA04",
+          "name": "India and the World-I (1900 BCE- 1200 CE)",
+          "type": "chapter",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ],
+          "children": [
+            {
+              "id": "CBSE9_SST_02_CHA04_TOP01",
+              "name": "Trade and commerce — trade with Mesopotamia, Greece, Roman Empire, China and Southeast Asia",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                12
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA04_TOP02",
+              "name": "Cultural Connections — Interactions with Greece and Rome, Central Asia, China, and Influence on South East Asia",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                12
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA04_TOP03",
+              "name": "Indian Knowledge Systems — Medicine, Mathematics and Astronomy, Medicine, Religion",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                13
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_SST_02_CHA05",
+          "name": "Authority",
+          "type": "chapter",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ],
+          "children": [
+            {
+              "id": "CBSE9_SST_02_CHA05_TOP01",
+              "name": "The Roots of Authority: in Kautilya and shukraniti- danda and relationship with nyaya and bala; the types of nyaya and bala",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                13
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA05_TOP02",
+              "name": "Constitutional status of justice and security since ancient times",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                13
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA05_TOP03",
+              "name": "Links the role of citizens with the elections and the democratic institutions",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                13
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA05_TOP04",
+              "name": "Types of authority — functional, sensitive, and welfare-oriented",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                13
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_SST_02_CHA06",
+          "name": "From Ideas to Startups",
+          "type": "chapter",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ],
+          "children": [
+            {
+              "id": "CBSE9_SST_02_CHA06_TOP01",
+              "name": "What is entrepreneurship and explain the resources required to start a business",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                13
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA06_TOP02",
+              "name": "Case studies of successful entrepreneurs",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                13
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA06_TOP03",
+              "name": "Creative destruction with examples",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                13
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA06_TOP04",
+              "name": "Start-up ecosystem in India.",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                13
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA06_TOP05",
+              "name": "Make in India initiative, role of MSMEs and the unorganised sector in India’s economic growth.",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                13
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA06_TOP06",
+              "name": "Stages of starting and executing a business idea through a business plan",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                13
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA06_TOP07",
+              "name": "Some basic accounting concepts",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                13
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "CBSE9_SST_02_CHA07",
+          "name": "Smart Ways to Manage Your Finances",
+          "type": "chapter",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ],
+          "children": [
+            {
+              "id": "CBSE9_SST_02_CHA07_TOP01",
+              "name": "Relevance of personal financial management in daily life",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                14
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA07_TOP02",
+              "name": "Inflation and its impact on purchasing power",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                14
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA07_TOP03",
+              "name": "Simple vs. compound interest rate",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                14
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA07_TOP04",
+              "name": "Budgeting",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                14
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA07_TOP05",
+              "name": "Various savings and investment options like fixed deposit, stocks, bonds, mutual funds, etc.",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                14
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA07_TOP06",
+              "name": "Risk and insurance",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                14
+              ],
+              "children": []
+            },
+            {
+              "id": "CBSE9_SST_02_CHA07_TOP07",
+              "name": "Personal income tax",
+              "type": "topic",
+              "source_document": "cbse_class9_social_science_2026_27.pdf",
+              "source_pages": [
+                14
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

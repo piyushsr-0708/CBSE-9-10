@@ -1,0 +1,740 @@
+--- PAGE 1 ---
+TEXT:
+Mathematics
+Class IX (2026 – 27)
+Introduction:
+The Mathematics curriculum for the Secondary stage has been redesigned in alignment with the
+National Education Policy 2020 and the National Curriculum Framework for School Education
+(NCF – SE) 2023, prioritizing deep conceptual understanding and logical reasoning. The revised
+syllabus places strong emphasis on developing core mathematical competencies, including
+problem-solving, visualisation, mathematical modelling, mathematical communication,
+computational thinking, and data analytics. The syllabus integrate Indian Knowledge System with
+contemporary mathematical knowledge, highlighting the rich contributions of Indian
+mathematicians to foster a sense of pride and historical context. A deliberate shift from rote
+learning to competency-based education ensures that students build deep conceptual
+understanding and logical reasoning rather than mere procedural fluency. Greater emphasis has
+been laid on the integration of real-life applications and experiential learning, encouraging students
+to connect mathematical concepts with everyday situations and cross-disciplinary contexts.
+Greater emphasis has been laid on competency based learning outcomes encouraging students
+to connect mathematical concepts with everyday situations and inter-disciplinary contexts.
+Continuous and holistic assessment through projects, activities, and investigations forms an
+integral part of the learning process, moving beyond summative examinations.
+At the secondary stage, the curriculum focuses on developing essential global mathematical
+competencies, including mathematical representation through quantities and relations,
+mathematical modelling and algorithm building, and effective mathematical communication. The
+study of the number system, algebra, geometry, mensuration, statistics and probability is designed
+to build a strong foundation for higher education while enhancing functional life skills. The
+curriculum thus aims to build rich mathematical learning frameworks not only for higher academic
+pursuits but also for the practical demands of life in a rapidly changing, data-driven world.
+Objectives: The broad objectives of teaching Mathematics at the secondary stage are to help the
+learners to:
+ develop logical thinking, critical reasoning, and a structured approach to problem-solving;
+ build the ability to recognise, analyse, and solve diverse problems with confidence and
+adaptability;
+ communicate mathematical ideas effectively using appropriate language, symbols, and
+representations;
+ appreciate the beauty, history, and real-life relevance of Mathematics as a discipline;
+ connect mathematical concepts to fields such as Science, Technology, Engineering, and
+Economics;
+ engage in both collaborative and independent mathematical exploration and learning;
+ develop habits of precision, accuracy, and logical consistency in mathematical work;
+ build confidence to explore, experiment, and grow in mathematical understanding without
+fear of failure.
+TABLES:
+--- PAGE 2 ---
+TEXT:
+Curricular Goals (CGs) and Competencies (Cs) from the NCF-SE 2023
+CG-1: Understands numbers (natural, whole, integer, rational, irrational, and real), ways of
+representing numbers, relationships amongst numbers, and number sets.
+C-1.1 Develops understanding of numbers, including the set of real numbers and its properties.
+CG-2: Builds deductive and inductive logic to prove theorems related to numbers and their
+relationships (such as ‘2 is an irrational number’, a recursion relation for Virahanka numbers,
+a formula for the sum of the first n square numbers).
+C-2.1 Understanding of powers (radical powers) and exponents.
+CG-3: Discovers and proves algebraic identities and models real-life situations in the form
+of equations to solve them.
+C-3.1 States and proves remainder theorem, factor theorem, and division algorithm.
+C-3.2 Models and solves contextualised problems using equations (for example, simultaneous
+linear equations in two variables or single polynomial equations), and draws conclusions about a
+situation being modelled.
+C-3.3 Learns Brahmagupta’s quadratic formula (in both symbolic and poetic form) and its derivation,
+and uses it to solve some of the poetic puzzles of Bhaskara as well as modern-day problems.
+CG-4: Analyses characteristics and properties of two-dimensional geometric shapes, and
+develops mathematical arguments to explain geometric relationships.
+C-4.1 Describes relationships including congruence of two-dimensional geometric shapes (such as
+lines, angles, triangles) to make and test conjectures and solve problems.
+C-4.2 Proves theorems using Euclid’s axioms and postulates for triangles and quadrilaterals, and
+applies them to solve geometric problems.
+C-4.3 Proves theorems about the geometry of a circle, including its chords, subtended angles,
+inscribed polygons, and area in terms of pi.
+C-4.4 Understands the irrationality of pi, the best approximations to be discovered over human
+history, and the first exact formula (infinite series) for pi given by Madhava.
+C-4.5 Specifies locations and describes spatial relationships using coordinate geometry, for
+example, plotting a pair of linear equations and graphically finding the solution, or finding the area
+of triangle with given coordinates as vertices.
+C-4.6 Understands the definitions of the basic trigonometric functions, their history and motivation
+(including the introduction of the sin and cos functions by Aryabhata using chords), and their utility
+across the sciences.
+CG-5: Derives and uses formulae to calculate areas of plane figures, surface area, and
+volumes of solid objects.
+C-5.1 Visualises, represents, and calculates the area of a triangle using Heron’s formula and its
+generalisation to cyclic quadrilaterals given by Brahmagupta’s formula.
+C-5.2 Visualises and uses mathematical thinking to discover formulae to calculate surface areas
+and volumes of solid objects (cubes, cuboids, spheres, hemispheres, right circular cylinders or
+cones, and their combinations).
+TABLES:
+--- PAGE 3 ---
+TEXT:
+CG-6: Analyses and interprets data using statistical concepts (such as measures of central
+tendency, standard deviations) and probability.
+C-6.1 Applies measures of central tendencies, such as mean, median, and mode.
+C-6.2 Applies concepts from probability to solve problems on the likelihood of everyday events.
+CG-7: Begins to perceive and appreciate the axiomatic and deductive structure of
+Mathematics.
+C-7.1 Proves mathematical statements and carries out geometric constructions using stated
+assumptions, axioms, postulates, definitions, and mathematics vocabulary.
+C-7.2 Visualises and appreciates geometric proofs for algebraic identities and other ‘proofs without
+words’.
+C-7.3 Proves theorems using Euclid’s axioms and postulates for angles, triangles, quadrilaterals,
+circles, area-related theorems for triangles, and parallelograms.
+C-7.4 Constructs different geometrical shapes like bisectors of line segments, angles and their
+bisectors, triangles, and other polygons, satisfying given constraints.
+CG-8: Builds skills, such as visualisation, optimisation, representation, and mathematical
+modelling along with their application in daily life.
+C-8.1 Models daily-life phenomena and uses representations, such as graphs, tables, and
+equations to draw conclusions.
+C-8.2 Uses two-dimensional representations of three-dimensional objects to visualise and solve
+problems, such as those involving surface area and volume.
+C-8.3 Employs optimisation strategies to maximise desired quantities (such as area, volume, or
+other output) under given constraints.
+CG-9: Develops computational thinking, i.e., deals with complex problems and is able to
+break them down into a series of simple problems that can then be solved by suitable
+procedures/algorithms.
+C-9.1 Decomposes a problem into sub-problems.
+C-9.2 Describes and analyses a sequence of instructions being followed.
+C-9.3 Analyses similarities and differences among problems to make one solution or procedure
+work for multiple problems.
+C-9.4 Engages in algorithmic problem-solving to design such solutions.
+CG-10: Knows and appreciates important contributions of mathematicians from India and
+around the world.
+C-10.1 Recognises the important contributions made by mathematicians (Indian and others) in the
+field of Mathematics (such as the evolution of numbers, geometry, and algebra).
+C-10.2 Recognises modern contributions to Mathematics made in both India and abroad, and
+understands the next frontiers and next major open questions in the field of Mathematics.
+CG-11: Explores connections of Mathematics with other subjects.
+C-11.1 Applies mathematical knowledge and tools to analyse problems or situations in multiple
+subjects across Science, Social Science, Visual Arts, Music, Vocational Education, and Sports.
+TABLES:
+--- PAGE 4 ---
+TEXT:
+COURSE STRUCTURE CLASS – IX
+Units Unit Name Chapter Name Marks
+I Number System  Number System 07
+II Algebra  Introduction to Polynomials 20
+ Sequences and Progressions
+ Exploring Algebraic Identities
+ Linear Equations in Two Variables
+III Coordinate  Coordinate Geometry 04
+Geometry
+IV Geometry  Introduction to Euclid’s Geometry: 25
+Axioms and Postulates
+ Lines and Angles
+ Triangles – Congruence Theorems
+ 4-gons (Quadrilaterals)
+ Circles
+V Mensuration  Area and Perimeter 14
+ Surface Area and Volume
+VI Statistics and  Statistics 10
+Probability  Introduction to Probability
+Total 80
+Chapter Key Concepts Releva Competencies
+Name nt CGs
+Unit 1: Number System No. of periods : 12
+Number  Introduction to rational The student will be able to:
+System numbers  Understand the concept of a rational
+ Representation of CG-1, number.
+rational numbers on the C-1.1,  Represent rational numbers on the
+number line CG-9 number line.
+ Density of rational  Understand the properties of rational
+numbers and its proof numbers.
+ Finding rational numbers  Explain the concept of density of
+between any two rational rational numbers.
+numbers  Compute decimal representation of
+ Decimal representation rational numbers.
+of rational numbers  Understand the concept of irrational
+ Introduction to irrational numbers.
+numbers  Prove the irrationality.
+ Proof of irrationality of  Construct the square root spiral.
+√2 and √3  Apply computational thinking to
+ The square root spiral represent rational and irrational
+TABLES:
+Units | Unit Name | Chapter Name | Marks
+ |  |  | 
+I | Number System |  Number System | 07
+II | Algebra |  Introduction to Polynomials | 20
+ |  |  Sequences and Progressions | 
+None | None |  Exploring Algebraic Identities | None
+None | None |  Linear Equations in Two Variables | None
+III | Coordinate |  Coordinate Geometry | 04
+ | Geometry |  | 
+IV | Geometry |  Introduction to Euclid’s Geometry: | 25
+ |  | Axioms and Postulates | 
+None | None |  Lines and Angles | None
+None | None |  Triangles – Congruence Theorems | None
+None | None |  4-gons (Quadrilaterals) | None
+None | None |  Circles | None
+V | Mensuration |  Area and Perimeter | 14
+ |  |  Surface Area and Volume | 
+VI | Statistics and |  Statistics | 10
+ | Probability |  Introduction to Probability | 
+ | Total |  | 80
+Chapter Name | Key Concepts | Releva nt CGs | Competencies
+ | Unit 1: Number System No. of periods : 12 | None | None
+Number System |  Introduction to rational numbers  Representation of rational numbers on the number line  Density of rational numbers and its proof  Finding rational numbers between any two rational numbers  Decimal representation of rational numbers  Introduction to irrational numbers  Proof of irrationality of √2 and √3  The square root spiral | CG-1, C-1.1, CG-9 | The student will be able to:  Understand the concept of a rational number.  Represent rational numbers on the number line.  Understand the properties of rational numbers.  Explain the concept of density of rational numbers.  Compute decimal representation of rational numbers.  Understand the concept of irrational numbers.  Prove the irrationality.  Construct the square root spiral.  Apply computational thinking to represent rational and irrational
+--- PAGE 5 ---
+TEXT:
+numbers through algorithms and visual
+models, generate decimal expansions
+systematically, and reason about
+numbers using step-by-step logical
+procedures.
+UNIT II: ALGEBRA No. of periods : 66
+Introduction  Algebraic expressions The student will be able to:
+to  Definition of a  Understand the meaning of an
+Polynomials polynomial. CG-3, algebraic expression.
+ Degree of a polynomial C-3.2,  Define a polynomial.
+ Introduction to linear CG-9  Identify the degree, terms and
+polynomials and coefficients of terms in a polynomial.
+applications  Model linear growth and decay using
+ Exploring linear patterns linear polynomials.
+ Modelling linear growth  Explain and identify patterns in linear
+and linear decay relationships.
+ Linear relationships  Identify the slope and y-intercept of a
+ Visualising linear linear equation in two variables.
+relationships  Graph a linear equation in two
+ Slope and y-intercept of variables.
+a line y = ax + b  Use computational thinking to identify
+patterns, construct linear expressions,
+and systematically represent and
+analyse linear relationships using
+equations and graphs.
+Sequences  Introduction to The student will be able to:
+and sequences • Understand the concept of a sequence
+Progression  Explicit or general rule CG-11, of numbers.
+s of a sequence C-8.1, • Identify the pattern in a sequence and
+ Recursive rule of a CG-9 predict the next few terms.
+sequence • Determine the recursive and explicit
+rules for different sequences.
+ Arithmetic Progressions
+• Obtain the terms of sequence given its
+ (AP): nth term,
+recursive and explicit rule.
+visualising an AP, and
+• Identify Arithmetic Progressions (AP).
+practical contexts
+• Determine the nth term of an AP.
+leading to Aps
+• Visualise an AP graphically.
+ Sum of the first n
+• Identify Geometric Progressions (GP).
+natural numbers
+• Determine the nth term of a GP.
+ Geometric
+• Visualise a GP graphically.
+Progressions (GP): nth
+• Analyse attributes of fractals using GP.
+term, visualising a GP,
+• Solve the Tower of Hanoi puzzle.
+and practical contexts
+• Use computational thinking to identify
+leading to GPs
+patterns, write step-by-step rules, and
+ Applications of GP in
+model patterns in sequences and
+fractals
+progressions.
+ Tower of Hanoi puzzle
+TABLES:
+ |  |  | numbers through algorithms and visual models, generate decimal expansions systematically, and reason about numbers using step-by-step logical procedures.
+ | UNIT II: ALGEBRA No. of periods : 66 | None | None
+Introduction to Polynomials |  Algebraic expressions  Definition of a polynomial.  Degree of a polynomial  Introduction to linear polynomials and applications  Exploring linear patterns  Modelling linear growth and linear decay  Linear relationships  Visualising linear relationships  Slope and y-intercept of a line y = ax + b | CG-3, C-3.2, CG-9 | The student will be able to:  Understand the meaning of an algebraic expression.  Define a polynomial.  Identify the degree, terms and coefficients of terms in a polynomial.  Model linear growth and decay using linear polynomials.  Explain and identify patterns in linear relationships.  Identify the slope and y-intercept of a linear equation in two variables.  Graph a linear equation in two variables.  Use computational thinking to identify patterns, construct linear expressions, and systematically represent and analyse linear relationships using equations and graphs.
+Sequences and Progression s |  Introduction to sequences  Explicit or general rule of a sequence  Recursive rule of a sequence  Arithmetic Progressions  (AP): nth term, visualising an AP, and practical contexts leading to Aps  Sum of the first n natural numbers  Geometric Progressions (GP): nth term, visualising a GP, and practical contexts leading to GPs  Applications of GP in fractals  Tower of Hanoi puzzle | CG-11, C-8.1, CG-9 | The student will be able to: • Understand the concept of a sequence of numbers. • Identify the pattern in a sequence and predict the next few terms. • Determine the recursive and explicit rules for different sequences. • Obtain the terms of sequence given its recursive and explicit rule. • Identify Arithmetic Progressions (AP). • Determine the nth term of an AP. • Visualise an AP graphically. • Identify Geometric Progressions (GP). • Determine the nth term of a GP. • Visualise a GP graphically. • Analyse attributes of fractals using GP. • Solve the Tower of Hanoi puzzle. • Use computational thinking to identify patterns, write step-by-step rules, and model patterns in sequences and progressions.
+--- PAGE 6 ---
+TEXT:
+Exploring  Revisiting algebraic The student will be able to:
+Algebraic identities CG-7, • Visualise algebraic identities using
+Identities  Visualising identities C-7.2, geometric models.
+using geometrical CG-9 • Determine the factors of algebraic
+models expressions using identities.
+ Factorisation of algebraic • Interpret factors of quadratic
+expressions using expressions through geometric
+identities models.
+ More identities and their • Find simplified versions of rational
+expressions.
+applications
+• Use computational thinking strategies,
+ Visualising factorisation
+such as decomposition and step-by-
+of quadratic expressions
+step procedures to visualise algebraic
+through algebra tiles and
+identities, factor expressions, and
+without using algebra
+simplify rational expressions.
+tiles
+ Finding new identities
+ Simplifying rational
+expressions
+Linear  Introduction to linear The student will be able to:
+Equations in equations in two  Understand the concept of a linear
+Two variables through CG-3, equation in two variables.
+Variables practical examples C-3.2,  Graph a pair of linear equations.
+ Solution of linear C-8.1,  Solve a pair of linear equations
+equation in two variables: CG-9 graphically.
+graphical representation  Solve a pair of linear equations
+ Slope-intercept form of through the methods of substitution
+linear equation in two and elimination.
+variables  Determine the nature of solutions of a
+ Drawing graphs of linear pair of linear equations.
+equations when x and y  Model and solve contextualised
+assume only certain problems using a pair of linear
+values equations and draw conclusions.
+ Pair of linear equations in  Model daily-life phenomena using
+two variables representations, such as graphs,
+ Graphical method for tables, and equations.
+solving a pair of linear  Use computational thinking to
+equations in two systematically represent, solve, and
+variables interpret pairs of linear equations
+ Nature of solutions: through graphs, tables, and step-by-
+consistency and step procedures.
+inconsistency
+ Algebraic methods of
+solving a pair of linear
+equations: substitution
+and elimination method
+TABLES:
+Exploring Algebraic Identities |  Revisiting algebraic identities  Visualising identities using geometrical models  Factorisation of algebraic expressions using identities  More identities and their applications  Visualising factorisation of quadratic expressions through algebra tiles and without using algebra tiles  Finding new identities  Simplifying rational expressions | CG-7, C-7.2, CG-9 | The student will be able to: • Visualise algebraic identities using geometric models. • Determine the factors of algebraic expressions using identities. • Interpret factors of quadratic expressions through geometric models. • Find simplified versions of rational expressions. • Use computational thinking strategies, such as decomposition and step-by- step procedures to visualise algebraic identities, factor expressions, and simplify rational expressions.
+Linear Equations in Two Variables |  Introduction to linear equations in two variables through practical examples  Solution of linear equation in two variables: graphical representation  Slope-intercept form of linear equation in two variables  Drawing graphs of linear equations when x and y assume only certain values  Pair of linear equations in two variables  Graphical method for solving a pair of linear equations in two variables  Nature of solutions: consistency and inconsistency  Algebraic methods of solving a pair of linear equations: substitution and elimination method | CG-3, C-3.2, C-8.1, CG-9 | The student will be able to:  Understand the concept of a linear equation in two variables.  Graph a pair of linear equations.  Solve a pair of linear equations graphically.  Solve a pair of linear equations through the methods of substitution and elimination.  Determine the nature of solutions of a pair of linear equations.  Model and solve contextualised problems using a pair of linear equations and draw conclusions.  Model daily-life phenomena using representations, such as graphs, tables, and equations.  Use computational thinking to systematically represent, solve, and interpret pairs of linear equations through graphs, tables, and step-by- step procedures.
+--- PAGE 7 ---
+TEXT:
+UNIT III: COORDINATE GEOMETRY No. of periods : 6
+Coordinate  Brief history of The student will be able to:
+Geometry coordinate geometry  Specify locations and the position of
+ The 2-D Cartesian CG-4, one point relative to another point
+coordinate system C-4.5, using coordinates.
+ Distance between two CG-9  Represent a floor plan on a grid using
+points in the 2-D plane coordinates.
+ Midpoint of the line-  Compute the distance between two
+segment between two points using coordinates.
+points in the 2-D plane  Determine whether three points lie in a
+straight line using coordinates.
+ Compute the position of the midpoint
+of a line segment using coordinates.
+ Check whether a triangle is right-
+angled using coordinates.
+ Apply computational thinking to model
+situations on the coordinate plane and
+verify geometric properties through
+systematic reasoning.
+UNIT IV: GEOMETRY No. of periods : 69
+Introduction  History of geometry The student will be able to:
+to Euclid’s  Constructing a square • Describe how geometry grew from the
+Geometry: with a given side as CG-7, practical needs ancient civilisations.
+Axioms and described in the C-7.1, • Describe contributions of India, Egypt
+Postulates Baudhayana’s C-7.3 and Greece to the development of
+Sulbasutras geometric ideas.
+ Discovering Euclid’s • Understand the role of definitions,
+definitions axioms, and postulates.
+ Axioms: Axioms of • Explain that there are elements of
+plane geometry (point, line, surface)
+measurement and rules
+for which we have an intuitive sense.
+for geometric objects
+• State the 5 postulates of Euclidean
+geometry.
+• Define parallelism of straight lines.
+• Explain the construction of a square as
+given in the Sulbasutras.
+• Justify simple constructions using the
+axioms.
+Lines and  Rays and angles The student will be able to:
+Angles  Measures of angles • Explain the notion of an angle.
+ Intersecting lines and CG-7, • Explain the notion of a ray.
+angles C-7.1, • Explain that angles are formed
+C-7.3, between two rays with a common
+ Pairs of angles
+CG-9 starting point.
+ Theorems and examples
+• State that a straight angle equals two
+on intersecting lines
+right angles and measures 180° while
+ Theorems and examples
+a right angle measures 90°.
+on parallel lines
+TABLES:
+ | UNIT III: COORDINATE GEOMETRY No. of periods : 6 | None | None
+Coordinate Geometry |  Brief history of coordinate geometry  The 2-D Cartesian coordinate system  Distance between two points in the 2-D plane  Midpoint of the line- segment between two points in the 2-D plane | CG-4, C-4.5, CG-9 | The student will be able to:  Specify locations and the position of one point relative to another point using coordinates.  Represent a floor plan on a grid using coordinates.  Compute the distance between two points using coordinates.  Determine whether three points lie in a straight line using coordinates.  Compute the position of the midpoint of a line segment using coordinates.  Check whether a triangle is right- angled using coordinates.  Apply computational thinking to model situations on the coordinate plane and verify geometric properties through systematic reasoning.
+ | UNIT IV: GEOMETRY No. of periods : 69 | None | None
+Introduction to Euclid’s Geometry: Axioms and Postulates |  History of geometry  Constructing a square with a given side as described in the Baudhayana’s Sulbasutras  Discovering Euclid’s definitions  Axioms: Axioms of measurement and rules for geometric objects | CG-7, C-7.1, C-7.3 | The student will be able to: • Describe how geometry grew from the practical needs ancient civilisations. • Describe contributions of India, Egypt and Greece to the development of geometric ideas. • Understand the role of definitions, axioms, and postulates. • Explain that there are elements of plane geometry (point, line, surface) for which we have an intuitive sense. • State the 5 postulates of Euclidean geometry. • Define parallelism of straight lines. • Explain the construction of a square as given in the Sulbasutras. • Justify simple constructions using the axioms.
+Lines and Angles |  Rays and angles  Measures of angles  Intersecting lines and angles  Pairs of angles  Theorems and examples on intersecting lines  Theorems and examples on parallel lines | CG-7, C-7.1, C-7.3, CG-9 | The student will be able to: • Explain the notion of an angle. • Explain the notion of a ray. • Explain that angles are formed between two rays with a common starting point. • State that a straight angle equals two right angles and measures 180° while a right angle measures 90°.
+--- PAGE 8 ---
+TEXT:
+• Classify angles as acute, right, obtuse,
+or reflex.
+• Define parallelism.
+• State and apply the linear pair theorem
+and its converse.
+• Follow proof by contradiction in
+geometry.
+• Prove that vertically opposite angles
+are equal.
+• Identify corresponding, alternate, and
+interior angles.
+• Explain transitivity of parallelism.
+• Explain why a triangle must have at
+least two acute angles; why it cannot
+have two obtuse angles, or all three
+angles less than 60°
+• Apply computational thinking to
+analyse geometric ideas by breaking
+constructions into ordered steps, using
+axioms and postulates as rules, and
+justifying geometric results through
+logical step-by-step reasoning.
+Triangles:  Practical applications of The student will be able to:
+Congruence triangles • Explain that a triangle is rigid, unlike a
+Theorems  Proofs of conditions of CG-4, quadrilateral.
+congruence of triangles C 4.1, • Identify uses of triangle rigidity.
+ Theorems on triangles C-7.3 • Explain why triangles give strength and
+stability to structures.
+ Propositions and their
+converse • Describe what it means for two
+triangles to be congruent.
+ Problems based on
+• Identify correspondence between the
+applications of theorems
+vertices, sides, and angles of two
+on triangles
+congruent triangles.
+• Use the SAS congruence axiom.
+• Use the SSS congruence condition.
+• Use the ASA congruence condition.
+• Use the RHS congruence condition.
+• Use the AAS congruence condition.
+• Prove the basic properties of isosceles
+triangles.
+• Explain the notion of a proposition.
+• Explain the notion of converse of a
+proposition.
+• Identify the converse of a given
+proposition.
+• Explain that not all converses are true;
+use counter examples to show that
+some converses are false.
+• Explain why SSA is not, in general, a
+valid congruence condition.
+TABLES:
+ |  |  | • Classify angles as acute, right, obtuse, or reflex. • Define parallelism. • State and apply the linear pair theorem and its converse. • Follow proof by contradiction in geometry. • Prove that vertically opposite angles are equal. • Identify corresponding, alternate, and interior angles. • Explain transitivity of parallelism. • Explain why a triangle must have at least two acute angles; why it cannot have two obtuse angles, or all three angles less than 60° • Apply computational thinking to analyse geometric ideas by breaking constructions into ordered steps, using axioms and postulates as rules, and justifying geometric results through logical step-by-step reasoning.
+Triangles: Congruence Theorems |  Practical applications of triangles  Proofs of conditions of congruence of triangles  Theorems on triangles  Propositions and their converse  Problems based on applications of theorems on triangles | CG-4, C 4.1, C-7.3 | The student will be able to: • Explain that a triangle is rigid, unlike a quadrilateral. • Identify uses of triangle rigidity. • Explain why triangles give strength and stability to structures. • Describe what it means for two triangles to be congruent. • Identify correspondence between the vertices, sides, and angles of two congruent triangles. • Use the SAS congruence axiom. • Use the SSS congruence condition. • Use the ASA congruence condition. • Use the RHS congruence condition. • Use the AAS congruence condition. • Prove the basic properties of isosceles triangles. • Explain the notion of a proposition. • Explain the notion of converse of a proposition. • Identify the converse of a given proposition. • Explain that not all converses are true; use counter examples to show that some converses are false. • Explain why SSA is not, in general, a valid congruence condition.
+--- PAGE 9 ---
+TEXT:
+• Identify the situations where SSA is a
+valid congruence condition.
+• Justify the role of diagram accuracy.
+4-gons  Properties of The student will be able to:
+(Quadrilater parallelograms • Frame a precise definition of a 4-gon.
+als)  Important theorems CG-4, • Prove various characterisations of a
+related to parallelograms C-4.2, parallelogram.
+and their proof C-7.3 • Prove the midpoint theorem.
+ Midpoint theorem and its • Prove a converse of the midpoint
+applications theorem.
+ Understanding the notion • Prove that the medians of a triangle
+are concurrent and each median is
+of central symmetry in
+divided in the ratio 2:1 at the point of
+the context of
+concurrence.
+parallelograms
+• Prove that the 4-gon formed by joining
+the midpoints of a given 4-gon is a
+parallelogram.
+• Find the coordinates of the midpoint of
+a line segment given its end points and
+find the coordinates of the fourth vertex
+of a parallelogram given the other
+three.
+• Understand reflection and rotation
+symmetries of 4-gons.
+• Understand how any 4-gon can tile a
+plane.
+• Practice forming logical converses of
+statements and asking questions
+guided by converses of theorems.
+• Engage in drawing, measurement and
+paper manipulation activities to
+discover geometric patterns involving
+triangles and 4-gons.
+Circles  Practical applications The student will be able to:
+and uses of circles • State the definition of a circle.
+ Definitions related to CG-4, • Explain the meanings of the terms
+a circle — centre, C-7.3, ‘chord’, ‘diameter’, ‘radius’, ‘arc’,
+diameter, and radius CG-9 ‘segment’, and ‘sector’.
+ Chords and the • Explain why there exists a unique
+angles they subtend circle through three non-collinear
+points.
+ Midpoints and
+perpendicular • Construct the circumcircle and
+circumcentre of a triangle.
+bisectors of chords
+• Describe the location of the
+ Distance of chords
+circumcentre for acute, obtuse, and
+from the centre
+right-angled triangles.
+ Subtended angles by
+• Explain what ‘angle subtended by an
+an arc
+arc at the centre’ means.
+ Cyclicity of points
+• Explain why ‘equal chords subtend
+equal angles at the centre’.
+TABLES:
+ |  |  | • Identify the situations where SSA is a valid congruence condition. • Justify the role of diagram accuracy.
+4-gons (Quadrilater als) |  Properties of parallelograms  Important theorems related to parallelograms and their proof  Midpoint theorem and its applications  Understanding the notion of central symmetry in the context of parallelograms | CG-4, C-4.2, C-7.3 | The student will be able to: • Frame a precise definition of a 4-gon. • Prove various characterisations of a parallelogram. • Prove the midpoint theorem. • Prove a converse of the midpoint theorem. • Prove that the medians of a triangle are concurrent and each median is divided in the ratio 2:1 at the point of concurrence. • Prove that the 4-gon formed by joining the midpoints of a given 4-gon is a parallelogram. • Find the coordinates of the midpoint of a line segment given its end points and find the coordinates of the fourth vertex of a parallelogram given the other three. • Understand reflection and rotation symmetries of 4-gons. • Understand how any 4-gon can tile a plane. • Practice forming logical converses of statements and asking questions guided by converses of theorems. • Engage in drawing, measurement and paper manipulation activities to discover geometric patterns involving triangles and 4-gons.
+Circles |  Practical applications and uses of circles  Definitions related to a circle — centre, diameter, and radius  Chords and the angles they subtend  Midpoints and perpendicular bisectors of chords  Distance of chords from the centre  Subtended angles by an arc  Cyclicity of points | CG-4, C-7.3, CG-9 | The student will be able to: • State the definition of a circle. • Explain the meanings of the terms ‘chord’, ‘diameter’, ‘radius’, ‘arc’, ‘segment’, and ‘sector’. • Explain why there exists a unique circle through three non-collinear points. • Construct the circumcircle and circumcentre of a triangle. • Describe the location of the circumcentre for acute, obtuse, and right-angled triangles. • Explain what ‘angle subtended by an arc at the centre’ means. • Explain why ‘equal chords subtend equal angles at the centre’.
+--- PAGE 10 ---
+TEXT:
+• Explain why ‘chords that subtend equal
+angles at the centre are equal’.
+• Explain why ‘the line from the centre of
+a circle to the midpoint of a chord is
+perpendicular to the chord’.
+• Explain why ‘a perpendicular from the
+centre to a chord bisects the chord’.
+• State the relationship between length
+of a chord and its distance from the
+centre of the circle.
+• Explain why ‘equal chords are
+equidistant from the centre (and
+conversely)’.
+• Explain why ‘among unequal chords,
+the longer chord is closer to the
+centre’.
+• Explain why ‘the diameter is the
+longest chord’.
+• Explain why ‘the angle subtended by
+an arc at the centre is double the angle
+subtended by the arc at any point on
+the remaining part of the circle’.
+• Explain why ‘angles in the same
+segment of a circle are equal’.
+• Explain why ‘the angle in a semicircle
+is a right angle’.
+• Determine when four given points are
+concyclic.
+• Explain why ‘a quadrilateral with
+supplementary opposite angles is
+cyclic, and conversely’.
+• Explain how circular wheels have
+influenced transport, farming, building,
+and technology.
+• Identify cultural motifs involving circles,
+for example, the Dharmachakra,
+Ashoka Chakra, Sudarshan Chakra.
+• Use computational thinking to break
+down circle-related problems, apply
+geometric rules step-by-step, and
+verify properties of figures, such as
+chords, angles, and cyclic
+quadrilaterals through systematic
+reasoning.
+UNIT V: MENSURATION No. of periods : 27
+Mensuration  Perimeter of shapes The student will be able to:
+: Area and  Perimeter of a circle: • Define perimeter as the length around
+Perimeter Introduction to Pi and CG-5, the boundary of any shape.
+its irrationality C-5.1, • Explain that the circumference-to-
+ Length of an arc CG-9 diameter ratio is constant for all circles.
+TABLES:
+ |  |  | • Explain why ‘chords that subtend equal angles at the centre are equal’. • Explain why ‘the line from the centre of a circle to the midpoint of a chord is perpendicular to the chord’. • Explain why ‘a perpendicular from the centre to a chord bisects the chord’. • State the relationship between length of a chord and its distance from the centre of the circle. • Explain why ‘equal chords are equidistant from the centre (and conversely)’. • Explain why ‘among unequal chords, the longer chord is closer to the centre’. • Explain why ‘the diameter is the longest chord’. • Explain why ‘the angle subtended by an arc at the centre is double the angle subtended by the arc at any point on the remaining part of the circle’. • Explain why ‘angles in the same segment of a circle are equal’. • Explain why ‘the angle in a semicircle is a right angle’. • Determine when four given points are concyclic. • Explain why ‘a quadrilateral with supplementary opposite angles is cyclic, and conversely’. • Explain how circular wheels have influenced transport, farming, building, and technology. • Identify cultural motifs involving circles, for example, the Dharmachakra, Ashoka Chakra, Sudarshan Chakra. • Use computational thinking to break down circle-related problems, apply geometric rules step-by-step, and verify properties of figures, such as chords, angles, and cyclic quadrilaterals through systematic reasoning.
+ | UNIT V: MENSURATION No. of periods : 27 | None | None
+Mensuration : Area and Perimeter |  Perimeter of shapes  Perimeter of a circle: Introduction to Pi and its irrationality  Length of an arc | CG-5, C-5.1, CG-9 | The student will be able to: • Define perimeter as the length around the boundary of any shape. • Explain that the circumference-to- diameter ratio is constant for all circles.
+--- PAGE 11 ---
+TEXT:
+ Area of shapes: • List historical approximations to π
+rectangles, (from Archimedes, Aryabhata, and Zu
+parallelograms, and Chongzhi).
+triangles • Compute the circumference of a circle
+ Heron’s formula and the length of an arc.
+ Squaring a rectangle: • Apply ideas of circle perimeter and arc-
+Proof from length to real-world contexts.
+Baudhayana’s • Explain why a median of a triangle
+Sulbasutras divides it into two triangles of equal
+area.
+ Area of a circle:
+derivation • Use Heron’s formula to compute the
+area of a triangle from its sides.
+ Area of the sector of
+• Explain the classical problem of
+a circle
+‘squaring’ a given shape.
+ Brahmagupta’s
+• Explain how ancient civilisations
+formula for area of a
+approximated the area of a circle.
+cyclic 4-gon
+• Compute the area of a circle using the
+ Heron’s formula as a
+formula.
+special case of
+• Explain and use the formula for area of
+Brahmagupta’s
+a sector of a circle.
+formula
+• Solve problems on areas of sectors
+and segments of circles.
+• State Brahmagupta’s formula for the
+area of a cyclic quadrilateral in terms
+of its sides.
+• Explain why Heron’s formula is a
+‘special case’ of Brahmagupta’s
+formula.
+• Explain the notion of ‘special case’ and
+‘generalisation’ in mathematics.
+• Use computational thinking to break
+down shapes, apply step-by-step
+methods to calculate perimeter and
+area, recognise patterns across
+formulae, and understand
+generalisation and special cases in
+geometry.
+Mensuration  Surface areas and The student will be able to:
+: Surface volumes of spheres • Recognise cuboids and cubes in real-
+Area and (including hemispheres) CG-5, life situations.
+Volume and right circular cones C-5.1, • Compute the surface area and volume
+CG-9 of a cuboid.
+• Explain how a cube is a ‘special case’
+of a cuboid.
+• Describe a right circular cylinder using
+its radius and height.
+• Compute the surface area and volume
+of a cylinder.
+• Recognise cones in daily life, and
+describe them using radius and height.
+TABLES:
+ |  Area of shapes: rectangles, parallelograms, and triangles  Heron’s formula  Squaring a rectangle: Proof from Baudhayana’s Sulbasutras  Area of a circle: derivation  Area of the sector of a circle  Brahmagupta’s formula for area of a cyclic 4-gon  Heron’s formula as a special case of Brahmagupta’s formula |  | • List historical approximations to π (from Archimedes, Aryabhata, and Zu Chongzhi). • Compute the circumference of a circle and the length of an arc. • Apply ideas of circle perimeter and arc- length to real-world contexts. • Explain why a median of a triangle divides it into two triangles of equal area. • Use Heron’s formula to compute the area of a triangle from its sides. • Explain the classical problem of ‘squaring’ a given shape. • Explain how ancient civilisations approximated the area of a circle. • Compute the area of a circle using the formula. • Explain and use the formula for area of a sector of a circle. • Solve problems on areas of sectors and segments of circles. • State Brahmagupta’s formula for the area of a cyclic quadrilateral in terms of its sides. • Explain why Heron’s formula is a ‘special case’ of Brahmagupta’s formula. • Explain the notion of ‘special case’ and ‘generalisation’ in mathematics. • Use computational thinking to break down shapes, apply step-by-step methods to calculate perimeter and area, recognise patterns across formulae, and understand generalisation and special cases in geometry.
+Mensuration : Surface Area and Volume |  Surface areas and volumes of spheres (including hemispheres) and right circular cones | CG-5, C-5.1, CG-9 | The student will be able to: • Recognise cuboids and cubes in real- life situations. • Compute the surface area and volume of a cuboid. • Explain how a cube is a ‘special case’ of a cuboid. • Describe a right circular cylinder using its radius and height. • Compute the surface area and volume of a cylinder. • Recognise cones in daily life, and describe them using radius and height.
+--- PAGE 12 ---
+TEXT:
+• Compute the surface area and volume
+of a cone.
+• Recognise a pyramid, and identify its
+base and apex.
+• Compute the surface area and volume
+of a pyramid.
+• Recognise spheres in real-life
+situations.
+• Compute the surface area and volume
+of a sphere.
+• Use computational thinking to
+systematically calculate, and compare
+surface areas and volumes of 3-D
+shapes by varying dimensions and
+analysing patterns.
+UNIT VI: STATISTICS AND PROBABILITY No. of periods : 24
+Statistics  Graphical representation The student will be able to:
+of data • Collect, organise, visualise and
+ Measures of central CG-6, interpret data to answer a statistical
+tendency C-6.1, investigative question.
+CG–9 • Compute and apply weighted average
+in different settings.
+• Read and interpret stacked bar graphs
+and 100% stacked bar graphs.
+• Apply computational thinking strategies
+to analyse real-life data, create
+appropriate graphical representations,
+and interpret mean, median and mode
+for decision-making.
+Introduction  Concept of probability The student will be able to:
+to and randomness • Understand the concept of
+Probability  The probability scale CG-6, randomness.
+ Empirical probability: C-6.2, • Describe the likelihood of an event
+analysing statistical data CG-9 using the probability scale.
+and performing • Estimate the empirical probability of
+experiments the occurrence of an event by
+analysing statistical data.
+ Theoretical probability:
+sample space and • Define theoretical probability of an
+event.
+events
+• Apply the definition of theoretical
+ Representing probability
+probability to compute the probability
+through tree diagrams
+of an event.
+and tables
+• Compute probability of events with the
+help of tree diagrams and tables.
+• Use computational thinking strategies,
+such as pattern recognition and
+simulation, to model random
+experiments and estimate probabilities.
+TABLES:
+ |  |  | • Compute the surface area and volume of a cone. • Recognise a pyramid, and identify its base and apex. • Compute the surface area and volume of a pyramid. • Recognise spheres in real-life situations. • Compute the surface area and volume of a sphere. • Use computational thinking to systematically calculate, and compare surface areas and volumes of 3-D shapes by varying dimensions and analysing patterns.
+ | UNIT VI: STATISTICS AND PROBABILITY No. of periods : 24 | None | None
+Statistics |  Graphical representation of data  Measures of central tendency | CG-6, C-6.1, CG–9 | The student will be able to: • Collect, organise, visualise and interpret data to answer a statistical investigative question. • Compute and apply weighted average in different settings. • Read and interpret stacked bar graphs and 100% stacked bar graphs. • Apply computational thinking strategies to analyse real-life data, create appropriate graphical representations, and interpret mean, median and mode for decision-making.
+Introduction to Probability |  Concept of probability and randomness  The probability scale  Empirical probability: analysing statistical data and performing experiments  Theoretical probability: sample space and events  Representing probability through tree diagrams and tables | CG-6, C-6.2, CG-9 | The student will be able to: • Understand the concept of randomness. • Describe the likelihood of an event using the probability scale. • Estimate the empirical probability of the occurrence of an event by analysing statistical data. • Define theoretical probability of an event. • Apply the definition of theoretical probability to compute the probability of an event. • Compute probability of events with the help of tree diagrams and tables. • Use computational thinking strategies, such as pattern recognition and simulation, to model random experiments and estimate probabilities.
+--- PAGE 13 ---
+TEXT:
+MATHEMATICS QUESTION PAPER DESIGN
+CLASS – IX (2026-27)
+Time: 3 Hrs. Max. Marks: 80
+%
+S. Total
+Typology of Questions Weightage
+No. Marks
+(approx.)
+Remembering: Exhibit memory of previously learned
+material by recalling facts, terms, basic concepts, and
+43 54
+1 answers.
+Understanding: Demonstrate understanding of facts
+and ideas by organizing, comparing, translating,
+interpreting, giving descriptions, and stating main ideas
+Applying: Solve problems to new situations by 19 24
+2
+applying acquired knowledge, facts, techniques and
+rules in a different way.
+Analysing:
+Examine and break information into parts by identifying
+motives or causes. Make inferences and find evidence
+to support generalizations
+Evaluating:
+Present and defend opinions by making judgments about
+18 22
+3
+information, validity of ideas, or quality of work based on
+a set of criteria.
+Creating:
+Compile information together in a different way by
+combining elements in a new pattern or proposing
+alternative solutions
+Total 80 100
+INTERNAL ASSESSMENT 20 MARKS
+Pen Paper Test and Multiple Assessment (5+5) 10 Marks
+Portfolio 05 Marks
+Lab Practical (Lab activities to be done from the prescribed books) 05 Marks
+Prescribed Books:
+1. Mathematics - Textbook for class IX - NCERT Publication
+2. Guidelines for Mathematics Laboratory in Schools, class IX - CBSE Publication
+3. Laboratory Manual - Mathematics, secondary stage - NCERT Publication
+4. Mathematics exemplar problems for class IX, NCERT publication
+TABLES:
+S. No. | Typology of Questions | Total Marks | % Weightage (approx.)
+1 | Remembering: Exhibit memory of previously learned material by recalling facts, terms, basic concepts, and answers. Understanding: Demonstrate understanding of facts and ideas by organizing, comparing, translating, interpreting, giving descriptions, and stating main ideas | 43 | 54
+2 | Applying: Solve problems to new situations by applying acquired knowledge, facts, techniques and rules in a different way. | 19 | 24
+3 | Analysing: Examine and break information into parts by identifying motives or causes. Make inferences and find evidence to support generalizations Evaluating: Present and defend opinions by making judgments about information, validity of ideas, or quality of work based on a set of criteria. Creating: Compile information together in a different way by combining elements in a new pattern or proposing alternative solutions | 18 | 22
+ | Total | 80 | 100
+INTERNAL ASSESSMENT 20 MARKS
+Pen Paper Test and Multiple Assessment (5+5) 10 Marks
+Portfolio 05 Marks
+Lab Practical (Lab activities to be done from the prescribed books) 05 Marks

@@ -1,0 +1,155 @@
+{
+  "generated_at": "2026-09-28T18:55:57.347918",
+  "source_file": "D:\\CBSE910\\clean_question_bank.csv",
+  "total_records": 1795,
+  "num_columns": 18,
+  "column_names": [
+    "﻿question_id",
+    "class",
+    "subject",
+    "session",
+    "source_file",
+    "question_number",
+    "question_text",
+    "answer",
+    "section",
+    "question_type",
+    "options",
+    "marks",
+    "topic",
+    "difficulty",
+    "has_diagram",
+    "correct_answer",
+    "answer_explanation",
+    "question_text_clean"
+  ],
+  "inferred_data_types": {
+    "﻿question_id": "integer",
+    "class": "string",
+    "subject": "string",
+    "session": "string",
+    "source_file": "string",
+    "question_number": "integer",
+    "question_text": "string",
+    "answer": "empty",
+    "section": "empty",
+    "question_type": "string",
+    "options": "string",
+    "marks": "empty",
+    "topic": "empty",
+    "difficulty": "empty",
+    "has_diagram": "string",
+    "correct_answer": "empty",
+    "answer_explanation": "empty",
+    "question_text_clean": "string"
+  },
+  "missing_value_counts": {
+    "﻿question_id": 0,
+    "class": 0,
+    "subject": 0,
+    "session": 0,
+    "source_file": 0,
+    "question_number": 0,
+    "question_text": 0,
+    "answer": 1795,
+    "section": 1795,
+    "question_type": 0,
+    "options": 874,
+    "marks": 1795,
+    "topic": 1795,
+    "difficulty": 1795,
+    "has_diagram": 0,
+    "correct_answer": 1795,
+    "answer_explanation": 1795,
+    "question_text_clean": 0
+  },
+  "unique_classes": [
+    "class10",
+    "class9"
+  ],
+  "unique_subjects": [
+    "computer_application",
+    "home_science",
+    "maths",
+    "science",
+    "social_science"
+  ],
+  "unique_sessions": [
+    "2023-24",
+    "2024-25",
+    "2025-26",
+    "2026-27"
+  ],
+  "unique_question_types": [
+    "Assertion-Reason",
+    "Case-Based",
+    "MCQ",
+    "Short/Long Answer"
+  ],
+  "marks_distribution": {
+    "missing": 1795
+  },
+  "duplicate_question_count": 150,
+  "duplicate_groups_sample": {
+    "assertion": [
+      "row_39",
+      "row_40"
+    ],
+    "given below are two statements labeled as assertion": [
+      "row_66",
+      "row_67",
+      "row_132",
+      "row_133"
+    ],
+    "there are two statements marked as assertion": [
+      "row_279",
+      "row_292",
+      "row_1530"
+    ],
+    "the pictures show the arrangement of electrons in the shells of different atoms. which two atoms have the same valency?": [
+      "row_966",
+      "row_1046"
+    ],
+    "which of these is common for all chemical changes?": [
+      "row_967",
+      "row_1047"
+    ],
+    "a mixture of sulphur and carbon disulfide is:": [
+      "row_968",
+      "row_1045"
+    ],
+    "in a laboratory, while doing an experiment, carbon dioxide was taken in an enclosed cylinder and compressed by applying pressure and keeping a low temperature. which state of matter we will obtain after completion of the above-given process?": [
+      "row_969",
+      "row_1043"
+    ],
+    "lignified, narrow, elongated and dead cells are found in": [
+      "row_970",
+      "row_1044"
+    ],
+    "which of the following figures does not represent bohr’s model of an atom correctly? 1 www.vedantu.com 4": [
+      "row_971",
+      "row_1048"
+    ],
+    "fats are stored in the human body as;": [
+      "row_973",
+      "row_1050"
+    ]
+  },
+  "empty_question_text_count": 0,
+  "empty_question_text_ids": [],
+  "questions_with_missing_metadata_count": 0,
+  "questions_with_missing_metadata_sample": [],
+  "class_subject_breakdown": {
+    "class10": {
+      "computer_application": 53,
+      "home_science": 90,
+      "maths": 126,
+      "social_science": 116
+    },
+    "class9": {
+      "maths": 466,
+      "science": 463,
+      "social_science": 481
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "local_auto": 246,
+  "local_chapter_only": 496,
+  "sent_to_gemini": 480,
+  "resolved_by_gemini": 15,
+  "review_required": 480,
+  "out_of_syllabus": 18,
+  "unclassifiable": 470,
+  "boilerplate": 1
+}

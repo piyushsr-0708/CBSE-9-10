@@ -1,0 +1,2101 @@
+{
+  "board": "CBSE",
+  "academic_year": "2026-27",
+  "class": "9",
+  "subject": "social_science",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/SocialScience_SecP1IX_2026-27.pdf",
+  "source_pdf": "cbse_class9_social_science_2026_27.pdf",
+  "extracted_at": "2026-09-29T19:06:51.580503+00:00",
+  "extraction_method": "official_pdf_verified_fallback",
+  "curriculum": [
+    {
+      "id": "CBSE9_SST_01",
+      "name": "allocation in",
+      "type": "chapter",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        8
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE9_SST_02",
+      "name": "instructional",
+      "type": "chapter",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        8
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE9_SST_03",
+      "name": "hours)",
+      "type": "chapter",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        8
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE9_SST_04",
+      "name": "Understandin g Social Science",
+      "type": "chapter",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        8
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SST_04_TOP01",
+          "name": "Meaning, scope and",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_04_TOP02",
+          "name": "relevance of Social",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_04_TOP03",
+          "name": "Science",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_04_TOP04",
+          "name": "Understanding Social",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_04_TOP05",
+          "name": "Science from an",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_04_TOP06",
+          "name": "Indian perspective",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SST_05",
+      "name": "Shaping of the Earth’s Surface",
+      "type": "chapter",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        8
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SST_05_TOP01",
+          "name": "Theory of plate",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_05_TOP02",
+          "name": "tectonics",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_05_TOP03",
+          "name": "Interior of the Earth",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_05_TOP04",
+          "name": "Role of weathering",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_05_TOP05",
+          "name": "and erosion; agents",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_05_TOP06",
+          "name": "of gradation — river,",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_05_TOP07",
+          "name": "waves and currents,",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_05_TOP08",
+          "name": "wind, glaciers, and",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_05_TOP09",
+          "name": "underground water",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_05_TOP10",
+          "name": "Landforms and",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_05_TOP11",
+          "name": "disasters:",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_05_TOP12",
+          "name": "earthquakes,",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_05_TOP13",
+          "name": "landslides,",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_05_TOP14",
+          "name": "avalanches, Glacial",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_05_TOP15",
+          "name": "Lake Outburst Flood",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_05_TOP16",
+          "name": "(GLOF) and",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_05_TOP17",
+          "name": "duststroms",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SST_06",
+      "name": "Atmosphere and Climate",
+      "type": "chapter",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        8
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SST_06_TOP01",
+          "name": "Structure and",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_06_TOP02",
+          "name": "composition; elements",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_06_TOP03",
+          "name": "of weather and climate",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_06_TOP04",
+          "name": "Seasons of India and",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_06_TOP05",
+          "name": "monsoons",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_06_TOP06",
+          "name": "Climate change",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_06_TOP07",
+          "name": "Floods",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        },
+        {
+          "id": "CBSE9_SST_06_TOP08",
+          "name": "Carbon footprint",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SST_07",
+      "name": "Early Humans and Beginning of Civilisation",
+      "type": "chapter",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        9
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SST_07_TOP01",
+          "name": "Cultural development",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ]
+        },
+        {
+          "id": "CBSE9_SST_07_TOP02",
+          "name": "from 2 million years",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ]
+        },
+        {
+          "id": "CBSE9_SST_07_TOP03",
+          "name": "ago",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ]
+        },
+        {
+          "id": "CBSE9_SST_07_TOP04",
+          "name": "Early human history,",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ]
+        },
+        {
+          "id": "CBSE9_SST_07_TOP05",
+          "name": "periodisation:",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ]
+        },
+        {
+          "id": "CBSE9_SST_07_TOP06",
+          "name": "Archaeological ages",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ]
+        },
+        {
+          "id": "CBSE9_SST_07_TOP07",
+          "name": "Who are human",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ]
+        },
+        {
+          "id": "CBSE9_SST_07_TOP08",
+          "name": "ancestors?",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ]
+        },
+        {
+          "id": "CBSE9_SST_07_TOP09",
+          "name": "Palaeolithic",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ]
+        },
+        {
+          "id": "CBSE9_SST_07_TOP10",
+          "name": "hunter-gatherers and",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ]
+        },
+        {
+          "id": "CBSE9_SST_07_TOP11",
+          "name": "use of stone tools",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SST_08",
+      "name": "State and Society",
+      "type": "chapter",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        9
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SST_08_TOP01",
+          "name": "Vedic Age —",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ]
+        },
+        {
+          "id": "CBSE9_SST_08_TOP02",
+          "name": "geography; texts;",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ]
+        },
+        {
+          "id": "CBSE9_SST_08_TOP03",
+          "name": "rituals; political",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ]
+        },
+        {
+          "id": "CBSE9_SST_08_TOP04",
+          "name": "institutions, and",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ]
+        },
+        {
+          "id": "CBSE9_SST_08_TOP05",
+          "name": "social order",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ]
+        },
+        {
+          "id": "CBSE9_SST_08_TOP06",
+          "name": "Administrative",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ]
+        },
+        {
+          "id": "CBSE9_SST_08_TOP07",
+          "name": "structure of early",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ]
+        },
+        {
+          "id": "CBSE9_SST_08_TOP08",
+          "name": "empires",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ]
+        },
+        {
+          "id": "CBSE9_SST_08_TOP09",
+          "name": "Quest for knowledge",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ]
+        },
+        {
+          "id": "CBSE9_SST_08_TOP10",
+          "name": "— educational",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ]
+        },
+        {
+          "id": "CBSE9_SST_08_TOP11",
+          "name": "heritage, institutions,",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ]
+        },
+        {
+          "id": "CBSE9_SST_08_TOP12",
+          "name": "knowledge traditions,",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ]
+        },
+        {
+          "id": "CBSE9_SST_08_TOP13",
+          "name": "and",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ]
+        },
+        {
+          "id": "CBSE9_SST_08_TOP14",
+          "name": "cultural practices",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SST_09",
+      "name": "Democracy",
+      "type": "chapter",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        10
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SST_09_TOP01",
+          "name": "Meaning features",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ]
+        },
+        {
+          "id": "CBSE9_SST_09_TOP02",
+          "name": "and types of",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ]
+        },
+        {
+          "id": "CBSE9_SST_09_TOP03",
+          "name": "democracy",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ]
+        },
+        {
+          "id": "CBSE9_SST_09_TOP04",
+          "name": "Roots of democracy in",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ]
+        },
+        {
+          "id": "CBSE9_SST_09_TOP05",
+          "name": "India",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ]
+        },
+        {
+          "id": "CBSE9_SST_09_TOP06",
+          "name": "Challenges to",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ]
+        },
+        {
+          "id": "CBSE9_SST_09_TOP07",
+          "name": "democracy in India",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ]
+        },
+        {
+          "id": "CBSE9_SST_09_TOP08",
+          "name": "Democratic systems in",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ]
+        },
+        {
+          "id": "CBSE9_SST_09_TOP09",
+          "name": "the world",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SST_10",
+      "name": "Elections",
+      "type": "chapter",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        10
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SST_10_TOP01",
+          "name": "Factors of importance",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ]
+        },
+        {
+          "id": "CBSE9_SST_10_TOP02",
+          "name": "of elections",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ]
+        },
+        {
+          "id": "CBSE9_SST_10_TOP03",
+          "name": "Electoral systems",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ]
+        },
+        {
+          "id": "CBSE9_SST_10_TOP04",
+          "name": "Delimitation",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ]
+        },
+        {
+          "id": "CBSE9_SST_10_TOP05",
+          "name": "Commission",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ]
+        },
+        {
+          "id": "CBSE9_SST_10_TOP06",
+          "name": "Election Commission",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ]
+        },
+        {
+          "id": "CBSE9_SST_10_TOP07",
+          "name": "of India and its role",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ]
+        },
+        {
+          "id": "CBSE9_SST_10_TOP08",
+          "name": "Constituency, electoral",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ]
+        },
+        {
+          "id": "CBSE9_SST_10_TOP09",
+          "name": "rolls, enumerators",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ]
+        },
+        {
+          "id": "CBSE9_SST_10_TOP10",
+          "name": "Party system in India",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SST_11",
+      "name": "The Price Puzzle: What Drives the Market",
+      "type": "chapter",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        11
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SST_11_TOP01",
+          "name": "Laws of demand and",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        },
+        {
+          "id": "CBSE9_SST_11_TOP02",
+          "name": "supply",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        },
+        {
+          "id": "CBSE9_SST_11_TOP03",
+          "name": "Real-world deviations",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        },
+        {
+          "id": "CBSE9_SST_11_TOP04",
+          "name": "from textbook theory,",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        },
+        {
+          "id": "CBSE9_SST_11_TOP05",
+          "name": "such as in case of",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        },
+        {
+          "id": "CBSE9_SST_11_TOP06",
+          "name": "necessities, luxury",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        },
+        {
+          "id": "CBSE9_SST_11_TOP07",
+          "name": "goods, perishable",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        },
+        {
+          "id": "CBSE9_SST_11_TOP08",
+          "name": "items, and",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        },
+        {
+          "id": "CBSE9_SST_11_TOP09",
+          "name": "expectations",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        },
+        {
+          "id": "CBSE9_SST_11_TOP10",
+          "name": "Some related",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        },
+        {
+          "id": "CBSE9_SST_11_TOP11",
+          "name": "concepts — price",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        },
+        {
+          "id": "CBSE9_SST_11_TOP12",
+          "name": "ceilings and market",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        },
+        {
+          "id": "CBSE9_SST_11_TOP13",
+          "name": "failures (externalities,",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        },
+        {
+          "id": "CBSE9_SST_11_TOP14",
+          "name": "information",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        },
+        {
+          "id": "CBSE9_SST_11_TOP15",
+          "name": "asymmetry, public",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        },
+        {
+          "id": "CBSE9_SST_11_TOP16",
+          "name": "goods)",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SST_12",
+      "name": "allocation",
+      "type": "chapter",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        11
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE9_SST_13",
+      "name": "instructional",
+      "type": "chapter",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        11
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE9_SST_14",
+      "name": "hours)",
+      "type": "chapter",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        11
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE9_SST_15",
+      "name": "Oceans and Life",
+      "type": "chapter",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        11
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SST_15_TOP01",
+          "name": "Introduction to ocean",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        },
+        {
+          "id": "CBSE9_SST_15_TOP02",
+          "name": "relief, movement of",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        },
+        {
+          "id": "CBSE9_SST_15_TOP03",
+          "name": "ocean water- waves,",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        },
+        {
+          "id": "CBSE9_SST_15_TOP04",
+          "name": "tides and currents",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        },
+        {
+          "id": "CBSE9_SST_15_TOP05",
+          "name": "Marine resources",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        },
+        {
+          "id": "CBSE9_SST_15_TOP06",
+          "name": "and their",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        },
+        {
+          "id": "CBSE9_SST_15_TOP07",
+          "name": "significance; open",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        },
+        {
+          "id": "CBSE9_SST_15_TOP08",
+          "name": "seas, navigation",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        },
+        {
+          "id": "CBSE9_SST_15_TOP09",
+          "name": "fishing, and livelihood",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        },
+        {
+          "id": "CBSE9_SST_15_TOP10",
+          "name": "concerns and",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        },
+        {
+          "id": "CBSE9_SST_15_TOP11",
+          "name": "challenges",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        },
+        {
+          "id": "CBSE9_SST_15_TOP12",
+          "name": "Cyclones and",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SST_16",
+      "name": "Life on Earth",
+      "type": "chapter",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        12
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SST_16_TOP01",
+          "name": "Biomes: Distribution",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_16_TOP02",
+          "name": "and characteristics;",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_16_TOP03",
+          "name": "biosphere reserves in",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_16_TOP04",
+          "name": "India",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_16_TOP05",
+          "name": "Forest and",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_16_TOP06",
+          "name": "ecotourism; forest",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_16_TOP07",
+          "name": "dwellers, their",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_16_TOP08",
+          "name": "livelihoods, and",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_16_TOP09",
+          "name": "challenges",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_16_TOP10",
+          "name": "Forest and wildlife",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_16_TOP11",
+          "name": "conservation",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_16_TOP12",
+          "name": "Government efforts",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_16_TOP13",
+          "name": "to support forest",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_16_TOP14",
+          "name": "dwellers",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SST_17",
+      "name": "Resistance and Resilience",
+      "type": "chapter",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        12
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SST_17_TOP01",
+          "name": "Safeguarding",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_17_TOP02",
+          "name": "sovereignty:",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_17_TOP03",
+          "name": "resistance, alliances",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_17_TOP04",
+          "name": "and confederacies",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_17_TOP05",
+          "name": "Development of art",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_17_TOP06",
+          "name": "and architecture,",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_17_TOP07",
+          "name": "languages and",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_17_TOP08",
+          "name": "literature",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_17_TOP09",
+          "name": "The Bhakti tradition",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_17_TOP10",
+          "name": "Forts and fortifications",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_17_TOP11",
+          "name": "Expansion of Indian",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_17_TOP12",
+          "name": "economy and state",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SST_18",
+      "name": "India and the World-I",
+      "type": "chapter",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        12
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SST_18_TOP01",
+          "name": "Trade and commerce",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_18_TOP02",
+          "name": "— trade with",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_18_TOP03",
+          "name": "Mesopotamia, Greece,",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_18_TOP04",
+          "name": "Roman Empire, China",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_18_TOP05",
+          "name": "and Southeast Asia",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_18_TOP06",
+          "name": "Cultural Connections",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_18_TOP07",
+          "name": "— Interactions with",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_18_TOP08",
+          "name": "Greece and Rome,",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_18_TOP09",
+          "name": "Central Asia,",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_18_TOP10",
+          "name": "China, and Influence",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        },
+        {
+          "id": "CBSE9_SST_18_TOP11",
+          "name": "on South East Asia",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SST_19",
+      "name": "Authorit y",
+      "type": "chapter",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        13
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SST_19_TOP01",
+          "name": "The Roots of Authority:",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_19_TOP02",
+          "name": "in Kautilya and",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_19_TOP03",
+          "name": "shukraniti- danda and",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_19_TOP04",
+          "name": "relationship with nyaya",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_19_TOP05",
+          "name": "and bala; the types of",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_19_TOP06",
+          "name": "nyaya and bala",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_19_TOP07",
+          "name": "Constitutional status",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_19_TOP08",
+          "name": "of justice and security",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_19_TOP09",
+          "name": "since ancient times",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_19_TOP10",
+          "name": "Links the role of",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_19_TOP11",
+          "name": "citizens with the",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_19_TOP12",
+          "name": "elections and the",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_19_TOP13",
+          "name": "democratic institutions",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_19_TOP14",
+          "name": "Types of authority —",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_19_TOP15",
+          "name": "functional, sensitive,",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_19_TOP16",
+          "name": "and welfare-oriented",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SST_20",
+      "name": "From Ideas to Startups",
+      "type": "chapter",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        13
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SST_20_TOP01",
+          "name": "What is",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_20_TOP02",
+          "name": "entrepreneurship and",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_20_TOP03",
+          "name": "explain the resources",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_20_TOP04",
+          "name": "required to start a",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_20_TOP05",
+          "name": "business",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_20_TOP06",
+          "name": "Case studies of",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_20_TOP07",
+          "name": "successful",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_20_TOP08",
+          "name": "entrepreneurs",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_20_TOP09",
+          "name": "Creative destruction",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_20_TOP10",
+          "name": "with examples",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_20_TOP11",
+          "name": "Start-up ecosystem in",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_20_TOP12",
+          "name": "India.",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_20_TOP13",
+          "name": "Make in India",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_20_TOP14",
+          "name": "initiative, role of",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_20_TOP15",
+          "name": "MSMEs and the",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_20_TOP16",
+          "name": "unorganised sector in",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_20_TOP17",
+          "name": "India’s economic",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_20_TOP18",
+          "name": "growth.",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_20_TOP19",
+          "name": "Stages of starting and",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_20_TOP20",
+          "name": "executing a business",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_20_TOP21",
+          "name": "idea through a",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_20_TOP22",
+          "name": "business plan",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_20_TOP23",
+          "name": "Some basic accounting",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        },
+        {
+          "id": "CBSE9_SST_20_TOP24",
+          "name": "concepts",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SST_21",
+      "name": "Smart Ways to Manage Your Finances",
+      "type": "chapter",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        14
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SST_21_TOP01",
+          "name": "Relevance of",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ]
+        },
+        {
+          "id": "CBSE9_SST_21_TOP02",
+          "name": "personal financial",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ]
+        },
+        {
+          "id": "CBSE9_SST_21_TOP03",
+          "name": "management in daily",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ]
+        },
+        {
+          "id": "CBSE9_SST_21_TOP04",
+          "name": "life",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ]
+        },
+        {
+          "id": "CBSE9_SST_21_TOP05",
+          "name": "Inflation and its impact",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ]
+        },
+        {
+          "id": "CBSE9_SST_21_TOP06",
+          "name": "on purchasing power",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ]
+        },
+        {
+          "id": "CBSE9_SST_21_TOP07",
+          "name": "Simple vs. compound",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ]
+        },
+        {
+          "id": "CBSE9_SST_21_TOP08",
+          "name": "interest rate",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ]
+        },
+        {
+          "id": "CBSE9_SST_21_TOP09",
+          "name": "Budgeting",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ]
+        },
+        {
+          "id": "CBSE9_SST_21_TOP10",
+          "name": "Various savings and",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ]
+        },
+        {
+          "id": "CBSE9_SST_21_TOP11",
+          "name": "investment options like",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ]
+        },
+        {
+          "id": "CBSE9_SST_21_TOP12",
+          "name": "fixed deposit, stocks,",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ]
+        },
+        {
+          "id": "CBSE9_SST_21_TOP13",
+          "name": "bonds, mutual funds,",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ]
+        },
+        {
+          "id": "CBSE9_SST_21_TOP14",
+          "name": "etc.",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ]
+        },
+        {
+          "id": "CBSE9_SST_21_TOP15",
+          "name": "Risk and insurance",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ]
+        },
+        {
+          "id": "CBSE9_SST_21_TOP16",
+          "name": "Personal income tax",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SST_22",
+      "name": "Description",
+      "type": "chapter",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        14
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SST_22_TOP01",
+          "name": "Marks",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SST_23",
+      "name": "Pen Paper Test",
+      "type": "chapter",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        14
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SST_23_TOP01",
+          "name": "5",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SST_24",
+      "name": "Quiz, debate, role play, viva-voce, group discussion, visual expression, interactive bulletin boards, gallery walks, exit cards, concept maps, peer assessment, self- assessment etc. through interdisciplinary project , Report Writing on field visits, Commentaries/visual interpretations, site-map making",
+      "type": "chapter",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        14
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SST_24_TOP01",
+          "name": "5",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SST_25",
+      "name": "Project work",
+      "type": "chapter",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        14
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SST_25_TOP01",
+          "name": "5",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE9_SST_26",
+      "name": "Name of the Book",
+      "type": "chapter",
+      "source_document": "cbse_class9_social_science_2026_27.pdf",
+      "source_pages": [
+        14
+      ],
+      "children": [
+        {
+          "id": "CBSE9_SST_26_TOP01",
+          "name": "Publisher",
+          "type": "topic",
+          "source_document": "cbse_class9_social_science_2026_27.pdf",
+          "source_pages": [
+            14
+          ]
+        }
+      ]
+    }
+  ]
+}

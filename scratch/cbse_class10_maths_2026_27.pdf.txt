@@ -1,0 +1,383 @@
+--- PAGE 1 ---
+Mathematics
+Subject Code – 041 & 241
+Class – X (2026-27)
+The Mathematics curriculum for the Secondary stage has been redesigned in
+alignment with the National Education Policy 2020 and the National Curriculum
+Framework for School Education (NCF – SE) 2023, prioritizing deep conceptual
+understanding and logical reasoning. The revised syllabus places strong emphasis
+on developing core mathematical competencies, including problem-solving,
+visualisation, mathematical modelling, mathematical communication, computational
+thinking, and data analytics. The syllabus integrate Indian Knowledge System with
+contemporary mathematical knowledge, highlighting the rich contributions of Indian
+mathematicians to foster a sense of pride and historical context. A deliberate shift
+from rote learning to competency-based education ensures that students build deep
+conceptual understanding and logical reasoning rather than mere procedural fluency.
+Greater emphasis has been laid on the integration of real-life applications and
+experiential learning, encouraging students to connect mathematical concepts with
+everyday situations and cross-disciplinary contexts. Greater emphasis has been laid
+on competency based learning outcomes encouraging students to connect
+mathematical concepts with everyday situations and inter-disciplinary contexts.
+Continuous and holistic assessment through projects, activities, and investigations
+forms an integral part of the learning process, moving beyond summative
+examinations.
+At the secondary stage, the curriculum focuses on developing essential global
+mathematical competencies, including mathematical representation through
+quantities and relations, mathematical modelling and algorithm building, and effective
+mathematical communication. The study of the number system, algebra, geometry,
+mensuration, statistics and probability is designed to build a strong foundation for
+higher education while enhancing functional life skills. The curriculum thus aims to
+build rich mathematical learning frameworks not only for higher academic pursuits
+but also for the practical demands of life in a rapidly changing, data-driven world.
+Objectives The broad objectives of teaching Mathematics at the secondary stage
+are to help the learners to:
+ develop logical thinking, critical reasoning, and a structured approach to
+problem-solving;
+ build the ability to recognise, analyse, and solve diverse problems with
+confidence and adaptability;
+ communicate mathematical ideas effectively using appropriate language,
+symbols, and representations;
+ appreciate the beauty, history, and real-life relevance of Mathematics as a
+discipline;
+
+--- PAGE 2 ---
+ connect mathematical concepts to fields such as Science, Technology,
+Engineering, and Economics;
+ engage in both collaborative and independent mathematical exploration and
+learning;
+ develop habits of precision, accuracy, and logical consistency in mathematical
+work;
+ build confidence to explore, experiment, and grow in mathematical
+understanding without fear of failure.
+
+--- PAGE 3 ---
+COURSE STRUCTURE CLASS –X
+Units Unit Name Marks
+I NUMBER SYSTEMS 06
+II ALGEBRA 20
+III COORDINATE GEOMETRY 06
+IV GEOMETRY 15
+V TRIGONOMETRY 12
+VI MENSURATION 10
+VII STATISTICS AND PROBABILITY 11
+TOTAL 80
+S. No. Content Competencies Explanation
+UNIT I: NUMBER SYSTEMS
+1. REAL NUMBERS  Develops understanding  Describes
+of numbers, including Fundamental
+1. Fundamental Theorem of the set of real numbers Theorem of Arithmetic
+Arithmetic - statements and its properties. with examples
+after reviewing work done  Extends the  Prove algebraically
+earlier and after illustrating understanding of the Irrationality of
+and motivating through powers (radical powers) numbers like
+examples and exponents. √2,√3,√5,3+2√5
+2. Proofs of irrationality of  Applies Fundamental etc.
+√2,√3,√5 Theorem of Arithmetic to
+solve problems related
+to real life contexts.
+UNIT II: ALGEBRA
+1. POLYNOMIALS  develops a relationship  Find the zeros of
+between algebraic and polynomial graphically
+1. Zeros of a polynomial graphical methods of and algebraically and
+2. Relationship between finding the zeroes of a verifying the relation
+zeros and coefficients of polynomial. between zeros and
+quadratic polynomials. coefficients of
+quadratic polynomials.
+
+--- PAGE 4 ---
+2. PAIR OF LINEAR EQUATIONS  Describes plotting a  Find the solution of pair
+IN TWO VARIABLES pair of linear equations of linear equations in
+and graphically finding two variables
+1. Pair of linear equations in the solution. graphically and
+two variables and graphical  Models and solves algebraically
+method of their solution, contextualised (substitution and
+consistency/inconsistency. problems using elimination method)
+equations (e.g.,
+2. Algebraic conditions for
+simultaneous linear
+number of solutions.
+equations in two
+3. Solution of a pair of linear variables).
+equations in two variables
+algebraically - by
+substitution, by elimination.
+Simple situational
+problems.
+3. QUADRATIC EQUATIONS  demonstrates strategies  Solves quadratic
+of finding roots and equations using
+1. Standard form of a quadratic determining the nature factorization and
+equation 𝑎𝑥2 +𝑏𝑥+𝑐 = of roots of a quadratic quadratic formula
+0,(𝑎 ≠ 0). equation.  Determines the nature
+of roots using
+2. Solutions of quadratic
+discriminant
+equations (only real roots)
+ Formulates and solves
+by factorization, and by
+problems based on
+using quadratic formula.
+real life context
+Relationship between
+discriminant and nature of
+roots.
+3. Situational problems based
+on quadratic equations
+related to day-to-day
+activities to be incorporated
+4. ARITHMETIC  Develops strategies to  Applies concepts of
+PROGRESSIONS apply the concept of A.P. AP to find the nth
+to daily life situations. term and sum of n
+1. Motivation for studying terms.
+Arithmetic Progression  Application of AP in
+real life problems
+2. Derivation of the nth term
+and sum of the first n terms
+of AP and their application in
+solving daily life problems.
+
+--- PAGE 5 ---
+UNIT III: COORDINATE GEOMETRY
+1. Coordinate Geometry  Derives formulae to  Solves problems
+establish relations for using distance
+1. Review: Concepts of
+geometrical shapes in formula and section
+coordinate geometry.
+the context of a formula
+Distance formula. Section
+coordinate plane, such
+formula (internal division).
+as, finding the distance
+between two given
+points, to determine the
+coordinates of a point
+between any two given
+points.
+UNIT IV: GEOMETRY
+1. TRIANGLES  works out ways to  Prove Basic
+differentiate between Proportionality
+Definitions, examples, counter
+congruent and similar theorem and applying
+examples of similar triangles.
+figures. the theorem and its
+1. (Prove) If a line is drawn
+ establishes properties converse in solving
+parallel to one side of a
+for similarity of two questions
+triangle to intersect the other
+triangles logically using  Prove similarity of
+two sides in distinct points,
+different geometric triangles using
+the other two sides are
+criteria established different similarity
+divided in the same ratio.
+earlier such as, Basic criteria
+2. State (without proof) If a line
+Proportionality
+divides two sides of a
+Theorem, etc.
+triangle in the same ratio, the
+line is parallel to the third
+side.
+3. State (without proof) If in two
+triangles, the corresponding
+angles are equal, their
+corresponding sides are
+proportional and the
+triangles are similar.
+4. State (without proof) If the
+corresponding sides of two
+triangles are proportional,
+their corresponding angles
+are equal and the two
+triangles are similar.
+State (without proof) If one
+5.
+angle of a triangle is equal to
+one angle of another triangle
+and the sides including these
+angles are proportional, the
+two triangles are similar.
+
+--- PAGE 6 ---
+2. CIRCLES  derives proofs of  Prove the theorems
+theorems related to the based on the tangent
+Tangent to a circle at point of tangents of circles. to a circle.
+contact.  Applies the concept of
+1. (Prove) The tangent at any tangents of circle to
+point of a circle is solve various
+perpendicular to the radius problems.
+through the point of
+contact.
+2. (Prove) The lengths of
+tangents drawn from an
+external point to a circle are
+equal.
+UNIT V: TRIGONOMETRY
+1. INTRODUCTION TO  Understands the  Evaluates
+TRIGONOMETRY definitions of the basic trigonometric ratios
+trigonometric functions  Describes
+1. Trigonometric ratios of an (including the trigonometric ratios of
+acute angle of a right-angled introduction of the sine standard angles and
+triangle. Proof of their and cosine functions). solving related
+existence (well defined) expressions
+2. Motivate the ratios
+whichever are defined at 0°
+and 90° . Values of the
+trigonometric ratios of 30° ,
+45° and 60°.
+3. Relationships between the
+ratios.
+2. TRIGONOMETRIC  Uses Trigonometric  Proves trigonometric
+IDENTITIES identities to solve identities using
+problems. sin2A + cos2A = 1
+1. Proof and applications of the and other identities
+identity sin2A + cos2A = 1.
+2. Only simple identities to be
+given.
+3. HEIGHTS AND DISTANCES:  Applies Trigonometric  Find heights and
+Angle of elevation, Angle of ratios in solving distances in real life
+Depression. problems in daily life word problems using
+contexts like finding trigonometric ratios
+1. Simple problems on heights heights of different
+and distances. Problems structures or distance
+should not involve more than from them.
+two right triangles. Angles of
+elevation / depression
+should be only 30°, 45°, and
+60°.
+
+--- PAGE 7 ---
+UNIT VI: MENSURATION
+1. AREAS RELATED TO  Derives and uses  Visualises and
+CIRCLES formulae to calculate evaluates areas of
+areas of plane figures. sector and segment of
+1. Area of sectors and
+a circle
+segments of a circle.
+2. Problems based on areas
+and perimeter
+/circumference of the above
+said plane figures. (In
+calculating area of segment
+of a circle, problems should
+be restricted to central angle
+of 60°, 90° and 120° only.
+2. SURFACE AREAS AND  Visualises and uses  Evaluates the surface
+VOLUMES mathematical thinking to areas and volumes of
+discover formulae to combinations of
+1. Surface areas and volumes calculate surface areas solids by visualisation
+of combinations of any two and volumes of solid
+of the following: cubes, objects (cubes, cuboids,
+cuboids, spheres, spheres, hemispheres,
+hemispheres and right right circular
+circular cylinders/cones. cylinders/cones, and
+their combinations).
+UNIT VII: STATISTICS AND PROBABILITY
+1. STATISTICS  calculates mean,  Computes the mean,
+median and mode for of a grouped
+1. Mean, median and mode of different sets of data frequency distribution
+grouped data (bimodal related with real life using direct,
+situation to be avoided). contexts. assumed mean and
+step deviation
+method.
+ Computes the
+median and mode of
+grouped frequency
+distribution by
+algebraic method
+2. PROBABILITY  Applies concepts from  Determines the
+probability to solve probabilities in simple
+1. Classical definition of problems on the real-life problems
+probability. likelihood of everyday
+2. Simple problems on finding events.
+the probability of an event.
+
+--- PAGE 8 ---
+MATHEMATICS- STANDARD (Code – 041)
+QUESTION PAPER DESIGN
+CLASS – X (2026-27)
+Time: 3 Hours Max. Marks: 80
+%
+S. Total
+Typology of Questions Weightage
+No.
+Marks
+(approx.)
+Remembering: Exhibit memory of previously learned material
+by recalling facts, terms, basic concepts, and answers.
+43 54
+1
+Understanding: Demonstrate understanding of facts and
+ideas by organizing, comparing, translating, interpreting,
+giving descriptions, and stating main ideas
+Applying: Solve problems to new situations by applying 19 24
+2
+acquired knowledge, facts, techniques and rules in a
+different way.
+Analysing:
+Examine and break information into parts by identifying
+motives or causes. Make inferences and find evidence to
+support generalizations
+Evaluating:
+18 22
+3
+Present and defend opinions by making judgments about
+information, validity of ideas, or quality of work based on a
+set of criteria.
+Creating:
+Compile information together in a different way by combining
+elements in a new pattern or proposing alternative solutions
+80 100
+Total
+INTERNAL ASSESSMENT 20 MARKS
+Pen Paper Test and Multiple Assessment (5+5) 10 Marks
+Portfolio 05 Marks
+Lab Practical (Lab activities to be done from the prescribed books) 05 Marks
+
+--- PAGE 9 ---
+MATHEMATICS-BASIC (Code – 241)
+QUESTION PAPER DESIGN
+CLASS – X (2026-27)
+Time: 3Hours Max. Marks: 80
+%
+S. Total
+Typology of Questions Weightage
+No. Marks
+(approx.)
+Remembering: Exhibit memory of previously learned material
+by recalling facts, terms, basic concepts, and answers.
+1 60 75
+Understanding: Demonstrate understanding of facts and
+ideas by organizing, comparing, translating, interpreting, giving
+descriptions, and stating main ideas
+Applying: Solve problems to new situations by applying
+12 15
+2
+acquired knowledge, facts, techniques and rules in a different
+way.
+Analysing:
+Examine and break information into parts by identifying
+motives or causes. Make inferences and find evidence to
+support generalizations 8 10
+3
+Evaluating:
+Present and defend opinions by making judgments about
+information, validity of ideas, or quality of work based on a set
+of criteria.
+Creating:
+Compile information together in a different way by combining
+elements in a new pattern or proposing alternative solutions
+80 100
+Total
+INTERNAL ASSESSMENT 20 MARKS
+Pen Paper Test and Multiple Assessment (5+5) 10 Marks
+Portfolio 05 Marks
+Lab Practical (Lab activities to be done from the prescribed books) 05 Marks
+
+--- PAGE 10 ---
+PRESCRIBED BOOKS:
+1. Mathematics - Textbook for class X - NCERT Publication
+2. Guidelines for Mathematics Laboratory in Schools, class X - CBSE Publication
+3. Laboratory Manual - Mathematics, secondary stage - NCERT Publication
+4. Mathematics exemplar problems for class X, NCERT publication.
+

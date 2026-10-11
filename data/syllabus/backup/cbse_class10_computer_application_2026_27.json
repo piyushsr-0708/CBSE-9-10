@@ -1,0 +1,297 @@
+{
+  "board": "CBSE",
+  "academic_year": "2026-27",
+  "class": "10",
+  "subject": "computer_application",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Computer_Applications_SecP1X_2026-27.pdf",
+  "source_pdf": "cbse_class10_computer_application_2026_27.pdf",
+  "extracted_at": "2026-09-29T19:06:50.410705+00:00",
+  "extraction_method": "generic_parser",
+  "curriculum": [
+    {
+      "id": "CBSE10_CA_01",
+      "name": "Networking",
+      "type": "chapter",
+      "source_document": "cbse_class10_computer_application_2026_27.pdf",
+      "source_pages": [
+        1
+      ],
+      "children": [
+        {
+          "id": "CBSE10_CA_01_TOP01",
+          "name": "Internet: World Wide Web, web servers, web clients, web sites, web pages,",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            1
+          ]
+        },
+        {
+          "id": "CBSE10_CA_01_TOP02",
+          "name": "Internet protocols: TCP/IP, SMTP, POP3, HTTP, HTTPS. Remote login and",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            1
+          ]
+        },
+        {
+          "id": "CBSE10_CA_01_TOP03",
+          "name": "Services available on the internet: information retrieval, locating sites using",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            2
+          ]
+        },
+        {
+          "id": "CBSE10_CA_01_TOP04",
+          "name": "Web services: chat, email, video conferencing, e-Learning, e-Banking,",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            2
+          ]
+        },
+        {
+          "id": "CBSE10_CA_01_TOP05",
+          "name": "Mobile technologies: SMS, MMS, 3G, 4G, 5G",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_CA_02",
+      "name": "HTML",
+      "type": "chapter",
+      "source_document": "cbse_class10_computer_application_2026_27.pdf",
+      "source_pages": [
+        2
+      ],
+      "children": [
+        {
+          "id": "CBSE10_CA_02_TOP01",
+          "name": "Introduction to web page designing using HTML: create and save an HTML",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            2
+          ]
+        },
+        {
+          "id": "CBSE10_CA_02_TOP02",
+          "name": "HTML tags: html, head, title, body, (attributes: text, background, bgcolor,",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            2
+          ]
+        },
+        {
+          "id": "CBSE10_CA_02_TOP03",
+          "name": "Font tags (attributes: face, size, color).",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            2
+          ]
+        },
+        {
+          "id": "CBSE10_CA_02_TOP04",
+          "name": "Insert images: img (attributes: src, width, height, alt), sup (super script),",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            2
+          ]
+        },
+        {
+          "id": "CBSE10_CA_02_TOP05",
+          "name": "HTML Forms: Textbox, radio buttons, checkbox, password, list, combobox.",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            2
+          ]
+        },
+        {
+          "id": "CBSE10_CA_02_TOP06",
+          "name": "Embed audio and video in a HTML page.",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            2
+          ]
+        },
+        {
+          "id": "CBSE10_CA_02_TOP07",
+          "name": "Create a table using the tags: table, tr, th, td, rowspan, colspan",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            2
+          ]
+        },
+        {
+          "id": "CBSE10_CA_02_TOP08",
+          "name": "Links: significance of linking, anchor element (attributes: href, mailto),",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            2
+          ]
+        },
+        {
+          "id": "CBSE10_CA_02_TOP09",
+          "name": "Cascading style sheets: colour, background-colour, border-style, margin,",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_CA_03",
+      "name": "Cyber ethics",
+      "type": "chapter",
+      "source_document": "cbse_class10_computer_application_2026_27.pdf",
+      "source_pages": [
+        2
+      ],
+      "children": [
+        {
+          "id": "CBSE10_CA_03_TOP01",
+          "name": "Netiquettes.",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            2
+          ]
+        },
+        {
+          "id": "CBSE10_CA_03_TOP02",
+          "name": "Software licenses and the open source software movement.",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            2
+          ]
+        },
+        {
+          "id": "CBSE10_CA_03_TOP03",
+          "name": "Intellectual property rights, plagiarism and digital property rights.",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            2
+          ]
+        },
+        {
+          "id": "CBSE10_CA_03_TOP04",
+          "name": "Freedom of information and the digital divide.",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            2
+          ]
+        },
+        {
+          "id": "CBSE10_CA_03_TOP05",
+          "name": "E-commerce: Privacy, fraud, secure data transmission.",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            2
+          ]
+        },
+        {
+          "id": "CBSE10_CA_03_TOP06",
+          "name": "Create static web pages.",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            2
+          ]
+        },
+        {
+          "id": "CBSE10_CA_03_TOP07",
+          "name": "Use style sheets to enforce a format in an HTML page (CSS).",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            3
+          ]
+        },
+        {
+          "id": "CBSE10_CA_03_TOP08",
+          "name": "Embed pictures, audio and videos in an HTML page.",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            3
+          ]
+        },
+        {
+          "id": "CBSE10_CA_03_TOP09",
+          "name": "Add tables and frames in an HTML page.",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            3
+          ]
+        },
+        {
+          "id": "CBSE10_CA_03_TOP10",
+          "name": "Decorate web pages using graphical elements.",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            3
+          ]
+        },
+        {
+          "id": "CBSE10_CA_03_TOP11",
+          "name": "Create a website using several web pages. Students may use any open",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            3
+          ]
+        },
+        {
+          "id": "CBSE10_CA_03_TOP12",
+          "name": "Work with HTML forms: text box, radio buttons, checkbox, password, list,",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            3
+          ]
+        },
+        {
+          "id": "CBSE10_CA_03_TOP13",
+          "name": "Write a blog using HTML pages discussing viruses, malware, spam and",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            3
+          ]
+        },
+        {
+          "id": "CBSE10_CA_03_TOP14",
+          "name": "Create a web page discussing plagiarism. List some reported cases of",
+          "type": "topic",
+          "source_document": "cbse_class10_computer_application_2026_27.pdf",
+          "source_pages": [
+            3
+          ]
+        }
+      ]
+    }
+  ]
+}

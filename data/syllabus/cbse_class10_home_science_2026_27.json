@@ -1,0 +1,82 @@
+{
+  "board": "CBSE",
+  "academic_year": "2026-27",
+  "class": "10",
+  "subject": "home_science",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Home_Science_SecP1X_2026-27.pdf",
+  "source_pdf": "cbse_class10_home_science_2026_27.pdf",
+  "extracted_at": "2026-09-30T18:02:08.173742+00:00",
+  "extraction_method": "table_aware_parser_v4",
+  "curriculum": [
+    {
+      "id": "CBSE10_HS_01",
+      "name": "Lab Activity",
+      "type": "topic",
+      "source_document": "cbse_class10_home_science_2026_27.pdf",
+      "source_pages": [
+        7
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_HS_02",
+      "name": "Plan a balanced meal for yourself.",
+      "type": "topic",
+      "source_document": "cbse_class10_home_science_2026_27.pdf",
+      "source_pages": [
+        7
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_HS_03",
+      "name": "Prepare a time plan for self for one day.",
+      "type": "topic",
+      "source_document": "cbse_class10_home_science_2026_27.pdf",
+      "source_pages": [
+        7
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_HS_04",
+      "name": "Remove any two stains from white cotton sample- curry, grease, ball pen, ink, lipstick, tea and coffee.",
+      "type": "topic",
+      "source_document": "cbse_class10_home_science_2026_27.pdf",
+      "source_pages": [
+        7
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_HS_05",
+      "name": "Play Material",
+      "type": "topic",
+      "source_document": "cbse_class10_home_science_2026_27.pdf",
+      "source_pages": [
+        7
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_HS_06",
+      "name": "File Work",
+      "type": "topic",
+      "source_document": "cbse_class10_home_science_2026_27.pdf",
+      "source_pages": [
+        7
+      ],
+      "children": []
+    },
+    {
+      "id": "CBSE10_HS_07",
+      "name": "Viva",
+      "type": "topic",
+      "source_document": "cbse_class10_home_science_2026_27.pdf",
+      "source_pages": [
+        7
+      ],
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "board": "CBSE",
+  "academic_year": "2026-27",
+  "class": "10",
+  "subject": "computer_application",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Computer_Applications_SecP1X_2026-27.pdf",
+  "source_pdf": "cbse_class10_computer_application_2026_27.pdf",
+  "extracted_at": "2026-09-30T18:02:07.118623+00:00",
+  "extraction_method": "gemini_repaired",
+  "curriculum": [
+    {
+      "name": "Networking",
+      "type": "unit",
+      "children": [],
+      "id": "CBSE10_CA_01"
+    },
+    {
+      "name": "HTML",
+      "type": "unit",
+      "children": [],
+      "id": "CBSE10_CA_02"
+    },
+    {
+      "name": "Cyber ethics",
+      "type": "unit",
+      "children": [],
+      "id": "CBSE10_CA_03"
+    },
+    {
+      "name": "Practicals",
+      "type": "unit",
+      "children": [],
+      "id": "CBSE10_CA_04"
+    }
+  ]
+}

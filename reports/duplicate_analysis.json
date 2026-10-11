@@ -1,0 +1,1237 @@
+{
+  "generated_at": "2026-09-28T14:06:15.652716+00:00",
+  "total_questions": 1795,
+  "unique_underlying_questions": 1726,
+  "total_duplicate_groups": 68,
+  "duplicate_groups": [
+    {
+      "group_id": "DUP_0001",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "the pictures show the arrangement of electrons in the shells of different atoms. which two atoms hav...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0002",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "in a laboratory, while doing an experiment, carbon dioxide was taken in an enclosed cylinder and com...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0003",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "which of the following figures does not represent bohr\u2019s model of an atom correctly? 1 www.vedantu.c...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0004",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "what would be the valency of an element that is chemically inactive?",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0005",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "a few substances are arranged in the increasing order of forces of attraction between their particle...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0006",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "contractile proteins are found in:",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0007",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "which of these is an alloy?",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0008",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "the area below v-t graph is a measure of:",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0009",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "on converting 25\u00b0c, 38\u00b0c and 66\u00b0c to kelvin scale, the correct sequence of temperatures will be: (a)...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0010",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "assertion (a): when heat energy is supplied to the solid, it starts melting. reason (r): solid parti...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0011",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "assertion (a): permanent tissue is composed of mature cells. reason (r): meristematic tissue is a gr...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0012",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "assertion (a): motion of satellites around their planets is considered an accelerated motion. reason...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0013",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "assertion (a): atom is electrically neutral. reason (r): a neutral particle, neutron is present in t...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0014",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "list any two characteristics of colloid. 2",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0015",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "give any two functions of plastids. 2",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0016",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "give an example for each of the following:",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0017",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "(a) define latent heat of vaporisation.",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0018",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "why are lysosomes known as suicidal bags? 3",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0019",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "list the characteristics of cork. how are they formed? mention their role. 3",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0020",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "how defects in a metal block can be detected by using ultrasound? explain. 3 section d 15",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0021",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "(a) out of boiling and evaporation which is a surface phenomenon? explain. in the absence of a refri...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0022",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "option",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0023",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "option",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0024",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "option",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0025",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "option",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0026",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "option",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0027",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "option",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0028",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "(b) all of these explanation: plasmolysis is when the contents of a plant cell shrink away from its ...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0029",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "option",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0030",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "option",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0031",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "option",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0032",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "option",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0033",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "(b) both a and r are true but r is not the correct explanation of",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0034",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "cell size may range from a few micrometers to a meter. support this statement with examples. cells c...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0035",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "negative work is done when the displacement is in the opposite orientation of the force delivered. s...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0036",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "lysosomes are called \"suicidal bags\" because they contain enzymes that can break down and digest the...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0037",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "(a) power is the rate of doing work. 1 power = work 1 joule time 1 second = 1 watt or 1 w",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0038",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "ultrasound can be used to identify cracks and defects inside metal blocks. these internal cracks or ...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0039",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "(a) phloem i",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0040",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "(a) prokaryotic cell",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 2 (2026-27) FREE Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0041",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "(a) define power. derive its si unit.",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Paper Set 4 (2026-27) - FREE PDF Download.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0042",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "to prepare iron sulphide, by heating a mixture of iron filings and sulphur powder, we should use",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0043",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "plasmolysis in a plant cell is defined as",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0044",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "a signal from a space ship reaches the ground in 5 minutes. what was the distance of the space ship ...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0045",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "three students used three different containers",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0046",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "smooth muscle consists of __________ filaments that are not arranged into sarcomeres giving it a non...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0047",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "the boiling points of diethyl ether, acetone, and n-butyl alcohol are 35\u00b0c, 56\u00b0c and 118\u00b0c, respecti...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0048",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "the smooth muscle consists of _______________. each fibre contains a single oval nucleus in its thic...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0049",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "which of one of the following nutrients is not available in fertilisers.",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0050",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "assertion (a): solids do not diffuse in air. reason (r): the particles are closely packed in solids....",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0051",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "assertion (a): particles of gas intermix with each other.\u2019 reason (r): the intermixing of particles ...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0052",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "assertion (a): lysosomes are known as suicidal hag of cells. reason (r): lysosomes contain powerful ...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0053",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "in the oil tankers some space is left at the top while filling them. explain. or explain why some of...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0054",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "when vertically jerk is given to a string, transerve waves are formed. give three features of these ...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0055",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "write three differences between prokaryotic and eukaryotic cells. or there are. two elements a and",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0056",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "the table lists the properties of four substances.",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0057",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "(d) q and s explanation: chromatogram of food sample does not match with the chromatograms of compon...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0058",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "(b) shrinkage of cytoplasm in hypertonic medium explanation: plasmolysis is mainly known as shrinkin...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0059",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "(c) tracheids explanation: gymnosperms are characterised by the presence of tracheids as their major...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0060",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "d) same in all explanation: loss in weight depends on the liquid density and volume displaced (= vol...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0061",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "(b) conversion of solid into vapour without passing through the liquid state is called sublimation. ...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0062",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "(b) long, narrow unbranched spindle-shaped fibres explanation: the smooth muscle consists of long, n...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0063",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "(d) evaporation explanation: it is because of the phenomenon called evaporation. an earthen pot has ...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0064",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "(d) substance 1: gas, substance 2: solid, substance 3: liquidis correct explanation: in solids, mole...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0065",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "thoroughly dry a glass beaker and take some crushed ice in it. after sometime, droplets of water app...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0066",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "three features of transverse waves are: i. the particles of the medium vibrate at right angles to th...",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0067",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "(a) power is the rate of doing work. 1 power = work 1 joule ( ) time 1 second = 1 watt or 1 w",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    },
+    {
+      "group_id": "DUP_0068",
+      "canonical_question_id": null,
+      "duplicate_type": "different_sources",
+      "question_text_preview": "(a) substance 1, as it is shiny and conducts electricity very well.",
+      "occurrences": [
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "CBSE Class 9 Science Sample Question Paper (Set 1) 2026-27 FREE PDF.pdf"
+        },
+        {
+          "question_id": null,
+          "session": "2026-27",
+          "source_file": "Class 9 Science Sample Paper Set 3 Download FREE PDF for 2026-27.pdf"
+        }
+      ]
+    }
+  ]
+}

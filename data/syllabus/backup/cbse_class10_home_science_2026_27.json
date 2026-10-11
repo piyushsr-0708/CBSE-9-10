@@ -1,0 +1,618 @@
+{
+  "board": "CBSE",
+  "academic_year": "2026-27",
+  "class": "10",
+  "subject": "home_science",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Home_Science_SecP1X_2026-27.pdf",
+  "source_pdf": "cbse_class10_home_science_2026_27.pdf",
+  "extracted_at": "2026-09-29T19:06:51.513939+00:00",
+  "extraction_method": "generic_parser",
+  "curriculum": [
+    {
+      "id": "CBSE10_HS_01",
+      "name": "Human Growth & Development – II",
+      "type": "chapter",
+      "source_document": "cbse_class10_home_science_2026_27.pdf",
+      "source_pages": [
+        2
+      ],
+      "children": [
+        {
+          "id": "CBSE10_HS_01_TOP01",
+          "name": "Definition",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            2
+          ]
+        },
+        {
+          "id": "CBSE10_HS_01_TOP02",
+          "name": "Role of play in growth & development of children",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            2
+          ]
+        },
+        {
+          "id": "CBSE10_HS_01_TOP03",
+          "name": "Types of play",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            2
+          ]
+        },
+        {
+          "id": "CBSE10_HS_01_TOP04",
+          "name": "Selection of play material for children",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            3
+          ]
+        },
+        {
+          "id": "CBSE10_HS_01_TOP05",
+          "name": "Early and Middle childhood",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            3
+          ]
+        },
+        {
+          "id": "CBSE10_HS_01_TOP06",
+          "name": "Age specific milestones",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            3
+          ]
+        },
+        {
+          "id": "CBSE10_HS_01_TOP07",
+          "name": "Special Features",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_HS_02",
+      "name": "Management of Resources: Time and Energy",
+      "type": "chapter",
+      "source_document": "cbse_class10_home_science_2026_27.pdf",
+      "source_pages": [
+        3
+      ],
+      "children": [
+        {
+          "id": "CBSE10_HS_02_TOP01",
+          "name": "Definition",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            3
+          ]
+        },
+        {
+          "id": "CBSE10_HS_02_TOP02",
+          "name": "Importance",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            3
+          ]
+        },
+        {
+          "id": "CBSE10_HS_02_TOP03",
+          "name": "Time plan - Definition, Factors , Steps",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            3
+          ]
+        },
+        {
+          "id": "CBSE10_HS_02_TOP04",
+          "name": "Definition",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            3
+          ]
+        },
+        {
+          "id": "CBSE10_HS_02_TOP05",
+          "name": "Importance",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            3
+          ]
+        },
+        {
+          "id": "CBSE10_HS_02_TOP06",
+          "name": "Types",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            3
+          ]
+        },
+        {
+          "id": "CBSE10_HS_02_TOP07",
+          "name": "Ways to reduce fatigue",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            3
+          ]
+        },
+        {
+          "id": "CBSE10_HS_02_TOP08",
+          "name": "Definition",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        },
+        {
+          "id": "CBSE10_HS_02_TOP09",
+          "name": "Ways",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_HS_03",
+      "name": "Food and Personal Hygiene",
+      "type": "chapter",
+      "source_document": "cbse_class10_home_science_2026_27.pdf",
+      "source_pages": [
+        4
+      ],
+      "children": [
+        {
+          "id": "CBSE10_HS_03_TOP01",
+          "name": "Selecting food",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        },
+        {
+          "id": "CBSE10_HS_03_TOP02",
+          "name": "Cooking food",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        },
+        {
+          "id": "CBSE10_HS_03_TOP03",
+          "name": "Serving of food",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        },
+        {
+          "id": "CBSE10_HS_03_TOP04",
+          "name": "Left overs",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        },
+        {
+          "id": "CBSE10_HS_03_TOP05",
+          "name": "Refrigerator",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_HS_04",
+      "name": "Meal Planning",
+      "type": "chapter",
+      "source_document": "cbse_class10_home_science_2026_27.pdf",
+      "source_pages": [
+        4
+      ],
+      "children": [
+        {
+          "id": "CBSE10_HS_04_TOP01",
+          "name": "Definition",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        },
+        {
+          "id": "CBSE10_HS_04_TOP02",
+          "name": "Importance",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        },
+        {
+          "id": "CBSE10_HS_04_TOP03",
+          "name": "Age",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        },
+        {
+          "id": "CBSE10_HS_04_TOP04",
+          "name": "Sex",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        },
+        {
+          "id": "CBSE10_HS_04_TOP05",
+          "name": "Climate",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        },
+        {
+          "id": "CBSE10_HS_04_TOP06",
+          "name": "Occupation",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        },
+        {
+          "id": "CBSE10_HS_04_TOP07",
+          "name": "Cost of food items",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        },
+        {
+          "id": "CBSE10_HS_04_TOP08",
+          "name": "Number of family members",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        },
+        {
+          "id": "CBSE10_HS_04_TOP09",
+          "name": "Occasion",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        },
+        {
+          "id": "CBSE10_HS_04_TOP10",
+          "name": "Availability of food",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        },
+        {
+          "id": "CBSE10_HS_04_TOP11",
+          "name": "Family traditions",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        },
+        {
+          "id": "CBSE10_HS_04_TOP12",
+          "name": "Likes and dislikes",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        },
+        {
+          "id": "CBSE10_HS_04_TOP13",
+          "name": "Cereals, grains and their products",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        },
+        {
+          "id": "CBSE10_HS_04_TOP14",
+          "name": "Pulses and Legumes",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        },
+        {
+          "id": "CBSE10_HS_04_TOP15",
+          "name": "Milk, egg and meat products",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        },
+        {
+          "id": "CBSE10_HS_04_TOP16",
+          "name": "Vegetables and Fruits",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        },
+        {
+          "id": "CBSE10_HS_04_TOP17",
+          "name": "Fats and Sugar",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_HS_05",
+      "name": "Food Safety and Consumer Education",
+      "type": "chapter",
+      "source_document": "cbse_class10_home_science_2026_27.pdf",
+      "source_pages": [
+        5
+      ],
+      "children": [
+        {
+          "id": "CBSE10_HS_05_TOP01",
+          "name": "Price variation",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ]
+        },
+        {
+          "id": "CBSE10_HS_05_TOP02",
+          "name": "Poor quality",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ]
+        },
+        {
+          "id": "CBSE10_HS_05_TOP03",
+          "name": "Faulty weights and measures",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ]
+        },
+        {
+          "id": "CBSE10_HS_05_TOP04",
+          "name": "Non-availability of goods",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ]
+        },
+        {
+          "id": "CBSE10_HS_05_TOP05",
+          "name": "Misleading information",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ]
+        },
+        {
+          "id": "CBSE10_HS_05_TOP06",
+          "name": "Lack of standardized products",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ]
+        },
+        {
+          "id": "CBSE10_HS_05_TOP07",
+          "name": "Concept",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ]
+        },
+        {
+          "id": "CBSE10_HS_05_TOP08",
+          "name": "Adulterants (Metanil yellow, Argemone, Kesari dal)",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ]
+        },
+        {
+          "id": "CBSE10_HS_05_TOP09",
+          "name": "Harmful effects of these adulterants on human health",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ]
+        },
+        {
+          "id": "CBSE10_HS_05_TOP10",
+          "name": "Concept of",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ]
+        },
+        {
+          "id": "CBSE10_HS_05_TOP11",
+          "name": "Functions of FSSAI",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CBSE10_HS_06",
+      "name": "Care and Maintenance of Fabrics and Apparel",
+      "type": "chapter",
+      "source_document": "cbse_class10_home_science_2026_27.pdf",
+      "source_pages": [
+        5
+      ],
+      "children": [
+        {
+          "id": "CBSE10_HS_06_TOP01",
+          "name": "Soaps and Detergents",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ]
+        },
+        {
+          "id": "CBSE10_HS_06_TOP02",
+          "name": "Blue, Stiffening agents, Bleaches and Stain removing reagents",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ]
+        },
+        {
+          "id": "CBSE10_HS_06_TOP03",
+          "name": "Definition",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ]
+        },
+        {
+          "id": "CBSE10_HS_06_TOP04",
+          "name": "Classification",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ]
+        },
+        {
+          "id": "CBSE10_HS_06_TOP05",
+          "name": "Identification",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ]
+        },
+        {
+          "id": "CBSE10_HS_06_TOP06",
+          "name": "Methods of stain removal",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ]
+        },
+        {
+          "id": "CBSE10_HS_06_TOP07",
+          "name": "Precautions to remove stains",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ]
+        },
+        {
+          "id": "CBSE10_HS_06_TOP08",
+          "name": "Cotton",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ]
+        },
+        {
+          "id": "CBSE10_HS_06_TOP09",
+          "name": "Silk",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ]
+        },
+        {
+          "id": "CBSE10_HS_06_TOP10",
+          "name": "Wool",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ]
+        },
+        {
+          "id": "CBSE10_HS_06_TOP11",
+          "name": "Synthetics",
+          "type": "topic",
+          "source_document": "cbse_class10_home_science_2026_27.pdf",
+          "source_pages": [
+            5
+          ]
+        }
+      ]
+    }
+  ]
+}

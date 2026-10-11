@@ -1,0 +1,99 @@
+{
+  "generated_at": "2026-09-28T13:48:28.150657+00:00",
+  "academic_year": "2026-27",
+  "curriculum_discovery_url": "https://cbseacademic.nic.in/curriculum_2027.html",
+  "documents": [
+    {
+      "source_name": "CBSE Academic",
+      "source_url": "https://cbseacademic.nic.in/curriculum_2027.html",
+      "document_url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Computer_Applications_SecP1X_2026-27.pdf",
+      "document_title": "CBSE 2026-27 Secondary Curriculum - Class 10 Computer Applications",
+      "academic_year": "2026-27",
+      "class": "10",
+      "subject_csv": "computer_application",
+      "subject_cbse": "Computer Applications",
+      "retrieved_at": "2026-09-28T13:48:15.265556+00:00",
+      "local_file": "D:\\CBSE910\\data\\raw\\cbse_class10_computer_application_2026_27.pdf",
+      "download_status": "success"
+    },
+    {
+      "source_name": "CBSE Academic",
+      "source_url": "https://cbseacademic.nic.in/curriculum_2027.html",
+      "document_url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Home_Science_SecP1X_2026-27.pdf",
+      "document_title": "CBSE 2026-27 Secondary Curriculum - Class 10 Home Science",
+      "academic_year": "2026-27",
+      "class": "10",
+      "subject_csv": "home_science",
+      "subject_cbse": "Home Science",
+      "retrieved_at": "2026-09-28T13:48:16.476205+00:00",
+      "local_file": "D:\\CBSE910\\data\\raw\\cbse_class10_home_science_2026_27.pdf",
+      "download_status": "success"
+    },
+    {
+      "source_name": "CBSE Academic",
+      "source_url": "https://cbseacademic.nic.in/curriculum_2027.html",
+      "document_url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Maths_SecP1X_2026-27.pdf",
+      "document_title": "CBSE 2026-27 Secondary Curriculum - Class 10 Mathematics",
+      "academic_year": "2026-27",
+      "class": "10",
+      "subject_csv": "maths",
+      "subject_cbse": "Mathematics",
+      "retrieved_at": "2026-09-28T13:48:17.863003+00:00",
+      "local_file": "D:\\CBSE910\\data\\raw\\cbse_class10_maths_2026_27.pdf",
+      "download_status": "success"
+    },
+    {
+      "source_name": "CBSE Academic",
+      "source_url": "https://cbseacademic.nic.in/curriculum_2027.html",
+      "document_url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Maths_SecP1IX_2026-27.pdf",
+      "document_title": "CBSE 2026-27 Secondary Curriculum - Class 9 Mathematics",
+      "academic_year": "2026-27",
+      "class": "9",
+      "subject_csv": "maths",
+      "subject_cbse": "Mathematics",
+      "retrieved_at": "2026-09-28T13:48:19.485641+00:00",
+      "local_file": "D:\\CBSE910\\data\\raw\\cbse_class9_maths_2026_27.pdf",
+      "download_status": "success"
+    },
+    {
+      "source_name": "CBSE Academic",
+      "source_url": "https://cbseacademic.nic.in/curriculum_2027.html",
+      "document_url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/SocialScience_SecP1X_2026-27.pdf",
+      "document_title": "CBSE 2026-27 Secondary Curriculum - Class 10 Social Science",
+      "academic_year": "2026-27",
+      "class": "10",
+      "subject_csv": "social_science",
+      "subject_cbse": "Social Science",
+      "retrieved_at": "2026-09-28T13:48:21.749213+00:00",
+      "local_file": "D:\\CBSE910\\data\\raw\\cbse_class10_social_science_2026_27.pdf",
+      "download_status": "success"
+    },
+    {
+      "source_name": "CBSE Academic",
+      "source_url": "https://cbseacademic.nic.in/curriculum_2027.html",
+      "document_url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/SocialScience_SecP1IX_2026-27.pdf",
+      "document_title": "CBSE 2026-27 Secondary Curriculum - Class 9 Social Science",
+      "academic_year": "2026-27",
+      "class": "9",
+      "subject_csv": "social_science",
+      "subject_cbse": "Social Science",
+      "retrieved_at": "2026-09-28T13:48:24.542148+00:00",
+      "local_file": "D:\\CBSE910\\data\\raw\\cbse_class9_social_science_2026_27.pdf",
+      "download_status": "success"
+    },
+    {
+      "source_name": "CBSE Academic",
+      "source_url": "https://cbseacademic.nic.in/curriculum_2027.html",
+      "document_url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/ScienceSt_SecP1_2026-27.pdf",
+      "document_title": "CBSE 2026-27 Secondary Curriculum - Class 9 Science",
+      "academic_year": "2026-27",
+      "class": "9",
+      "subject_csv": "science",
+      "subject_cbse": "Science",
+      "retrieved_at": "2026-09-28T13:48:26.508334+00:00",
+      "local_file": "D:\\CBSE910\\data\\raw\\cbse_class9_science_2026_27.pdf",
+      "download_status": "success"
+    }
+  ],
+  "failed": []
+}

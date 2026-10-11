@@ -1,0 +1,12 @@
+{
+  "total_original_records": 1795,
+  "total_canonical_questions": 1726,
+  "auto_verified": 30,
+  "review_required": 4,
+  "unclassifiable": 16,
+  "errors": 0,
+  "average_confidence": 0.9710000000000001,
+  "requires_visual_context": 2,
+  "failed_ids": [],
+  "skipped_checkpointed": 0
+}
